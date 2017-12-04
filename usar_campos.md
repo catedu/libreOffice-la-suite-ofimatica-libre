@@ -6,5 +6,5 @@ Para insertar **campos **en su documento, vaya a **Insertar - Campos**. Será
 
 
 
-<iframe width="960" height="569" src="https://docs.google.com/presentation/d/1yzjm2oxhl_W4cBJ06SeNhwzXWTwfW_B02epYrRCSui0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe><br />
+<iframe width="100%" height="569" src="https://docs.google.com/presentation/d/1yzjm2oxhl_W4cBJ06SeNhwzXWTwfW_B02epYrRCSui0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe><br />
 

@@ -3,15 +3,15 @@
 * [Introducción](README.md)
 
 ____
-### 
-* [1. Código abierto, estándares abiertos y OpenDocument](index0.md)
+### 1. Código abierto, estándares abiertos y OpenDocument
+* [Código abierto, estándares abiertos y OpenDocument](index0.md)
 * [La comunidad LibreOffice](la_comunidad_libreoffice.md)
 * [¿Qué son los "estándares abiertos"?](qu_son_los_estndares_abiertos.md)
 * [Formatos que abre/guarda LibreOffice](formatos_que_abreguarda_libreoffice.md)
-* [CrÃ©ditos](crditos.md)
+* [Créditos](crditos.md)
 ____
-### 1. Código abierto, estándares abiertos y OpenDocument2. ¿Qué es LibreOffice?
-* [2. ¿Qué es LibreOffice?](index1.md)
+### 2. ¿Qué es LibreOffice?
+* [¿Qué es LibreOffice?](index1.md)
 * [1. Comenzando a usar LibreOffice](1_comenzando_a_usar_libreoffice.md)
 * [2. Interfaz](2_interfaz.md)
 * [3. Manejando documentos](3_manejando_documentos.md)
@@ -21,10 +21,10 @@ ____
 * [7. Enviar documentos por correo electrónico](7_enviar_documentos_por_correo_electrnico.md)
 * [8. Firmado digital de documentos](8_firmado_digital_de_documentos.md)
 * [9. Añadiendo extensiones](9_aadiendo_extensiones.md)
-* [CrÃ©ditos](crditos1.md)
+* [Créditos](crditos1.md)
 ____
 ### 3. Estilos, plantillas y gráficos
-* [3. Estilos, plantillas y gráficos](index2.md)
+* [Estilos, plantillas y gráficos](index2.md)
 * [¿Qué son los estilos?](qu_son_los_estilos.md)
     * [Aplicar estilos](aplicar_estilos.md)
     * [Modificar los estilos](modificar_los_estilos.md)
@@ -43,17 +43,17 @@ ____
     * [Usar la Galería de LibreOffice](usar_la_galera_de_libreoffice.md)
     * [¿Qué es Fontwork?](qu_es_fontwork.md)
     * [Crear un objeto de Fontwork](crear_un_objeto_de_fontwork.md)
-* [CrÃ©ditos](crditos2.md)
+* [Créditos](crditos2.md)
 ____
 ### 4. Primeros pasos con Writer
-* [4. Primeros pasos con Writer](index3.md)
+* [Primeros pasos con Writer](index3.md)
 * [La interfaz de Writer](la_interfaz_de_writer.md)
 * [Trabajar con texto](trabajar_con_texto.md)
     * [Seleccionar](seleccionar.md)
     * [Cortar, copiar y pegar textos](cortar_copiar_y_pegar_textos.md)
     * [Encontrar y remplazar textos y formatos](encontrar_y_remplazar_textos_y_formatos.md)
     * [Insertar caracteres especiales](insertar_caracteres_especiales.md)
-    * [Configurar tabulaciones y sangrÃ­as](configurar_tabulaciones_y_sangras.md)
+    * [Configurar tabulaciones y sangrí­as](configurar_tabulaciones_y_sangras.md)
     * [Comprobar la ortografía y la gramática](comprobar_la_ortografa_y_la_gramtica.md)
     * [Usar la corrección automática](usar_la_correccin_automtica.md)
     * [Usar la compleción de palabras](usar_la_complecin_de_palabras.md)
@@ -78,7 +78,7 @@ ____
 * [Usar marcas de texto](usar_marcas_de_texto.md)
 * [Usar documentos maestros](usar_documentos_maestros.md)
 * [Crear formularios](crear_formularios.md)
-* [CrÃ©ditos](crditos3.md)
+* [Créditos](crditos3.md)
 ____
 ### 5. Primeros pasos con Impress
 * [¿Qué es Impress?](index4.md)
@@ -102,7 +102,7 @@ ____
 * [Añadir comentarios](aadir_comentarios.md)
 * [Configurar la presentación final](configurar_la_presentacin_final.md)
 * [Ejecutar la presentación final](ejecutar_la_presentacin_final.md)
-* [CrÃ©ditos](crditos4.md)
+* [Créditos](crditos4.md)
 ____
 ### 6. Primeros pasos con Calc
 * [¿Qué es Calc?](index5.md)
@@ -118,9 +118,9 @@ ____
 * [Editar datos](editar_datos.md)
 * [Dar formato a los datos](dar_formato_a_los_datos.md)
     * [Usar ajuste de línea automático](usar_ajuste_de_lnea_automtico.md)
-    * [Usar saltos de lÃ­nea manual](usar_saltos_de_lnea_manual.md)
+    * [Usar saltos de lí­nea manual](usar_saltos_de_lnea_manual.md)
     * [Contraer texto para ajustarse a la celda](contraer_texto_para_ajustarse_a_la_celda.md)
-    * [Dar formato a los nÃºmeros](dar_formato_a_los_nmeros.md)
+    * [Dar formato a los níºmeros](dar_formato_a_los_nmeros.md)
     * [Dar formato a los caracteres](dar_formato_a_los_caracteres.md)
     * [Dar formato a la celda](dar_formato_a_la_celda.md)
 * [Formato automático de celdas y hojas](formato_automtico_de_celdas_y_hojas.md)
@@ -152,7 +152,7 @@ ____
     * [EXP - LN - LOG10 - POTENCIA - RAIZ - RESIDUO](exp__ln__log10__potencia__raiz__residuo.md)
     * [PAGO -TASA - NPER - VA - VF](pago_tasa__nper__va__vf.md)
     * [Mensajes de error más habituales](mensajes_de_error_ms_habituales.md)
-* [CrÃ©ditos](crditos5.md)
+* [Créditos](crditos5.md)
 ____
 ### 7. Primeros pasos con Base
 * [¿Qué es Base?](index6.md)
@@ -170,7 +170,7 @@ ____
     * [Modificar un formulario](modificar_un_formulario.md)
         * [Paso 1: cambiar el campo Fecha](paso_1_cambiar_el_campo_fecha.md)
         * [Paso 2: reducir el ancho de algunos campos](paso_2_reducir_el_ancho_de_algunos_campos.md)
-        * [Paso 3: mover los controles para agruparlos por categorÃ­as](paso_3_mover_los_controles_para_agruparlos_por_categoras.md)
+        * [Paso 3: mover los controles para agruparlos por categorí­as](paso_3_mover_los_controles_para_agruparlos_por_categoras.md)
         * [Paso 4 cambiar el texto de las etiquetas](paso_4_cambiar_el_texto_de_las_etiquetas.md)
         * [Paso 5: cambiar el ancho de las etiquetas y de los campos](paso_5_cambiar_el_ancho_de_las_etiquetas_y_de_los_campos.md)
         * [Paso 6: sustituir campos con otros campos](paso_6_sustituir_campos_con_otros_campos.md)
@@ -196,7 +196,7 @@ ____
     * [Crear un informe dinámico](crear_un_informe_dinmico.md)
         * [Modificar un informe](modificar_un_informe.md)
 * [Otras formas de crear informes](otras_formas_de_crear_informes.md)
-* [CrÃ©ditos](crditos6.md)
+* [Créditos](crditos6.md)
 ____
 ### 8. Primeros pasos con Draw
 * [¿Qué es Draw?](index7.md)
@@ -205,26 +205,26 @@ ____
     * [Barra de estado](barra_de_estado.md)
     * [Barras de herramientas](barras_de_herramientas.md)
         * [Barra de herramientas estándar](barra_de_herramientas_estndar.md)
-        * [Barra de herramientas de lÃ­neas y relleno](barra_de_herramientas_de_lneas_y_relleno.md)
+        * [Barra de herramientas de lí­neas y relleno](barra_de_herramientas_de_lneas_y_relleno.md)
         * [Barra de herramientas de dibujo](barra_de_herramientas_de_dibujo.md)
         * [Barra de colores](barra_de_colores.md)
         * [Barra de opciones](barra_de_opciones.md)
 * [Colocar objetos con funciones de ajuste](colocar_objetos_con_funciones_de_ajuste.md)
-    * [Ajustar a la cuadrÃ­cula](ajustar_a_la_cuadrcula.md)
-    * [Mostrar cuadrÃ­cula](mostrar_cuadrcula.md)
-    * [Configurar la cuadrÃ­cula](configurar_la_cuadrcula.md)
-    * [Cambiar el color de los puntos de la cuadrÃ­cula](cambiar_el_color_de_los_puntos_de_la_cuadrcula.md)
+    * [Ajustar a la cuadrí­cula](ajustar_a_la_cuadrcula.md)
+    * [Mostrar cuadrí­cula](mostrar_cuadrcula.md)
+    * [Configurar la cuadrí­cula](configurar_la_cuadrcula.md)
+    * [Cambiar el color de los puntos de la cuadrí­cula](cambiar_el_color_de_los_puntos_de_la_cuadrcula.md)
 * [Posicionar objetos auxiliares](posicionar_objetos_auxiliares.md)
 * [Las formas básicas de dibujo](las_formas_bsicas_de_dibujo.md)
-    * [Dibujar una lÃ­nea recta](dibujar_una_lnea_recta.md)
+    * [Dibujar una lí­nea recta](dibujar_una_lnea_recta.md)
     * [Dibujar una flecha](dibujar_una_flecha.md)
-    * [Dibujar lÃ­neas y flechas](dibujar_lneas_y_flechas.md)
+    * [Dibujar lí­neas y flechas](dibujar_lneas_y_flechas.md)
     * [Dibujar un rectángulo o un cuadrado](dibujar_un_rectngulo_o_un_cuadrado.md)
     * [Dibujar un círculo o una elipse](dibujar_un_crculo_o_una_elipse.md)
     * [Dibujar curvas](dibujar_curvas.md)
     * [Escribir texto](escribir_texto.md)
     * [Puntos de adhesión y conectores](puntos_de_adhesin_y_conectores.md)
-* [Dibujar formas geomÃ©tricas](dibujar_formas_geomtricas.md)
+* [Dibujar formas geométricas](dibujar_formas_geomtricas.md)
     * [Cambiar el modo de selección](cambiar_el_modo_de_seleccin.md)
 * [Seleccionar objetos](seleccionar_objetos.md)
 * [Mover y ajustar dinámicamente el tamaño de un objeto](mover_y_ajustar_dinmicamente_el_tamao_de_un_objeto.md)
@@ -233,8 +233,8 @@ ____
     * [Rotación](rotacin.md)
     * [Inclinación y perspectiva](inclinacin_y_perspectiva.md)
 * [Editar objetos](editar_objetos.md)
-    * [Editar lÃ­neas y bordes](editar_lneas_y_bordes.md)
-    * [Propiedades comunes de las lÃ­neas](propiedades_comunes_de_las_lneas.md)
+    * [Editar lí­neas y bordes](editar_lneas_y_bordes.md)
+    * [Propiedades comunes de las lí­neas](propiedades_comunes_de_las_lneas.md)
     * [Dibujar flechas](dibujar_flechas.md)
     * [Editar el interior (el relleno) de un objeto](editar_el_interior_el_relleno_de_un_objeto.md)
     * [Añadir una sombra](aadir_una_sombra.md)
@@ -246,7 +246,7 @@ ____
 * [Trabajar con objetos tridimensionales (3D)](trabajar_con_objetos_tridimensionales_3d.md)
 * [Exportar gráficos](exportar_grficos.md)
 * [Agregar comentarios a un dibujo](agregar_comentarios_a_un_dibujo.md)
-* [CrÃ©ditos](crditos7.md)
+* [Créditos](crditos7.md)
 ____
 ### 9. Primeros pasos con Math
 * [LibreOffice Math](index8.md)
@@ -263,4 +263,4 @@ ____
     * [¿Cómo puedo hacer una derivada?](cmo_puedo_hacer_una_derivada.md)
     * [¿Cómo alineo mis ecuaciones con el signo de igual?](cmo_alineo_mis_ecuaciones_con_el_signo_de_igual.md)
     * [Numeración de fórmulas](numeracin_de_frmulas.md)
-* [CrÃ©ditos](crditos8.md)
+* [Créditos](crditos8.md)
