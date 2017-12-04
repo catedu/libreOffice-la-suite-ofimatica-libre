@@ -1,0 +1,27 @@
+
+# Formato de hojas de cálculo usando temas
+
+![](img/Seleccion_de_temas_312.png)
+No es posible añadir ni modificar temas en Calc. Sin embargo, pueden modificarse los estilos después de aplicarse en una hoja de cálculo.
+
+Para aplicar un tema a una hoja de cálculo:
+
+<li value="1">
+Pulse el icono **Selección de temas** en la barra de herramientas. Si esta barra no está visible, se puede mostrar utilizando **Ver ****→**** Barras de herramientas ****→**** Herramientas**.
+</li>
+
+Aparece el diálogo de selección de temas. Este diálogo muestra los temas disponibles para la hoja de cálculo.
+
+![](img/Herramientas_311.png)
+
+
+<li>
+En el diálogo de selección de temas, elija el tema que desee aplicar a la hoja de cálculo.
+</li>
+
+Tan pronto como seleccione un tema, algunas propiedades de estilos personalizados se aplican a la hoja de cálculo activa y se ven inmediatamente.
+
+<li>
+Pulse **Aceptar**.
+</li>
+
