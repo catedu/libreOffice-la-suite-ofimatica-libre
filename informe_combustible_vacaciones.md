@@ -22,7 +22,7 @@ Siga los pasos para añadir tablas en “añada las tablas“ en la página 41 p
 
 En la celda Criterio del campo Fecha, escriba lo siguiente: ENTRE #25/05/2007# Y #26/05/2007#
 
-![](img/fig64.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig64.png)
 <li>
 Guarde la consulta indicando un nombre y ciérrela (sugerencia: *Gastos combustible vacaciones*).
 <table cellpadding="6" cellspacing="0" style="width: 486px; height: 87px;"><colgroup><col width="39*" /> <col width="217*" /> </colgroup>

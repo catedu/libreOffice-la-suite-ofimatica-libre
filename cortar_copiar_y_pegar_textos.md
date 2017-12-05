@@ -1,7 +1,7 @@
 
 # Cortar, copiar y pegar textos
 
-![](img/pegarsinfor.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/pegarsinfor.png)
 Para *mover *(cortar y pegar) un texto seleccionado mediante el ratón, arrástrelo a la nueva ubicación y suéltelo. Si desea *copiar *el texto seleccionado, mantenga presionada la tecla *Control* mientras lo arrastra. El texto conservará el formato que tenía antes de arrastrarlo.
 
 El resultado al pegar un texto depende del origen del texto y de la forma en que se realiza. Si hace clic en el icono **Pegar**, se mantendrá cualquier formato que tenga el texto (por ejemplo, negrita o cursiva). El texto que se pega procedente de sitios Web y otras fuentes también puede colocarse en marcos o tablas. Si no le gustan los resultados, haga clic en el icono **Deshacer **o presione *Control+**Z**.*

@@ -6,7 +6,7 @@ LibreOffice tiene varias maneras de seleccionar los estilos que se vayan a aplic
 ### Cómo usar la ventana Estilos y formatos
 
 <li value="1">
-![](img/Seleccion_216.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_216.png)</li>
 
 Esta ventana puede moverse a otra posición de la pantalla o anclar a uno de sus ángulos. Para ello, mantenga pulsada la tecla *Ctrl* y arrastre la barra de título al lugar al que se desee mover.
 
@@ -22,7 +22,7 @@ Para aplicar un estilo ya existente (excepto los de carácter), coloque el punto
 
 En la parte inferior de la ventana de Estilo y formato hay una lista desplegable. En la Figura 1, la ventana muestra *Automático*, lo que quiere decir que la lista incluye solamente los estilos aplicados automáticamente por LibreOffice. Se puede elegir el mostrar todos los estilos u otros grupos de estilos, como por ejemplo, solamente los personalizados.
 
-![](img/descarga.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/descarga.png)
 
 
 
@@ -35,7 +35,7 @@ Use el Modo regadera para aplicar rápidamente un determinado estilo a muchas á
 Abra la ventana de Estilo y formato y seleccione el estilo que desee aplicar.
 </li>
 <li>
-![](img/Regadera.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Regadera.png)</li>
 <li>
 Para aplicar el estilo de un párrafo, página, o marco, mueva el ratón por encima del elemento y pulse en él. Para aplicar un estilo de carácter, mantenga pulsado el botón del ratón mientras selecciona los caracteres, y al pulsar sobre una palabra se aplicará el estilo de carácter para esa palabra. Repita el paso tres (3) hasta que haya hecho todos los cambios para ese estilo
 </li>
@@ -43,12 +43,12 @@ Para aplicar el estilo de un párrafo, página, o marco, mueva el ratón por enc
 Para salir del modo de formato de regadera, pulse otra vez el icono de **Modo regadera**, o pulse la tecla *Esc (Escape)*.
 </li>
 
-![](img/Regadera.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Regadera.png)
 Para salir del modo de formato de regadera, pulse otra vez el icono de **Modo regadera**, o pulse la tecla *Esc (Escape)*.
 
 ## Usar la lista de estilos aplicados
 
-![](img/Seleccion_214.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_214.png)
 Puede abrir esa lista y pulsar una vez sobre el estilo que desee, o también puede usar las flechas hacia arriba y hacia abajo para desplazarse a través de toda la lista y luego pulsar la tecla *Enter* para aplicar el estilo resaltado.
 
 ## Usar atajos de teclado

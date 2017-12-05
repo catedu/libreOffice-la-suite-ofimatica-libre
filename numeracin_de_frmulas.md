@@ -14,7 +14,7 @@ Escriba NÚM y luego pulse *F3*.
 
 Los caracteres escritos NÚM se sustituyen por una tabla y una fórmula con su numeración correspondiente:
 
-![](img/Seleccion_519.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_519.png)
 A continuación, se puede hacer doble clic sobre la fórmula para editarla.
 
 Finalmente, se puede insertar una referencia a una ecuación siguiendo estos pasos:
@@ -41,7 +41,7 @@ En *Formato*, seleccione *Texto de **Referencia**.*
 
 ¡Ya está! Si después quiere añadir más ecuaciones al documento antes de hacer referencia a la ecuación, todas las ecuaciones se renumerarán automáticamente, y las referencias cruzadas se actualizarán.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_11.45.28.png)<td width="101" bgcolor="#83caff">**Sugerencia**</td><td width="628">Para insertar el número de la ecuación sin paréntesis alrededor, seleccione *Número* en vez de *Texto de referencia.** *</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_11.45.28.png)<td width="101" bgcolor="#83caff">**Sugerencia**</td><td width="628">Para insertar el número de la ecuación sin paréntesis alrededor, seleccione *Número* en vez de *Texto de referencia.** *</td>
 
 Para insertar el número de la ecuación sin paréntesis alrededor, seleccione *Número* en vez de *Texto de referencia.*
 

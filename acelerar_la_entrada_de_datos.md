@@ -15,15 +15,15 @@ Las opciones que no están habilitadas se encuentran en gris, pero aún puede se
 
 **Una forma rápida de rellenar celdas** es **arrastrar el cuadro negro pequeño de la esquina inferior derecha** de la celda que quiere copiar en la dirección en la que se desea rellenar. Si la celda contiene un número, éste rellenará una serie. Si es texto, el mismo texto se repetirá en la dirección elegida.
 
-![](img/arrastrar.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/arrastrar.jpg)
 
 
 ## Rellenar una serie
 
-![](img/SerieRellena.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SerieRellena.jpg)
 Para añadir una serie rellena a una hoja de cálculo, seleccione las celdas a rellenar, elija **Editar ****→**** Rellenar ****→**** Series**. En el diálogo Rellenar series, seleccione **Relleno automático** como el *tipo de serie*, e introduzca como *valor inicial* un elemento para cualquier serie definida. Las celdas seleccionadas se rellenan con los otros elementos de la lista de manera secuencial, repitiendo desde el inicio de la lista cuando se llega al final de la lista.
 
-![](img/RellenadodeCeldas.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/RellenadodeCeldas.png)
 También puede usar **Editar **→** Rellenar **→** Series** para crear una serie numérica usando un valor inicial y un incremento. Por ejemplo, si introduce como valor inicial 1 y como final 7, con un incremento de 2, se crea la secuencia 1, 3, 5, 7.
 
 En cualquier caso, la herramienta de relleno crea sólo una conexión temporal entre las celdas. Una vez que se rellenan, las celdas quedan sin conexión entre sí.
@@ -32,13 +32,13 @@ En cualquier caso, la herramienta de relleno crea sólo una conexión temporal e
 
 Para definir una serie de relleno, vaya a **Herramientas ****→**** Opciones ****→**** LibreOffice Calc ****→**** Listas de ordenamiento**. Este diálogo muestra las series predefinidas en el campo *Listas *de la izquierda, y el contenido de la lista seleccionada en el campo *Entradas*.
 
-![](img/Ordenamiento.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Ordenamiento.png)
 Pulse **Nuevo**. El campo *Entradas se* limpia. Escriba la serie de la nueva lista en el cuadro *Entradas* (una entrada por línea), y pulse **Añadir**.
 
-![](img/Entradas.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Entradas.png)
 ## Usar listas de selección
 
-![](img/Seleccion_302.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_302.png)
 Para usar una lista de selección, clique con el botón derecho del ratón en una celda y vuelva a clicar en **Lista de selección**. Aparecerá una lista desplegable con los datos de cada celda en la misma columna que posean al menos un carácter o cuyo formato esté definido como texto. Elija la entrada que necesite.
 
 
@@ -49,7 +49,7 @@ Para usar una lista de selección, clique con el botón derecho del ratón en un
 
 
 
-![](img/Seleccion_303.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_303.png)
 
 
 ## Compartir contenido entre hojas
@@ -60,9 +60,9 @@ Puede desear introducir la misma información en la misma celda de múltiples ho
 
 ## Validar el contenido de las celdas
 
-![](img/Validez_305.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Validez_305.png)
 Las series de relleno y las listas de selección pueden manejar algunos tipos de datos, pero están limitados a información predefinida. Para un caso más general, puede seleccionar una celda y usar **Datos **→** Validez** para definir el tipo de contenido que se puede introducir en esa celda. Por ejemplo, una celda puede requerir una fecha o un número entero, sin letras ni decimales, o no estar en blanco.
 
 Dependiendo de la validez establecida, la herramienta también puede definir el rango de contenido que se puede introducir, y proporcionar mensajes que explique las reglas de contenido especificadas para la celda y qué tienen que hacer los usuarios cuando introduzcan un dato incorrecto. También pueden hacer que la celda rechace el contenido incorrecto, aceptarlo con un aviso, o ejecutar una macro cuando se introduzca un error.
 
-![](img/Seleccion_304.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_304.png)

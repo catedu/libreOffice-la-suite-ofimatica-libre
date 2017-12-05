@@ -13,5 +13,5 @@ La comunidad de LibreOffice le invita a contribuir en todas las áreas, traducci
 
 ## Una introducción rápida
 
-![](img/Seleccion_213.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_213.png)
 {% youtube %}https//www.youtube.com/watch?v=3KC0ZdcA6s8{% endyoutube %}

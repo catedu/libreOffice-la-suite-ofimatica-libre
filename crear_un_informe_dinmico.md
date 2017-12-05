@@ -6,7 +6,7 @@ Ahora crearemos un informe con algunas estadísticas de consumo de combustible. 
 
 Si abre una consulta para editarla, podría aparecer como en la Figura 65. Si mueve el cursor sobre la línea negra (rodeada en rojo), se convierte en una doble flecha. Arrástrela a una posición inferior.
 
-![](img/ConsultaEdicion.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/ConsultaEdicion.png)
 <li>
 Añada el campo *CosteCombustible* a la consulta Lecturas-finales:
 </li>
@@ -25,7 +25,7 @@ Guarde y cierre la consulta.
 </ul>
 </li>
 
-![](img/fig66.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig66.png)
 <li>
 Añada el campo *CosteCombustible* desde la consulta Lecturas‑finales a la consulta Consumo combustible:
 </li>

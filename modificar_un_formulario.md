@@ -52,12 +52,12 @@ Vamos a ver ahora algunos métodos que usaremos en estos pasos. Los controles en
 Al pulsar un campo o una etiqueta, el control completo queda seleccionado. Aparece un borde alrededor del control con ocho puntos de control verde. Ahora puede arrastrarlo a donde quiera.
 </li>
 
-![](img/fecha.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fecha.png)
 <li>
 Al hacer clic sobre una etiqueta manteniendo pulsada la tecla *Control*, sólo se selecciona la etiqueta o el campo (Figura 18). Puede pulsar la tecla *Tab* para cambiar la selección del campo a la etiqueta o de la etiqueta al campo.
 </li>
 
-![](img/peage.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/peage.png)
 <li>
 Mover un grupo de controles es casi tan fácil como mover uno solo.
 </li>
@@ -78,10 +78,10 @@ A medida que arrastre el cursor, un rectángulo con borde de líneas indicará q
 
 Cuando suelte el botón del ratón, aparecerá alrededor de los controles seleccionados un borde con los puntos de control verdes.
 
-![](img/desayunoPeaje.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/desayunoPeaje.png)
 Mueva el cursor por encima de uno de los campos. El puntero cambiará a un icono de arrastrar. Mueva el grupo de controles a donde quiera.
 <td width="15%" bgcolor="#83caff">**Sugerencia**</td><td width="85%" valign="top">Al cambiar el tamaño o mover un control, debería seleccionar dos propiedades de la barra de herramientas Diseño de formulario: *Usar cuadrícula* y *Guías al desplazar*. Podrá alinear los controles mejor y las líneas guía de lo que está moviendo se moverán a medida que mueva el cursor. Debería tener también las dos reglas activas (**Ver → Regla**).</td>
 
 Al cambiar el tamaño o mover un control, debería seleccionar dos propiedades de la barra de herramientas Diseño de formulario: *Usar cuadrícula* y *Guías al desplazar*. Podrá alinear los controles mejor y las líneas guía de lo que está moviendo se moverán a medida que mueva el cursor. Debería tener también las dos reglas activas (**Ver → Regla**).
 
-![](img/Seleccion_327.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_327.png)

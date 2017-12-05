@@ -63,7 +63,7 @@ Arrastre los datos del campo ID de la fila seleccionada sobre el campo ID en la 
 
 La ventana Fuente de datos se queda en blanco, los campos de la hoja de cálculo se rellenan con los datos de la fila seleccionada y aparece la barra de herramientas Navegación de formularios en la parte inferior de la hoja de cálculo.
 
-![](img/fig41.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig41.png)
 <li>
 Haga clic en las flechas de la barra de herramientas Navegación de formularios (en la figura, las flechas están marcadas en rojo) para ver los diferentes registros de la tabla. El número del cuadro cambia según lo hace el número de registro al pulsar una flecha. Los datos de los campos cambian según los datos que tenga ese número de registro en particular.
 </li>

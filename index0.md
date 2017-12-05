@@ -7,7 +7,7 @@ Todo el contenido de este módulo ha sido obtenido de la [documentación oficia
 
 ## Una breve historia de LibreOffice
 
-![](img/LibreApps.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/LibreApps.jpg)
 El 28 de septiembre de 2010 la comunidad de voluntarios que desarrollaba y promocionaba OpenOffice.org anunció un cambio importante en la estructura del proyecto. Después de 10 años de próspero crecimiento con Sun Microsystems como fundador y principal patrocinador, el proyecto lanzó una fundación independiente llamada The Document Foundation, para cumplir con las promesas de independencia descritas en los estatutos originales. Esta fundación es la piedra angular de un nuevo ecosistema donde los individuos y las organizaciones pueden contribuir y veneficiarse de la disponibilidad de una verdadera suite ofimática libre.
 
 Siendo incapaz de adquirir la marca registrad OpenOffice.org a Oracle Corporation, The Document Foundation llamó a su producto LibreOffice. Continuando los números de versión de OpenOffice.org, LibreOffice 3.3 fue lanzado en enero de 2011.

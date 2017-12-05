@@ -1,7 +1,7 @@
 
 # Usar la corrección automática
 
-![](img/Autocorreccion_262.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Autocorreccion_262.png)
 Seleccione **Herramientas ****→**** Opciones de autocorrección** para abrir dicho diálogo. Allí podrá definir qué cadenas de texto se corregirán y cómo se hará. En la mayoría de los casos, los valores predeterminados son correctos.
 
 Esta función se activa cuando se instala Writer. Para desactivarla, en **Formato ****→**** Corrección automática, **desmarque **Al escribir**.

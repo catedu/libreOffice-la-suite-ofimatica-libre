@@ -1,7 +1,7 @@
 
 # Escribir texto
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.22.54.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.22.54.png)
 Cuando haya terminado de escribir, pulse fuera del marco de texto. Para volver a editar el texto, haga doble clic dentro del marco.
 
 Cuando escribe un texto, la barra principal de herramientas incluye los atributos habituales de párrafo: sangrías, primera línea y tabuladores.

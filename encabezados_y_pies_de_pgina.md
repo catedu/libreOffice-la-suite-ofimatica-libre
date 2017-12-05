@@ -33,4 +33,4 @@ El espaciado afecta a la distancia de la parte superior o inferior de la hoja la
 
 La altura afecta a lo que medirá de alto el encabezado o pie.
 
-![](img/EncabezadoCalc.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/EncabezadoCalc.png)

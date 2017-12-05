@@ -15,7 +15,7 @@ Para seleccionar una diapositiva en el navegador, desplácese por la lista hasta
 
 La vista de esquema contiene todas las diapositivas de la presentación en su secuencia numerada. Muestra los títulos y listas de cada diapositiva en formato de esquema. Sólo se muestra el texto contenido en los cuadros de texto por defecto de cada diapositiva, por lo que si se incluyen otras cajas de texto o dibujos, el texto de estos objetos no se mostrará. Tampoco se incluyen los nombres de las diapositivas.
 
-![](img/Seleccion_377.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_377.png)
 La vista de esquema es útil al menos para dos propósitos:
 
 <li value="1">
@@ -56,7 +56,7 @@ Arrástrelo y suéltelo en el lugar que desee.
 
 ## Vista de notas
 
-![](img/Seleccion_376.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_376.png)
 <li value="1">
 Pulse en la pestaña **Notas **en el área de trabajo.
 </li>
@@ -87,7 +87,7 @@ Se puede redimensionar la caja de texto de Notas utilizando los puntos delimitad
 
 La vista del clasificador de diapositivas contiene las miniaturas de todas las diapositivas de la presentación. Utilice esta vista para trabajar con grupos de diapositivas o con una sola.
 
-![](img/Seleccion_378.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_378.png)
 Puede cambiarse el número de diapositivas mostradas por fila:.
 
 <li value="1">
@@ -185,7 +185,7 @@ La vista de documento sirve para definir la apariencia de las diapositivas al im
 
 Para imprimir un diseño:
 
-![](img/Imprimir_380.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Imprimir_380.png)
 <li value="1">
 Seleccione las diapositivas con el clasificador de diapositivas.
 </li>

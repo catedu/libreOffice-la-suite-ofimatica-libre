@@ -1,7 +1,7 @@
 
 # Insertar un gráfico desde un archivo
 
-![](img/Insertar_una_imagen_233.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_una_imagen_233.png)
 <li>
 Determine el destino de la imagen. Coloque el cursor en la localización apropiada (o cerca de ésta) en el documento.
 </li>

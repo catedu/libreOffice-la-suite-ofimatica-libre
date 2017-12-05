@@ -14,6 +14,6 @@ Para elegir el color de la fuente, pulse la flecha del icono Color de fuente par
 
 Para especificar el idioma de una celda (útil ya que permite tener varios idiomas y su corrección ortográfica en el mismo documento), use la pestaña *Fuente *en el diálogo Formato de celdas. Utilice la pestaña *Efectos de fuente *para establecer otras características.
 
-![](img/ColorFuente.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/ColorFuente.png)
 
 

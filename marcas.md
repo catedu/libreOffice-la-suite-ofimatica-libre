@@ -8,4 +8,4 @@ El lenguaje de marcas de las fórmulas se parece a la forma en que la fórmula s
 
 A continuación se muestra una lista breve de las ecuaciones comunes y sus instrucciones correspondientes en el lenguaje de marcas.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_0.31.37.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_0.31.37.png)

@@ -22,7 +22,7 @@ Ya puede trabajar con las selecciones del texto (por ejemplo copiarlo, borrarlo,
 
 Para los usuarios de Macintosh: cuando en este capítulo se indique el uso de la tecla *Control *sustitúyanla por la tecla *Comando*.
 
-![](img/SeleccionCtrl.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SeleccionCtrl.png)
 Para seleccionar elementos de texto no consecutivos **mediante el teclado**:
 
 <li>
@@ -48,6 +48,6 @@ Presione ***Esc*** (Escape) para salir del modo “Agregar”.
 
 ## Seleccionar un bloque vertical de texto
 
-![](img/selecolum.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/selecolum.png)
 Ahora marque la selección, mediante el ratón o el teclado.
 

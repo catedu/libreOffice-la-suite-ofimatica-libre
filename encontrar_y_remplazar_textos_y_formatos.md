@@ -37,6 +37,6 @@ Una vez haya configurado su búsqueda, haga clic en **Buscar** o, para remplazar
 
 Si hace clic en **Buscar todo**, LibreOffice selecciona todos los ejemplos del texto de la búsqueda que se hallan en el documento. De la misma manera, si hace clic en **Remplazar todo**, LibreOffice remplazará todos los resultados.
 
-![](img/buscaryrempl.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/buscaryrempl.png)
 Si no desea reemplazar las palabras buscadas, utilice sólo la opción Buscar (**Ctrl+B**)
 

@@ -8,5 +8,5 @@ Para mayor control, incluyendo el espacio entre los bordes de celda y el texto, 
 
 Las propiedades de borde de celda se aplican a una celda, y sólo pueden modificarse al editar esa celda. Por ejemplo, si la celda C3 tiene un borde superior (que visualmente puede equivaler al borde inferior de C2, ese borde sólo puede eliminarse seleccionando la celda C3. No se puede eliminar en C2.
 
-![](img/Seleccion_309.png)
-![](img/Formato_de_celdas_308.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_309.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Formato_de_celdas_308.png)

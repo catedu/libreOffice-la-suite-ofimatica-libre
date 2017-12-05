@@ -22,7 +22,7 @@ Coloque el cursor donde desee insertar el índice.
 
 No realice ningún cambio en en el diálogo de Insertar índice/tabla y haga clic en **Aceptar**.
 
-![](img/Insertar_indice_o_tabla_279.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_indice_o_tabla_279.png)
 Si agrega o borra un texto (de modo que los encabezados se desplacen a otras páginas diferentes) o si agrega, borra o cambia encabezados, tendrá que actualizar el índice temático. Para ello, haga lo siguiente:
 
 <li>

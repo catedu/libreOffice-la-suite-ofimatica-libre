@@ -20,7 +20,7 @@ Si las celdas seleccionadas no tienen encabezado de fila y columna, Formateado a
 </tr>
 </tbody>
 </table>
-![](img/Formato_automatico_310.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Formato_automatico_310.png)</li>
 <li>
 Para seleccionar qué propiedades incluir (formato numérico, fuente, alineación, borde, modelo, ajustar ancho/alto) en un formato automático, seleccione las opciones deseadas en la sección Formato.
 </li>

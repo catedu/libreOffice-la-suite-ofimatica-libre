@@ -15,7 +15,7 @@ Pulse el icono Secuencia de activación (rodeado en rojo).
 
 Asegúrate de que está visible la barra de herramientas Controles de formulario para abrir la barra de herramientas Diseño de formulario. Si no lo está seleccione **Ver → Barras de herramientas → Diseño de formulario** para abrirla.
 
-![](img/Fig34.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig34.png)
 <li>
 Reorganice los campos en la ventana Orden de tabuladores.
 </li>
@@ -32,7 +32,7 @@ Repita los pasos para poner los campos en el mismo orden que se muestra en la fi
 
 Pulse el botón **Desplazar hacia arriba** hasta que esté justo debajo de fmtPeaje.
 
-![](img/Fig35.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig35.png)
 <li>
 Guarde y cierre el formulario.
 </li>

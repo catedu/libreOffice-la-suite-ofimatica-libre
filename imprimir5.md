@@ -5,7 +5,7 @@ Imprimir desde Calc es igual que imprimir desde otros componentes de LibreOffice
 
 El diálogo de impresión en el menú **Archivo ****→**** Imprimir**, tiene algunas opciones específicas de Calc: qué hojas imprimir.
 
-![](img/Imprimir_316.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Imprimir_316.png)
 
 
 

@@ -5,4 +5,4 @@ En una base de datos, una tabla almacena información de un grupo de cosas que l
 
 Para trabajar con tablas, pulse el icono *Tablas* en la lista de *Base de datos*. En la lista *Tareas* se muestran las tres tareas que se pueden hacer con tablas.
 
-![](img/Seleccion_322.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_322.png)

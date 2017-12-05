@@ -13,7 +13,7 @@ El diálogo de Estilos se visualizará dependiendo del tipo de estilo selecciona
 
 ## Actualizar un estilo a partir de una selección
 
-![](img/Actualizarestilo.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Actualizarestilo.png)
 <li value="1">
 Abra la ventana de Estilo y formato.
 </li>
@@ -21,7 +21,7 @@ Abra la ventana de Estilo y formato.
 En el documento, seleccione un elemento que tenga el formato que desee adoptar como un estilo.
 </li>
 <li>
-![](img/Seleccion_215.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_215.png)</li>
 
 En el documento, seleccione un elemento que tenga el formato que desee adoptar como un estilo.
 

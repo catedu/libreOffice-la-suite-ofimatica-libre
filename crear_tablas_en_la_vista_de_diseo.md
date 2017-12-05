@@ -51,7 +51,7 @@ Marque IDCombustible como *Llave primaria*.
 
 Haga clic con el botón secundario sobre el triángulo verde que hay junto a *IDCombustible*, a la izquierda y seleccione *Llave primaria* en el menú. Se colocará un icono con una llave delante del campo *IDCombustible.*
 
-![](img/IdPrimaria.png)<td width="16%" bgcolor="#94bd5e">**Nota**</td><td width="84%" valign="top">La clave primaria tiene un único propósito: identificar el registro de forma única. Se puede utilizar cualquier nombre para este campo. Nosotros hemos utilizado IDCombustible por conveniencia, así sabemos a qué tabla pertenece.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/IdPrimaria.png)<td width="16%" bgcolor="#94bd5e">**Nota**</td><td width="84%" valign="top">La clave primaria tiene un único propósito: identificar el registro de forma única. Se puede utilizar cualquier nombre para este campo. Nosotros hemos utilizado IDCombustible por conveniencia, así sabemos a qué tabla pertenece.</td>
 
 La clave primaria tiene un único propósito: identificar el registro de forma única. Se puede utilizar cualquier nombre para este campo. Nosotros hemos utilizado IDCombustible por conveniencia, así sabemos a qué tabla pertenece.
 
@@ -97,7 +97,7 @@ Para los demás campos, elija *Número [NUMERIC]* (pulse la tecla *N* una vez pa
 
 *CosteCombustible*: cambie *Tamaño* a 5 y *Decimales* a 2. Pulse *Ejemplo de formato.* Esto abre la ventana *Formato de campo*. Seleccione *Moneda* como categoría y su moneda como *Formato*. Mi moneda tiene dos decimales. Seleccione la apropiada para su caso.
 
-![](img/CreandoCampos.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/CreandoCampos.png)
 <li>
 Descripción puede ser cualquier cosa, o puede dejarse en blanco.
 </li>
@@ -109,4 +109,4 @@ Para guardar y cerrar la tabla seleccione **Archivo → Guardar**. Llame a la ta
 
 Siga los mismos pasos para crear la tabla *Vacaciones*. Los campos y su tipo se indican en la siguiente imagen. Asegúrese de que el campo *Fecha* sea la clave principal antes de cerrar. Guarde la tabla con el nombre *Vacaciones* y ciérrela.
 
-![](img/TablaVacaciones.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/TablaVacaciones.png)

@@ -7,6 +7,6 @@ Para ocultar o mostrar hojas, filas y columnas, use las opciones del menú Forma
 
 Para ocultar o mostrar celdas, elija **Formato ****→**** Celdas** desde la barra de menús (o pulse con el botón derecho y elija **Formato de celdas**). En el diálogo formato de celdas, vaya a la pestaña protección de celda.
 
-![](img/OcultarDatos.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OcultarDatos.png)
 
 

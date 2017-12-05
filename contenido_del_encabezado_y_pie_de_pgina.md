@@ -5,7 +5,7 @@ El encabezado o pie de una hoja de cálculo en Calc tiene tres columnas para tex
 
 Para establecer el contenido del encabezado o pie, pulse el botón **Editar** en el diálogo de Encabezamiento o pie de página que acabamos de ver.
 
-![](img/Seleccion_320.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_320.png)
 **Áreas**
 
 Cada área es independiente y puede contener información distinta.
@@ -18,4 +18,4 @@ Puede seleccionar entre muchas opciones preestablecidas en la lista desplegable,
 
 Pulse el área (izquierda, centro, derecha) que desee personalizar, y use los botones para añadir elementos o cambiar atributos del texto.
 
-![](img/Seleccion_321.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_321.png)

@@ -11,4 +11,4 @@ Los controles básicos de esquema tienen signos más y menos al inicio del grupo
 
 Si ya no necesita más un grupo, ponga el cursor en cualquier celda de este y seleccione **Datos ****→**** Grupo y Esquemas ****→**** Desagrupar**. Para remover todos los grupos en la hoja, seleccione **Datos ****→**** Grupo y Esquema ****→**** Eliminar**.
 
-![](img/grupos.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/grupos.jpg)

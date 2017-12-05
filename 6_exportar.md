@@ -9,7 +9,7 @@ El proceso y los cuadros de diálogo son los mismos para Writer, Calc, Impress, 
 
 #### Exportación rápida a PDF
 
-![](Seleccion_212.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/Seleccion_212.png)
 #### Exportar a otros formatos
 
 LibreOffice usa el término “exportar” para algunas operaciones con archivos que involucran el cambio del tipo de archivo. Si no puede encontrar lo que quiere en **Guardar como**, busque también en **Exportar**.

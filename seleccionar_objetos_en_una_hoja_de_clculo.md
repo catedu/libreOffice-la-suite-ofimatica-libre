@@ -79,7 +79,7 @@ Mueva el ratón al comienzo del rango o celda siguiente.
 
 Repita cuantas veces sea necesario.
 
-![](img/Seleccion_299.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_299.png)
 ## Seleccionar columnas y filas
 
 Se pueden seleccionar columnas y filas completas rápidamente en LibreOffice.
@@ -124,12 +124,12 @@ Mantenga pulsada la tecla *Control*.
 
 Para seleccionar la hoja completa, pulse el rectángulo pequeño entre la cabecera de la columna A y la cabecera de la fila 1.
 
-![](img/Seleccion_300.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_300.png)
 Puede además seleccionar toda la hoja pulsando las teclas *Control + E**.*
 
 Para seleccionar hojas en sus distintas pestañas puede proceder de manera similar. Si además quiere seleccionar todas las hojas de una hoja de cálculo pulse con el botón derecho sobre cualquiera de las pestañas de hojas y seleccione **Seleccionar todas** desde el menú desplegable.
 
-![](img/Seleccion_301.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_301.png)
 
 
 

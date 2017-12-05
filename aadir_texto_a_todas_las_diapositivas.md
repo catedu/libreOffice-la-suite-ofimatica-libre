@@ -1,7 +1,7 @@
 
 # Añadir texto a todas las diapositivas
 
-![](img/Seleccion_395.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_395.png)
 <li value="1">
 Seleccione **Ver → Patrón → Patrón de diapositivas **en la barra de menú.
 </li>
@@ -54,7 +54,7 @@ Número de página (número de diapositiva)
 
 Para cambiar el formato de los números (1, 2, 3 o a, b, c, o I, ii, iii, etc) para el número de página elija **Formato → Página **y después seleccione un formato de la lista en el área de **Configuración de disposición. **
 
-![](img/Seleccion_396.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_396.png)
 
 
 

@@ -7,7 +7,7 @@ Queremos sustituir el campo TipoPago por una Lista desplegable. De este modo pod
 Mantenga pulsada la tecla *Control* mientras hace clic sobre el campo Pago de Desayuno. Los puntos de control verde aparecen alrededor del campo pero no alrededor de la etiqueta.
 </li>
 
-![](img/Fig23.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig23.png)
 <li>
 Pulse con el botón derecho dentro de los puntos de control verdes y seleccione **Reemplazar por → Campo combinado.**
 </li>
@@ -16,14 +16,14 @@ Pulse el icono Control en la barra de herramientas Controles de formulario para 
 </li>
 <li>
 En la pestaña General, desplácese hacia abajo hasta seleccionar Desplegable y cambie el valor *No* por *Sí**.*
-![](img/Fig24.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig24.png)</li>
 <li>
 Pulse sobre la pestaña Datos.
 </li>
 
 Pulse el icono Control en la barra de herramientas Controles de formulario para abrir la ventana Propiedades: Campo combinado.
 
-![](img/Fig24.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig24.png)
 <li>
 *Tipo de contenido de lista* es una lista desplegable. Cámbielo a *Sql.*
 </li>
@@ -51,6 +51,6 @@ Cierre la ventana Propiedades.
 
 Cierre la ventana Propiedades.
 
-![](img/Fig2.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig2.png)
 
 

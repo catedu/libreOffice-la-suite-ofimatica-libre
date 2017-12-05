@@ -11,12 +11,12 @@ Mueva el cursor sobre el punto de control verde central del lado derecho. El cur
 Mantenga pulsado el ratón mientras arrastra el cursor hacia la derecha hasta que la longitud sea de 6 cm. La línea vertical de puntos queda alineada con el 6. Suelte el botón del ratón.
 </li>
 <li>
-![](img/Seleccion_329.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_329.png)</li>
 
 Mueva el cursor sobre el punto de control verde central del lado derecho. El cursor cambiará a la forma de una doble flecha.
 
-![](img/Seleccion_329.png)
-![](img/Controles_de_formulario_328.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_329.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Controles_de_formulario_328.png)
 <li>
 Desplácese hasta *Formato de fecha*. Verá una lista desplegable con el valor predeterminado *Estándar (corto)*. Pulse para desplegar la lista y seleccione *Estándar (largo)*.
 </li>

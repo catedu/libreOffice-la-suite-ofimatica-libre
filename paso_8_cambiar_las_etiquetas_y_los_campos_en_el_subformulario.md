@@ -38,4 +38,4 @@ SELECT "Tipo", "Tipo" FROM "Tipo pago"
 Cierre la ventana Propiedades.
 </li>
 
-![](img/Fig29.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig29.png)

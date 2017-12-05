@@ -1,7 +1,7 @@
 
 # Crear encabezados y pies de página
 
-![](img/Seleccion_276.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_276.png)
 Para insertar un encabezado, haga clic en **Insertar ****→**** Encabezado ****→**** Predeterminado** (o el estilo de página, en caso de no ser el Predeterminado).
 
 Otro tipo de información como títulos de documentos o de capítulos se inserta habitualmente en encabezados o en pies de página. La mejor manera de añadir estos elementos es insertarlos como campos. De esta manera, si se hacen cambios, los encabezados y los pies de página serán actualizados automáticamente. A continuación veremos un ejemplo muy frecuente.

@@ -65,7 +65,7 @@ Pulse el icono *Datos en campos* (marcado con un círculo). Esto rellenará los 
 
 Guarde el documento si lo quiere usar como ejemplo más adelante.
 
-![](img/Seleccion_331.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_331.png)
 Añadir datos en formato de tabla es un poco más fácil y se hace en menos pasos. Algunos pasos son bastante similares.
 
 <li value="1">
@@ -75,11 +75,11 @@ Navegue hasta el lugar donde quiera colocar la tabla y haga clic en esa posició
 Cuando las filas no sean consecutivas, mantenga pulsada la tecla *Control* mientras hace clic en el cuadro gris situado a la izquierda de cada fila de datos que desea convertir en una fila de su tabla. Para seleccionar filas consecutivas, pulse en el cuadro gris situado a la izquierda de la fila superior y, mientras mantiene pulsada la tecla *Mayúsculas,* haga clic en la última fila deseada.
 </li>
 <li>
-![](img/Seleccion_332.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_332.png)</li>
 
 Cuando las filas no sean consecutivas, mantenga pulsada la tecla *Control* mientras hace clic en el cuadro gris situado a la izquierda de cada fila de datos que desea convertir en una fila de su tabla. Para seleccionar filas consecutivas, pulse en el cuadro gris situado a la izquierda de la fila superior y, mientras mantiene pulsada la tecla *Mayúsculas,* haga clic en la última fila deseada.
 
-![](img/fig39.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig39.png)
 <li>
 Mueva los campos que desee de la lista *Columnas de la base de datos* a la lista *Columna(s) de la tabla.*
 </li>

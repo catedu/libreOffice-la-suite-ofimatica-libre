@@ -7,4 +7,4 @@ Puede rodear el área de dibujo con barras de herramientas y áreas informativas
 
 En Draw, se pueden separar los dibujos en varias páginas. Los dibujos de varias páginas se utilizan principalmente en presentaciones. El panel *Páginas*, que se puede ver en la parte* *izquierda de la ventana de Draw en la siguiente imagen, da una vista general de las páginas que se crean. Si el panel Páginas no está visible en su configuración, puede activarlo desde el menú de Ver (**Ver &gt; Panel de páginas**).
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.09.56.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.09.56.png)

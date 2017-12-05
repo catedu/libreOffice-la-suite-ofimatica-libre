@@ -3,14 +3,14 @@
 
 Para visualizar la barra de colores, use **Ver &gt; Barra de herramientas &gt; Barra de colores**. La barra de colores aparecerá en la parte inferior del área de trabajo.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.16.22.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.16.22.png)
 Esta barra permite escoger rápidamente el color para los objetos del dibujo. El primer cuadro del panel corresponde a la transparencia (sin color).
 
 Se puede acceder a varias paletas especializadas de colores en Draw, así como cambiar colores individualmente según su gusto. Esto se hace utilizando el diálogo Área, que se puede obtener eligiendo **Formato &gt; Relleno** o el icono *Relleno* en la Barra de herramientas Líneas y relleno.
 
 En el diálogo área, elija la pestaña **Colores**.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.16.31.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.16.31.png)
 
 
 
@@ -37,6 +37,6 @@ En la parte inferior derecha, el rectángulo de la izquierda muestra el valor de
 
 Para una información más detallada de las paletas de colores y de sus opciones, vea el capítulo 8 (Consejos y trucos) en la *Guía de Draw*.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.17.09.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.17.09.png)
 
 

@@ -9,7 +9,7 @@ Un **diálogo** es un tipo especial de ventana. Su objetivo es informarle de alg
 
 En la mayoría de las ocasiones, si un cuadro de diálogo está abierto, limitará el resto del trabajo que esté haciendo. Tras haber realizado los cambios pertinentes, cierre el diálogo (normalmente al hacer clic en Aceptar u otro botón se guardan los cambios y se cierra el diálogo). A continuación puede reanudar su trabajo en el documento.
 
-![](img/image19.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image19.png)
 1. Ficha (no es un control exactamente)<br />2. Botones de opción (sólo se puede seleccionar una)<br />3. Casilla de verificación (se puede seleccionar más de una)<br />4. Cuadro de número (haga clic sobre las flechas hacia arriba o hacia abajo si desea cambiar el número de la caja de texto, o escriba en la caja de texto)<br />5. Vista previa o en miniatura<br />6. Lista desplegable desde la que se puede elegir un elemento<br />7. Botones de comando
 
 
@@ -132,8 +132,8 @@ Si el documento no ha sido guardado desde el último cambio, aparecerá un mensa
 - Cancelar: no ocurre nada, y se retorna al documento.
 
 
-![](img/image05.png)
-![](img/image05.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image05.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image05.png)
 
 
 #### Cerrar LibreOffice

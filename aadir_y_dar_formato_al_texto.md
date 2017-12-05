@@ -27,10 +27,10 @@ Escriba o pegue el texto en la caja de texto.
 
 Escriba o pegue el texto en la caja de texto.
 
-![](img/Seleccion_398.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_398.png)
 ### Usar cajas de texto creadas con la herramienta de cajas de texto
 
-![](img/Seleccion_397.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_397.png)
 <li value="1">
 Pulse el icono **Texto ** en la barra de herramientas de dibujo. Si no estuviera visible la barra de herramientas con el icono de texto, actívela en **Ver → Barras de herramientas → Dibujo**. No obstante, el icono también suele estar presente en la **Barra Estandar**.
 </li>

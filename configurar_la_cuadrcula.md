@@ -3,7 +3,7 @@
 
 El color, los espacios y la resolución de los puntos de la cuadricula se pueden elegir individualmente para cada eje. El espacio entre las líneas se define en el diálogo Opciones de la cuadrícula bajo el área de dibujo en las opciones de LibreOffice.org (**Herramientas**** &gt; Opciones &gt; LibreOffice Draw &gt; Cuadrícula**).
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.18.40.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.18.40.png)
 En el diálogo de la imagen, se pueden configurar los siguientes parámetros:
 
 <li>

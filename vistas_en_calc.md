@@ -11,7 +11,7 @@ La función Fijar permite dejar fijas un número de filas al principio de la hoj
 
 La siguiente imagen muestra algunas filas y columnas fijas. La línea horizontal gruesa entre las filas 3 y 14 y la vertical entre las columnas C y H delimitan un área fija. Las filas de la 4 a la 13 y las columnas entre la D y la G se han desplazado fuera de la página. Las tres primeras filas y columnas permanece fijas.
 
-![](img/FijarCeldas.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/FijarCeldas.png)
 Se pueden fijar tanto filas como columnas, incluso ambas a la vez.
 
 **Fijar filas o columnas individualmente**

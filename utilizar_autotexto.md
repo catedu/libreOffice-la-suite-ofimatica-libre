@@ -1,7 +1,7 @@
 
 # Utilizar autotexto
 
-![](img/Texto_automatico_264.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Texto_automatico_264.png)
 Para asignar un atajo del teclado a un fragmento de texto:
 
 <li>

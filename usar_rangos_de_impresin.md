@@ -1,7 +1,7 @@
 
 # Usar rangos de impresión
 
-![](img/Menu_318.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Menu_318.png)
 ### Definir un rango de impresión
 
 Para definir un nuevo rango o modificar un rango existente:

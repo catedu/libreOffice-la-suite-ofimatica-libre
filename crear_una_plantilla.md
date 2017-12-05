@@ -5,7 +5,7 @@ Se puede crear un plantilla de dos maneras: a partir de un documento o utilizand
 
 ## Crear una plantilla a partir de un documento
 
-![](img/Menu_219.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Menu_219.png)
 <li value="1">
 Abra un documento nuevo o uno ya existente del tipo del cual desee crear una plantilla (texto, hoja de cálculo, dibujo o presentación).
 </li>
@@ -43,7 +43,7 @@ También puede guardar menús y barras de herramientas personalizadas en sus pla
 
 ## Crear una plantilla utilizando el asistente
 
-![](img/Asistente_de_presentaciones_220.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_220.png)
 Por ejemplo, el asistente de fax le guiará por las siguientes opciones:
 
 <li value="1">
@@ -88,5 +88,5 @@ Se pueden editar los estilos y contenidos de una plantilla y luego, si se desea,
 Para editar una plantilla, siga los siguientes pasos:
 
 1. Desde el menú principal, elija **Archivo ****→**** Plantilla ****→**** Gestionar**. Se abrirá el diálogo Gestionar plantillas.
-![](img/Seleccion_221.png)1. Edite la plantilla tal como lo haría con cualquier otro documento. Para guardar y aceptar los cambios, elija en el menú principal **Archivo ****→**** Guardar**.
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_221.png)1. Edite la plantilla tal como lo haría con cualquier otro documento. Para guardar y aceptar los cambios, elija en el menú principal **Archivo ****→**** Guardar**.
 

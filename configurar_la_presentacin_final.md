@@ -34,7 +34,7 @@ Las opciones para la transición de diapositivas se encuentran también en el pa
 
 La transición de diapositivas tiene una opción muy útil: *Previsualización automática*. Marque la casilla, y cuando haga un cambio en una transición, la nueva diapositiva se previsualizará en el área de diseño de diapositivas, con su correspondiente efecto de transición.
 
-![](img/Seleccion_406.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_406.png)
 
 
 

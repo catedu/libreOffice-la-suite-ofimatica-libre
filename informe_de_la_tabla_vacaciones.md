@@ -23,7 +23,7 @@ Utilice **&gt;** para mover estos campos desde la lista *Campos disponibles* a l
 
 Utilice **&gt;** para mover estos campos desde la lista *Campos disponibles* a la lista *Campos del informe*: Fecha, Motel, Peajes, Misceláneos, Desayuno, Almuerzo, Cena y CosteTapas. Haga clic en **Siguiente**.
 
-![](img/fig62.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig62.png)
 ### **Paso 2: poner etiquetas a los campos**
 
 Cambie las etiquetas de los campos que desee. Acortaremos Misceláneos a Misc. Haga clic en **Siguiente**.
@@ -32,7 +32,7 @@ Cambie las etiquetas de los campos que desee. Acortaremos Misceláneos a Misc. H
 
 Puesto que estamos agrupando por fecha, utilice el botón **&gt;** para mover el campo *Fecha* a la lista Agrupaciones. Pulse **Siguiente**.
 
-![](img/fig63.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig63.png)
 ### **Paso 4: opciones para ordenar**
 
 No queremos ordenar nada más. Haga clic en **Siguiente**.

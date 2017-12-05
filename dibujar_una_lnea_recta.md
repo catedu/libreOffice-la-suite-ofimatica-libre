@@ -1,10 +1,10 @@
 
 # Dibujar una línea recta
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_16.09.02.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_16.09.02.png)
 Aparecerá un punto de selección de color azul o verde en cada extremo de la línea, indicando que éste es el objeto seleccionado. Los colores dependen del modo de selección (verde para una selección simple y azul cuando está en modo de editar el punto). Este efecto es fácil de descubrir si desde la barra de Opciones se activan las opciones denominadas **Agarraderas sencillas** y **Agarraderas Grandes**.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.19.51.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.19.51.png)
 Mantenga pulsada la tecla *Mayúsculas* mientras dibuja la línea con un ángulo múltiplo de 45 grados (0, 45, 90, 135, y así sucesivamente).
 
 Mantenga pulsada la tecla *Control* (*Ctrl* en PC) para ajustar el extremo de la línea al punto más cercano de la cuadrícula.

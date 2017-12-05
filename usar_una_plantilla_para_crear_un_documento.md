@@ -1,7 +1,7 @@
 
 # Usar una plantilla para crear un documento
 
-![](img/Gestor_de_plantillas_218.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Gestor_de_plantillas_218.png)
 <li>
 Desde el menú principal, elija **Archivo**** ****→**** Nuevo ****→**** Plantillas **o teclee Ctrl+Mayus+N. Se abrirá el diálogo **Gestor de plantillas**.<br />
 </li>
@@ -27,4 +27,4 @@ Pulse **Abrir.** Se cerrarán los diálogos de Plantillas y documentos y se abri
 
 Si se crea un documento eligiendo **Archivo ****→**** Nuevo ****→**** Documento de texto** (también vale para **Hoja de cálculo**, **Dibujo** o **Presentación**) desde el menú principal, LibreOffice crea el documento a partir de la plantilla predeterminada para ese tipo de documento. Sin embargo, se puede configurar una plantilla para que sea la predeterminada. Se puede restablecer posteriormente la plantilla original si se desea.
 
-![](img/Seleccion_226.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_226.png)

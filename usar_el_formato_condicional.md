@@ -7,4 +7,4 @@ Para aplicar este formato a un grupo de celdas, selecciónelas y vaya a **Forma
 
 Ya sólo tendrá que establecer las condiciones que gobernarán el formato de estas celdas.
 
-![](img/Seleccion_313.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_313.png)

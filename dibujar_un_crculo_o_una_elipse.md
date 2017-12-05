@@ -1,8 +1,8 @@
 
 # Dibujar un círculo o una elipse
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.21.09.png)
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.21.21.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.21.09.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.21.21.png)
 Hay tres maneras de dibujar una elipse o un círculo:
 
 <li>

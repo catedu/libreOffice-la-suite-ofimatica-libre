@@ -7,12 +7,12 @@ Las siguientes aplicaciones de los estilos de página y párrafos han sido cogid
 
 Muchos documentos, como cartas e informes, tienen una primera página diferente a las otras páginas en el documento. Por ejemplo, la primera página de una carta con encabezado de página lleva por lo general un encabezado de página diferente a los encabezados de pagina del resto del documento o la primera página de un informe no llevará ni encabezado ni pie de página, mientras que las otras páginas sí los llevan. Con LibreOffice, se puede definir el *estilo de página *para la* *primera página, así como especificar el estilo de las siguientes para que se apliquen automáticamente.
 
-![](img/Seleccion_227.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_227.png)
 ## Dividir un documento en capítulos
 
 De una manera similar, se puede dividir un documento en capítulos. Cada capítulo puede comenzar con el estilo *Primera página*, con las subsiguientes páginas que usarían el estilo *Página predeterminada, *como se explicó anteriormente*. *Al final de cada capítulo, se inserta un salto de página manual y se especifica que la siguiente página debe llevar el estilo *Primera página* para iniciar así el próximo capítulo, tal como se muestra en la siguiente imagen.
 
-![](img/capitulos.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/capitulos.png)
 ## Cambiar la orientación de páginas dentro de un documento
 
 Un documento puede contener páginas con más de una orientación. Un escenario común es tener páginas con orientación apaisada (horizontal) en medio de un documento, mientras las otras páginas llevan una orientación vertical. Este efecto también es posible conseguirlo mediante saltos de página y estilos de página.

@@ -18,7 +18,7 @@ Mientras mantiene pulsadas las teclas *Mayúsculas y **Control,* haga clic en el
 
 Mientras mantiene pulsadas las teclas *Mayúsculas y **Control,* haga clic en el resto de las etiquetas de la fila superior. El borde va aumentando hacia la derecha hasta que incluye todas las etiquetas.
 
-![](img/Fig31.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig31.png)
 <li>
 Pulse el icono **Control** en la barra de herramientas Diseño de formulario para abrir el diálogo Propiedades.
 </li>
@@ -41,7 +41,7 @@ Para cambiar el color del tipo de letra (fuente) de los encabezados:
 Abra Estilo y formatos usando la tecla *F11*. Asegúrese de que está seleccionado el icono Párrafo en el extremo izquierdo de los iconos de la imagen.
 </li>
 
-![](img/Fig32.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig32.png)
 <li>
 Pulse con el botón derecho en el estilo Encabezado 2 para abrir el menú contextual y elija **Modificar **en este menú.
 </li>
@@ -78,4 +78,4 @@ En la ventana Estilo de página, pulse la pestaña Área o Fondo, cambie de *Col
 
 El formulario debería parecerse al de la siguiente imagen.
 
-![](img/Fig33.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig33.png)

@@ -3,7 +3,7 @@
 
 La edición de datos se realiza de manera similar a como se introducen. El primer paso es seleccionar la celda que contiene los datos a editar.
 
-![](img/Eliminar_contenidos_306.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Eliminar_contenidos_306.png)
 Los datos se pueden eliminar de una celda de varias maneras.
 
 **Eliminar sólo los datos**

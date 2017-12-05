@@ -14,9 +14,9 @@ El editor de ecuaciones es para escribir ecuaciones de forma simbólica (como en
 
 
 
-![](img/Captura_de_pantalla_2016-11-29_a_las_23.58.43.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-29_a_las_23.58.43.png)
 Para insertar una ecuación en LibreOffice Writer, debe ir a **Insertar &gt; Objeto &gt; Fórmula**.
 
 El editor de ecuaciones se abre en la parte inferior de la pantalla, y aparece la ventana flotante Elementos de fórmula (antes de Math 3.2, se llamaba “Selección”). También aparecerá una caja pequeña con un borde gris en su documento, donde se verá la fórmula como se muestra en la imagen.
 
-![](img/EditorEcuaciones.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/EditorEcuaciones.png)

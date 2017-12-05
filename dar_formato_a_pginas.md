@@ -12,15 +12,15 @@ El mejor método de diseño depende del aspecto que deba tener el documento fina
 
 ## Para un libro
 
-![](img/Seleccion_271.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_271.png)
 ## Para elaborar un índice
 
-![](img/Seleccion_272.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_272.png)
 ## Boletín
 
-![](img/Seleccion_273.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_273.png)
 ## Glosario
 
-![](img/Seleccion_274.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_274.png)
  
 

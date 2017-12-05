@@ -14,9 +14,9 @@ Mantenga pulsada la tecla *Control* y haga clic sobre la etiqueta NúmTapas. Des
 Pulse con el botón derecho del ratón y seleccione **Campo de control** en el menú contextual.
 </li>
 <li>
-![](img/Seleccion_329.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_329.png)</li>
 
-![](img/Seleccion_329.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_329.png)
 <li>
 El diálogo que aparece tiene la etiqueta *Propiedades: Campo de etiqueta* y contiene todas las propiedades de la etiqueta seleccionada.
 </li>

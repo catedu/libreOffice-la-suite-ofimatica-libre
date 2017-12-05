@@ -12,7 +12,7 @@ Seleccione un diseño en la sección de Diseños del panel de tareas, éste apar
 
 Si está utilizando el estilo *Diapositiva de título, *haga clic en *Pulse para añadir texto *para añadir un subtítulo.
 
-![](img/Seleccion_385.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_385.png)
 ## Insertar diapositivas adicionales
 
 Los pasos para insertar diapositivas adicionales son básicamente los mismos que para seleccionar la página de título. Este proceso hay que repetirlo para cada diapositiva.
@@ -33,7 +33,7 @@ Pulse el icono **diapositiva **de la barra de herramientas de *presentación*.
 
 Pulse el botón derecho del ratón en la diapositiva actual, y seleccione **Diapositiva → Nueva diapositiva **en el menú emergente.
 
-![](img/Seleccion_386.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_386.png)
 **Paso 2:** Seleccione el estilo de diapositiva que se ajuste a sus necesidades.
 
 **Paso 3:** Modifique los elementos de la diapositiva. Hasta ahora, la diapositiva tiene todo lo contenido en la diapositiva maestra, así como el estilo elegido, así que tendremos que eliminar los elementos innecesarios, crear nuevos elementos (como gráficos) e insertar texto.

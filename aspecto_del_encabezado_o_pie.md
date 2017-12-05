@@ -5,4 +5,4 @@ Para cambiar la apariencia del encabezado o el pie, pulse **Más **en el diálo
 
 En este diálogo puede establecer el fondo y borde del encabezado o pie de página.
 
-![](img/EstiloEncabezado.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/EstiloEncabezado.png)

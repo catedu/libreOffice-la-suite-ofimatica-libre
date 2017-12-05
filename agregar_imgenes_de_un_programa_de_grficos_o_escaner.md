@@ -1,7 +1,7 @@
 
 # Agregar imágenes de un programa de gráficos o escaner
 
-![](img/ImagendesdePrograma.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/ImagendesdePrograma.png)
 Puede usar muchos programas gráficos diferentes para editar un archivo gráfico. En estos programas, puede seleccionar, copiar, y pegar una imagen o parte de un gráfico en un documento LibreOffice. La 3 muestra un ejemplo de este procedimiento.
 
 <li>

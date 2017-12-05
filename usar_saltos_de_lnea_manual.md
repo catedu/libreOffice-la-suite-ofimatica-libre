@@ -5,4 +5,4 @@ Para insertar un salto de línea manual mientras escribe en una celda, pulse *Co
 
 Cuando se introduce un salto de línea manual, el ancho de la celda no cambia, sólo cambia la altura. La imagen muestra el resultado de usar dos saltos de línea manuales después de la primera línea de texto.
 
-![](img/Saltos_de_linea.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Saltos_de_linea.jpg)

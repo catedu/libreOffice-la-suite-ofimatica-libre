@@ -1,7 +1,7 @@
 
 # Trabajar con ficheros CSV
 
-![](img/importarcsv.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/importarcsv.png)
 Como las operaciones de crear hojas de cálculo, abrir existentes y gestionar plantillas son similares al resto de aplicaciones de LibreOffice, veremos directamente cómo trabajar con archivos CSV.
 
 Los ficheros con valores separados por comas (CSV) son ficheros de texto con el contenido de una sola hoja de cálculo. Cada línea del fichero CSV representa una fila de la hoja de cálculo. Los signos de coma, punto y coma u otros caracteres se usan para separar las celdas. El texto se pone entre comillas, y los números se escriben sin comillas.
@@ -62,9 +62,9 @@ En el recuadro Nombre de archivo, escribe el nombre del archivo.
 
 Puede ver el cuadro de mensaje mostrado a continuación. Pulse **Mantener formato actual**.
 
-![](img/Confirmar_el_formato_del_archivo_296.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Confirmar_el_formato_del_archivo_296.png)
 <li>
 En el diálogo Exportación de texto, seleccione las opciones que desee y luego pulse Aceptar.
 </li>
 
-![](img/Exportar_a_un_archivo_de_texto_297.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Exportar_a_un_archivo_de_texto_297.png)

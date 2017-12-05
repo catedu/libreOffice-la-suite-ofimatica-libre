@@ -15,13 +15,13 @@ Haga sus selecciones, y pulse **Aceptar**.
 
 Seleccione la pestaña **Hoja**
 
-![](img/Estilo_de_pagina_PageStyle_Registro_317.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Estilo_de_pagina_PageStyle_Registro_317.png)
 **Orden de página**
 
 Se puede establecer el orden en que se imprimen las páginas. Esto es especialmente útil en un documento largo; por ejemplo, controlar el orden de impresión puede ahorrar tiempo si desea compaginar el documento de cierta manera. Las opciones disponibles se muestran a continuación:
-![](img/OrdenImpresion.png)
-![](img/OrdenImpresion.png)![](img/OrdenImpresion1.png)
-![](img/OrdenImpresion1.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OrdenImpresion.png)
+![](img/OrdenImpresion.png)![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OrdenImpresion1.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OrdenImpresion1.png)
 **Imprimir**
 
 Se puede especificar qué detalles imprimir. Los detalles incluyen:

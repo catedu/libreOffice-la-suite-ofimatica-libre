@@ -15,7 +15,7 @@ Guarde la tabla con el nombre *Tipo pago*.
 
 Guarde la tabla con el nombre *Tipo pago*.
 
-![](img/CuadrosdeLista.png)<td width="15%" bgcolor="#94bd5e">**Nota**</td><td width="85%" valign="top">Si tiene que crear varias tablas con los mismos campos, diseñe una tabla y cree las demás mediante [copiar y pegar](crear_una_tabla_copiando_una_tabla_existente.html).</td>
+![](img/CuadrosdeLista.png)<td width="15%" bgcolor="#94bd5e">**Nota**</td><td width="85%" valign="top">Si tiene que crear varias tablas con los mismos campos, diseñe una tabla y cree las demás mediante [copiar y pegar](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/crear_una_tabla_copiando_una_tabla_existente.html).</td>
 
 Si tiene que crear varias tablas con los mismos campos, diseñe una tabla y cree las demás mediante [copiar y pegar](crear_una_tabla_copiando_una_tabla_existente.html).
 

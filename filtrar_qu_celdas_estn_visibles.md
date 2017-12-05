@@ -13,4 +13,4 @@ Otros operadores condicionales incluyen la opción de mostrar el valor mayor o m
 
 **Filtros**** avanzados:** están estructurados de manera similar a los filtros estándar. Las diferencia está en que los filtros avanzados no están limitados a ocho condiciones, y los criterios no se introducen por medio de un diálogo. En su lugar, los filtros especiales se introducen en un área en blanco de una hoja y la herramienta de filtros especiales establece una referencia para aplicarlos.
 
-![](img/Filtro_estandar_314.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Filtro_estandar_314.png)

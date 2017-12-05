@@ -1,7 +1,7 @@
 
 # Diapositivas maestras
 
-![](img/Seleccion_389.png)<td width="699" bgcolor="#94bd5e">**Nota**</td><td width="3646">LibreOffice utiliza dos términos intercambiables para este concepto: *diapositiva maestra *o* página maestra*. En este curso sólo utilizaremos el término *diapositiva maestra*, excepto cuando se esté describiendo la interfaz de usuario.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_389.png)<td width="699" bgcolor="#94bd5e">**Nota**</td><td width="3646">LibreOffice utiliza dos términos intercambiables para este concepto: *diapositiva maestra *o* página maestra*. En este curso sólo utilizaremos el término *diapositiva maestra*, excepto cuando se esté describiendo la interfaz de usuario.</td>
 
 LibreOffice utiliza dos términos intercambiables para este concepto: *diapositiva maestra *o* página maestra*. En este curso sólo utilizaremos el término *diapositiva maestra*, excepto cuando se esté describiendo la interfaz de usuario.
 

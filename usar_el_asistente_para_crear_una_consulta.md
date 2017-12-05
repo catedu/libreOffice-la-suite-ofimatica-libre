@@ -34,14 +34,14 @@ Mueva los campos *TítuloÁlbum* y *FechaDeCompra* de la misma manera.
 
 Para mover el orden de los campos, seleccione el campo que quiera mover y pulse las fechas hacia arriba o hacia abajo.
 
-![](img/Asistente_de_consultas_334.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_consultas_334.png)
 **Paso 2: seleccionar el orden.**
 
 Se pueden usar hasta cuatro campos para ordenar la información de una consulta. Aplicar en este punto una lógica muy simple es de gran ayuda. ¿Cuál es el campo más importante?
 
 En nuestra consulta, el más importante es el intérprete. El título del álbum es menos importante y la fecha de compra no tiene ninguna importancia. Por supuesto, si estamos interesados en la música que compramos en un día determinado, la fecha será lo más importante.
 
-![](img/fig45.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig45.png)
 <li value="1">
 Haga clic en el primer cuadro combinado *Ordenar por*.
 </li>

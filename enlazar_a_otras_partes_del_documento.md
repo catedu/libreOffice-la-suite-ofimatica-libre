@@ -42,7 +42,7 @@ Abra el documento que contiene los elementos entre los que desea establecer la r
 Abra el Navegador (haciendo clic en el icono, eligiendo **Ver ****→**** Navegador** o presionando *F5*).
 </li>
 <li>
-![](img/Seleccion_291.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_291.png)</li>
 <li>
 En la lista de la parte inferior del Navegador, seleccione el documento que contiene el elemento con el que desea establecer la referencia.
 </li>
@@ -59,12 +59,12 @@ En la lista de la parte inferior del Navegador, seleccione el documento que cont
 
 Arrastre el elemento a la ubicación del documento donde desea insertar el hiperenlace. El nombre del elemento se inserta como un hiperenlace activo en el documento.
 
-![](img/hiperenlace.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/hiperenlace.png)
 De igual modo, puede usar el diálogo de Hiperenlace si desea insertar y modificar los hiperenlaces dentro de un documento o entre distintos documentos. 
 
 ## Usar referencias cruzadas
 
-![](img/Campos_292.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Campos_292.png)
 Si incluye de forma manual referencias a otras partes del documento, éstas pueden quedar fácilmente desactualizadas si modifica alguna palabra de un encabezado, añade o elimina ilustraciones o reorganiza los temas. Reemplace las referencias cruzadas que haya incluido manualmente por referencias automáticas, de forma que, cuando actualice los campos, todas ellas se actualicen automáticamente y muestren la redacción o los números de página actuales. La pestaña de *Referencias cruzadas* del diálogo Campos muestra algunos elementos, tales como encabezados, marcas de texto, ilustraciones, tablas y elementos numerados, como por ejemplo los pasos en un procedimiento.
 
 Para insertar un referencia cruzada a un encabezamiento o a un texto:

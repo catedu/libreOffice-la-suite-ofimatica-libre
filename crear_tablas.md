@@ -15,7 +15,7 @@ Con el botón *Diseño de tabla *en la barra de herramientas de tabla.
 
 Todos estos métodos abren el diálogo Insertar tabla. Por otro lado, pulsando sobre el triángulo negro que hay junto al botón de tabla en la barra de herramientas estándar, se despliega un menú donde se puede elegir el número de filas y columnas para la tabla.
 
-![](img/Insertar_una_tabla_399.png)<td width="707" bgcolor="#94bd5e">**Nota**</td><td width="3638">Si se selecciona alguno de los estilos de la sección Diseño de tabla del panel de tareas, se crea una tabla basada en el estilo seleccionado. Si se crea una tabla por otro método, todavía se puede aplicar posteriormente el estilo deseado.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_una_tabla_399.png)<td width="707" bgcolor="#94bd5e">**Nota**</td><td width="3638">Si se selecciona alguno de los estilos de la sección Diseño de tabla del panel de tareas, se crea una tabla basada en el estilo seleccionado. Si se crea una tabla por otro método, todavía se puede aplicar posteriormente el estilo deseado.</td>
 
 Si se selecciona alguno de los estilos de la sección Diseño de tabla del panel de tareas, se crea una tabla basada en el estilo seleccionado. Si se crea una tabla por otro método, todavía se puede aplicar posteriormente el estilo deseado.
 
@@ -25,7 +25,7 @@ Cuando haya creado la tabla, puede modificarla de muchas formas, tal y como lo h
 
 Se puede cambiar rápidamente el aspecto de una tabla o cualquier tabla nueva modificando el estilo de la tabla desde la sección de Diseño de tablas del panel de tareas. Puede elegir resaltar las cabeceras y los totales en las filas primera y última, y aplicar un estilo de bandas intercaladas para las demás filas y columnas.
 
-![](img/Seleccion_400.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_400.png)
 Al terminar el diseño de la tabla, introducir datos en una tabla es similar al trabajo con cuadros de texto. Pulse en la celda a la que desee añadir datos y comience a escribir. Para moverse rápidamente por las celdas, use las siguientes combinaciones de teclas:
 
 <li value="1">

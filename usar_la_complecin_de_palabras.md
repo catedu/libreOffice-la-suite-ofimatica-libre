@@ -1,7 +1,7 @@
 
 # Usar la compleción de palabras
 
-![](img/Autocorreccion_263.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Autocorreccion_263.png)
 Para desactivar Compleción de palabras, seleccione **Herramientas ****→**** Opciones de autocorrección ****→**** Compleción de palabra **y desmarque la opción **Habilitar la compleción de palabras**.
 
 Puede personalizar esta función desde la página** Compleción de palabra **del diálogo de Autocorrección:

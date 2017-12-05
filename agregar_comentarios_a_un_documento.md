@@ -9,7 +9,7 @@ Seleccione **Herramientas ****→**** Opciones ****→**** LibreOffice ****→*
 
 Si edita el documento más de una persona, a cada autor se le asignará un código diferente de fondo de color, para facilitar la identificación del autor de las distintas notas.
 
-![](img/Comentarios.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Comentarios.png)
 Al hacer clic en la flecha que aparece en la esquina inferior derecha de un comentario, se desplegará un menú que le permitirá borrar el comentario actual, eliminar todos los realizados por el mismo autor, o borrar todos los comentarios del documento. Desde este menú, puede aplicar igualmente algunos formatos básicos al texto del comentario. Desde el menú principal puede cambiar la tipografía, el tamaño y el alineamiento.
 
 Si desea navegar desde un comentario a otro, abra el Navegador (pulsando *F5*), expanda la sección de Comentarios y haga clic en el texto para mover el cursor al punto de anclaje del comentario en el documento. Haga clic con el botón secundario sobre él para realizar una edición rápida o para eliminarlo.

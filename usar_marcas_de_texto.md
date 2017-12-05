@@ -12,4 +12,4 @@ En el diálogo de Insertar Marcador, la caja de mayor tamaño le mostrará las m
 
 En el diálogo de Insertar Marcador, la caja de mayor tamaño le mostrará las marcas de texto anteriormente definidas. Escriba el nombre para la marca de texto en el caja superior y haga clic en **Aceptar** para guardar.
 
-![](img/Insertar_marcador_293.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_marcador_293.png)

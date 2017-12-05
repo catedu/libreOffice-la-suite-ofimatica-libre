@@ -3,7 +3,7 @@
 
 El método más sencillo para introducir una fórmula en la ventana de Selección se muestra en la siguiente imagen.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_0.16.47.png)<td width="700" bgcolor="#94bd5e">**Nota**</td><td width="4415">En las versiones de LibreOffice Math anteriores a la V3.2.0, la ventana Elementos de fórmula se llamaba Selección.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_0.16.47.png)<td width="700" bgcolor="#94bd5e">**Nota**</td><td width="4415">En las versiones de LibreOffice Math anteriores a la V3.2.0, la ventana Elementos de fórmula se llamaba Selección.</td>
 
 En las versiones de LibreOffice Math anteriores a la V3.2.0, la ventana Elementos de fórmula se llamaba Selección.
 
@@ -34,20 +34,20 @@ Pulse el símbolo de multiplicación.
 
 Pulse el símbolo de multiplicación.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_0.22.36.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_0.22.36.png)
 Cuando seleccione el símbolo de multiplicación en la ventana de Elementos de fórmula, ocurrirán dos cosas:
 
 <li>
 El editor de ecuaciones muestra las marcas: &lt;?&gt; times &lt;?&gt;.
 </li>
 <li>
-![](img/Captura_de_pantalla_2016-11-30_a_las_0.24.21.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_0.24.21.png)</li>
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_0.24.21.png)
-![](img/asdfsadf.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_0.24.21.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/asdfsadf.png)
 Los símbolos “ &lt;?&gt; ” de la imagen son marcas que usted puede sustituir por otro texto. La ecuación se actualizará automáticamente, y el resultado será similar al de la siguiente imagen.
 
-![](img/asdf.png)<td width="700" bgcolor="#94bd5e">**Nota**</td><td width="4415">Para que la ecuación se actualice automáticamente, seleccione **Ver &gt; Actualizar automáticamente**. Para actualizar una fórmula manualmente, pulse *F9* o el menú **Ver &gt; Actualizar**.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/asdf.png)<td width="700" bgcolor="#94bd5e">**Nota**</td><td width="4415">Para que la ecuación se actualice automáticamente, seleccione **Ver &gt; Actualizar automáticamente**. Para actualizar una fórmula manualmente, pulse *F9* o el menú **Ver &gt; Actualizar**.</td>
 
 Para que la ecuación se actualice automáticamente, seleccione **Ver &gt; Actualizar automáticamente**. Para actualizar una fórmula manualmente, pulse *F9* o el menú **Ver &gt; Actualizar**.
 

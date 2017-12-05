@@ -7,7 +7,7 @@ Todos los campos cuya etiqueta contenga la palabra Pago son demasiado anchos. Ha
 Pulse y mantenga la tecla *Control *en el campo APago.
 </li>
 
-![](img/Figura21.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Figura21.png)
 <li>
 Mueva el cursor sobre el punto de control central de la derecha. El cursor se convertirá en una flecha doble.
 </li>

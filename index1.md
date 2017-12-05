@@ -5,7 +5,7 @@
 
 Todo el contenido de este módulo ha sido obtenido de la [documentación oficial de LibreOffice](https://wiki.documentfoundation.org/Documentation/es). Podéis consultarla con más detalle en [este documento](https://wiki.documentfoundation.org/images/b/b9/0100GS3-PrimerosPasosConLibO.pdf) así como acceder a la autoría de este material. Se ha comprobado el correcto funcionamiento de todo lo expuesto a continuación, utilizando la versión de LibreOffice 5.0.3.2 
 
-![](img/image06.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image06.png)
 El software LibreOffice es un conjunto completo de herramientas de ofimática disponibles libremente.
 
 El formato de archivo propio de LibreOffice es OpenDocument, un formato estándar y abierto que está siendo adoptado por gobiernos de todo el mundo como formato de archivo obligatorio para la publicación y aceptación de documentos. LibreOffice también puede abrir y guardar documentos en muchos otros formatos, incluyendo aquellos utilizados en varias versiones de Microsoft Office.

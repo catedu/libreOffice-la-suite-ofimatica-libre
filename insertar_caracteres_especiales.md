@@ -18,7 +18,7 @@ Haga clic en **Insertar ****→**** Caracteres especiales** para abrir la ventan
 
 Los distintos grupos de fuentes tipográficas incluyen diferentes símbolos, por lo que si no encuentra el símbolo que necesita, pruebe a cambiar la selección de *Fuentes.*
 
-![](img/caracteresespe.png)<td width="16%" bgcolor="#83caff">**Sugerencia**</td><td width="84%">Observe que los símbolos seleccionados aparecen uno tras otro en la parte inferior izquierda de la ventana de Símbolos.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/caracteresespe.png)<td width="16%" bgcolor="#83caff">**Sugerencia**</td><td width="84%">Observe que los símbolos seleccionados aparecen uno tras otro en la parte inferior izquierda de la ventana de Símbolos.</td>
 
 Observe que los símbolos seleccionados aparecen uno tras otro en la parte inferior izquierda de la ventana de Símbolos.
 

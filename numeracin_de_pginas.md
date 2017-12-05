@@ -27,7 +27,7 @@ Presione la barra espaciadora una vez, escriba la palabra “de” y un espacio,
 
 ## Reiniciar la numeración de páginas
 
-![](img/Insertar_salto_278.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_salto_278.png)
 Puede reiniciar la numeración de las páginas de dos maneras.
 
 **Método 1:**

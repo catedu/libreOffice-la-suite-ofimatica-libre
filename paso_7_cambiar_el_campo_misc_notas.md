@@ -15,7 +15,7 @@ Desplácese hasta la configuración de *Barras de desplazamiento.* Cambie el val
 
 Pulse sobre el icono **Control** para abrir la ventana Propiedades.
 
-![](img/Fig28.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig28.png)
 <li>
 Cierre la ventana Propiedades.
 </li>

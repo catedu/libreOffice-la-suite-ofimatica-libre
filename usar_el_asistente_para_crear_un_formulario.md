@@ -16,7 +16,7 @@ Pulse la doble flecha de la derecha para mover todos los campos hacia la lista *
 
 Pulse la doble flecha de la derecha para mover todos los campos hacia la lista *Campos del formulario*. Haga clic en **Siguiente.**
 
-![](img/AistenteForm.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/AistenteForm.png)
 **Paso 2: configurar un subformulario.**
 
 Dado que ya hemos creado una relación entre las tablas Combustible y Vacaciones, usaremos esa relación. Si no se hubieran definido relaciones se podría hacer en el paso 4.
@@ -33,7 +33,7 @@ El campo Combustible aparece en la lista de relaciones para agregar, así que pu
 
 Pulse en *Subformulario basado en relación existente.*
 
-![](img/SubForm.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SubForm.png)
 **Paso 3: añadir campos a un subformulario.**
 
 Este paso es exactamente igual que el paso 1. La única diferencia es que en el subformulario no se usan todos los campos.
@@ -58,7 +58,7 @@ Utilice el botón **&gt;&gt;** para mover todos los campos a la derecha.
 
 Utilice el botón **&lt;** para mover el campo IdCombustible hacia la izquierda.
 
-![](img/SubForm1.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SubForm1.png)
 **Paso 4: obtener campos combinados.**
 
 Este paso es para tablas o consultas en las que no se ha definido una relación. Como nosotros ya habíamos definido la relación, el asistente ignora este paso.
@@ -73,7 +73,7 @@ Independientemente de que se seleccione uno, dos o más pares de campos de dos t
 
 **Paso 5: organizar los campos de control.**
 
-![](img/FormySubform.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/FormySubform.png)
 <li>
 Disposición del formulario principal: pulse el segundo icono (*En columnas – Etiquetas arriba*). Las etiquetas se colocarán encima de sus campos
 </li>

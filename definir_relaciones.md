@@ -45,9 +45,9 @@ Puede definir la relación entre las tablas Vacaciones y Combustible de dos modo
 Seleccione y arrastre el campo *Fecha* en la tabla *Combustible* hasta el campo *Fecha* en la tabla *Vacaciones*. Cuando suelte el botón del ratón, se formará una línea de conexión entre los dos campos.
 </li>
 
-![](img/Relaciones.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Relaciones.png)
 <li>
-![](img/Seleccion_324.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_324.png)</li>
 
 <ul>
 <li value="1">
@@ -65,7 +65,7 @@ Seleccione *Fecha* en la lista de la tabla Vacaciones. Ahora todo debería parec
 
 Pulse **Aceptar**.
 
-![](img/NuevaRelacion.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/NuevaRelacion.png)
 <li>
 Modificar las *Opciones de actualización* y *Opciones de eliminación* de la ventana Relaciones.
 </li>
@@ -92,4 +92,4 @@ Seleccione **Eliminar cascada**.
 
 Aunque estas opciones no son estrictamente necesarias, sirven de ayuda. Tenerlas seleccionadas permite actualizar una tabla que tenga una relación definida con otra tabla, así como eliminar un campo de una tabla.
 
-![](img/EditarOpcionesRelacion.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/EditarOpcionesRelacion.png)

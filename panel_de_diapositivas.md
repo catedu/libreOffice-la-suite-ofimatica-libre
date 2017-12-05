@@ -1,7 +1,7 @@
 
 # Panel de diapositivas
 
-![](img/Seleccion_344.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_344.png)
 Se pueden realizar una gran variedad de operaciones sobre una o varias diapositivas en el panel de diapositivas:
 
 <li>

@@ -3,7 +3,7 @@
 
 Al final de la sección anterior, dejamos el informe Estadísticas combustible abierto en modo edición. Trabajaremos en este informe. Estos mismos pasos se pueden usar con cualquier informe que abra para editar.
 
-![](img/fig67.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig67.png)
 El autor es el nombre que puso en **Herramientas →Opciones → LibreOffice → Datos de usuario**. La fecha no es correcta. Es necesario mover las columnas hacia la izquierda para que tengan un aspecto mejor. Ninguno de los números son correctos, pero su único propósito es mostrar el número de decimales.
 
 ### **Paso 1: cambiar la fecha.**
@@ -24,7 +24,7 @@ Cambie el formato de la fecha:
 Haga doble clic en el campo de fecha que acaba de insertar. Se abre la ventana Editar campo:Documento (Figura 68).
 </li>
 
-![](img/fig68.png)<ol type="a" start="2">
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig68.png)<ol type="a" start="2">
 <li>
 Puesto que es un informe dinámico, cambie el campo Selección de Fecha (fija) a Fecha.
 </li>
@@ -38,7 +38,7 @@ Cambie el Formato al que desee (yo he usado la opción viernes, 31 de diciembre 
 
 Se puede cambiar el ancho de las columnas moviendo el cursor sobre el borde derecho de cada columna para que se convierta en una flecha doble. Entonces arrástrelo y suéltelo donde quiera. Esto hay que hacerlo con cada columna en cada tabla del informe. También se puede hacer con la última columna de la derecha, aunque no tenga borde negro. Ahora debería parecerse al de la Figura 69.
 
-![](img/fig69.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig69.png)
 **Paso 3: cambie el formato numérico de las celdas.**
 
 La cantidad de combustible debería tener tres lugares decimales. El Principio, Fin y Distancia deberían tener un lugar decimal. El Coste combustible debería ser moneda y tener 2 decimales y Coste por kilómetro debería tener tres lugares decimales.
@@ -61,7 +61,7 @@ Haga clic en la marca de verificación verde. Haga clic en **Aceptar**.
 
 Haga clic en la marca de verificación verde. Haga clic en **Aceptar**.
 
-![](img/fig70.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig70.png)
 <li>
 Cambie el campo Coste combustible.
 </li>
@@ -114,4 +114,4 @@ Pulse la marca de verificación verde.
 
 Haga doble clic en el informe. Ahora debería parecerse a la siguiente imagen.
 
-![](img/fig71.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig71.png)

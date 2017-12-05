@@ -18,7 +18,7 @@ Según la zona geográfica, se usa “clave” o “llave” primaria. Se intent
 
 Pulse *Usar el asistente para crear tabla*. Se abre el asistente para tablas.
 
-![](img/SeleccionarCampos.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SeleccionarCampos.png)
 Usaremos la tabla de ejemplo *ColecciónCD* en la categoría Personal para seleccionar los campos que necesitamos.
 
 <li value="1">
@@ -55,7 +55,7 @@ Si se equivoca en el orden de los campos seleccionados pulse el nombre del campo
 
 En este paso establecerá las propiedades de los campos. Cuando pulse en un campo, la información a la derecha cambia. Entonces, se pueden hacer cambios para ajustarlos a sus necesidades. Pulse en cada campo, de uno en uno, y haga los cambios que se indican abajo.
 
-![](img/TiposdeCampoyFormato.png)<td width="14%" bgcolor="#94bd5e">**Nota**</td><td width="86%" valign="top">Si alguno de estos campos requiere un valor, ajuste *Entrada requerida* a **Sí**. Entonces no se permitirá una entrada con ese campo en blanco. En general solamente se usa *Entrada requerida *a **Sí** si siempre se tiene que poner algo en ese campo. Por defecto *Entrada requerida * está ajustado a **No**.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/TiposdeCampoyFormato.png)<td width="14%" bgcolor="#94bd5e">**Nota**</td><td width="86%" valign="top">Si alguno de estos campos requiere un valor, ajuste *Entrada requerida* a **Sí**. Entonces no se permitirá una entrada con ese campo en blanco. En general solamente se usa *Entrada requerida *a **Sí** si siempre se tiene que poner algo en ese campo. Por defecto *Entrada requerida * está ajustado a **No**.</td>
 
 Si alguno de estos campos requiere un valor, ajuste *Entrada requerida* a **Sí**. Entonces no se permitirá una entrada con ese campo en blanco. En general solamente se usa *Entrada requerida *a **Sí** si siempre se tiene que poner algo en ese campo. Por defecto *Entrada requerida * está ajustado a **No**.
 
@@ -112,7 +112,7 @@ Cuando haya terminado pulse **Siguiente**.
 
 Cada campo tiene un *Tipo de campo*, y éste debe especificarse. Los tipos incluyen texto, integer, fecha y decimal. Si el campo va a contener información general (por ejemplo, un nombre o una descripción), use texto. Si el campo va a contener siempre un número (por ejemplo, un precio), el tipo debería ser decimal u otro tipo de campo numérico. El asistente elige el tipo de campo correcto, por lo que para hacerse una idea de cómo funciona esto, vea lo que el asistente ha seleccionado para cada campo.
 
-![](img/Asistente_de_tablas_323.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_tablas_323.png)
 <li>
 Marque *Crear una clave principal*.
 </li>

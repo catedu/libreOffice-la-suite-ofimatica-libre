@@ -27,7 +27,7 @@ Las diapositivas maestras que ha cargado estarán disponibles la próxima vez qu
 
 Para evitar que el tamaño de la presentación sea demasiado grande, puede reducir el número de diapositivas maestras utilizadas.
 
-![](img/Cargar_estilo_de_pagina_393.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Cargar_estilo_de_pagina_393.png)
 
 
 

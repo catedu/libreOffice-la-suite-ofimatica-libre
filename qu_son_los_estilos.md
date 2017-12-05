@@ -1,7 +1,7 @@
 
 # ¿Qué son los estilos?
 
-![](img/estilos.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/estilos.png)
 Muchas personas dan formato manualmente a los párrafos, palabras, tablas, diseños de página y otras partes de sus documentos sin prestar atención a los estilos. La finalidad de los estilos es escribir documentos según los atributos *físicos*. Por ejemplo, es posible especificar la familia de las fuentes, sus tamaños y algunos otros atributos, como negrita o cursiva.
 
 Los estilos son atributos *lógicos.* El uso de los estilos significa que usted deja de decir “tamaño de fuente 14pt, Times New Roman, negrita, centrado”, para empezar a decir “Título”, puesto que se ha definido el estilo de “Título” con esas características. En otras palabras, el uso de estilos significa que se cambia el énfasis sobre los elementos, centrándose en lo que el texto realmente es *como elemento*, en vez de centrarse en la apariencia en sí misma del texto, página, etc.

@@ -11,7 +11,7 @@ Haga clic en **Crear consulta en vista Diseño.**
 
 ### Paso 2: añada las tablas.
 
-![](img/fig46.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig46.png)
 <li value="1">
 Pulse en *Combustible* para resaltarlo.
 </li>
@@ -40,7 +40,7 @@ Haga doble clic en el campo *Cuentakilómetros*.
 
 La tabla en la parte inferior de la ventana de consulta debería mostrar tres columnas.
 
-![](img/fig48.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig48.png)
 ### Paso 4: establezca los criterios de la consulta.
 
 Queremos que IDCombustible en la consulta empiece por el número 1
@@ -49,12 +49,12 @@ Queremos que IDCombustible en la consulta empiece por el número 1
 Escriba *&gt;0* en la celda Criterio de la tabla de la consulta.
 </li>
 <li>
-![](img/Seleccion_336.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_336.png)</li>
 
-![](img/Seleccion_336.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_336.png)
 La siguiente imagen muestra la tabla Combustible con mis entradas y el resultado de la consulta basada en la tabla Combustible. La consulta resultante está en la tabla de la derecha.
 
-![](img/Seleccion_335.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_335.png)
 ### Paso 5: guarde y cierre la consulta.
 
 Ya que esta consulta contiene las lecturas finales del cuentakilómetros para nuestros cálculos, llámela Lecturas-finales cuando la guarde. Luego cierre la consulta.
@@ -77,7 +77,7 @@ Añada la tabla Combustible a la consulta como hizo en el paso 2: añada las tab
 Pulse *Consultas* para obtener la lista de consultas de la base de datos.
 </li>
 
-![](img/fig52.png)<ol type="a" start="2">
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig52.png)<ol type="a" start="2">
 <li>
 Pulse en Lecturas-finales.
 </li>
@@ -103,7 +103,7 @@ Haga doble clic en *Cuentakilómetros* en la tabla Combustible.
 
 Haga doble clic en *Cuentakilómetros* en la consulta Lecturas-finales
 
-![](img/fig53.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig53.png)
 ### **P**aso 8: introducir el campo de diferencia IDCombustible.
 
 Queremos que la diferencia entre el valor IDCombustible de la tabla Combustible y el valor IDCombustible de la consulta Lecturas-finales sea igual a uno (“1”).
@@ -112,7 +112,7 @@ Queremos que la diferencia entre el valor IDCombustible de la tabla Combustible 
 Escriba "Lecturas-finales"."IdCombustible"- "Combustible"."IdCombustible" en el campo que hay a la derecha del campo Cuentakilómetros de la tabla Combustible. Escriba el número 1 (uno) en la celda Criterio de esta columna.
 </li>
 
-![](img/fig54.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig54.png)
 <li>
 Calcular la distancia viajada:
 </li>
@@ -143,7 +143,7 @@ Después de ejecutar la consulta para asegurarnos de que funciona correctamente,
 Pulse el icono Ejecutar consulta en la barra de herramientas Diseño de consulta. Los resultados se muestran en la siguiente imagen.
 </li>
 
-![](img/fig57.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig57.png)
 Fíjese que la etiqueta de la última columna no está totalmente porque algunas de las etiquetas son largas. Podemos arreglar este problema usando un alias para algunos campos. Las etiquetas se sustituyen por sus alias.
 
 <li>
@@ -152,12 +152,12 @@ Añadir alias:
 
 Rellene los alias como se muestra en la siguiente imagen.
 
-![](img/fig58.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig58.png)
 <li>
 Ejecute la consulta nuevamente.
 </li>
 
-![](img/fig59.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig59.png)
 No se necesita la columna que muestra la diferencia entre los campos IDCombustible de la tabla y la consulta, por eso la ocultamos. Aunque no esté visible se seguirá usando en los cálculos.
 
 <li>

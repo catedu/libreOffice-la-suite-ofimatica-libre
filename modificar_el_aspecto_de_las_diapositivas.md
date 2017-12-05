@@ -39,4 +39,4 @@ Si alguna de estas diapositivas parece innecesaria, ocúltela y vuelve a ver la 
 
 Una vez haya respondido a estas preguntas, haga los cambios pertinentes. Esto es más sencillo de hacer en la vista de organizador de diapositivas.
 
-![](img/Seleccion_388.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_388.png)

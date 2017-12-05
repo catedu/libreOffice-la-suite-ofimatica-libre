@@ -33,4 +33,4 @@ Si no ha guardado el documento desde el último cambio, aparecerá un cuadro de 
 
 En el cuadro de diálogo Seleccionar certificado, seleccione su certificado y haga clic en **Aceptar**. 
 
-![](img/image18.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image18.png)

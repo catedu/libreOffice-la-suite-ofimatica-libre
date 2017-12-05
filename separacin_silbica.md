@@ -5,7 +5,7 @@ Dispone de varias opciones respecto a la división de palabras: permitir que Wri
 
 ## Separación silábica automática
 
-![](img/SilabaEstilo.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SilabaEstilo.png)
 <li>
 Presione *F11* para abrir la ventana de Estilo y formato.
 </li>
@@ -26,10 +26,10 @@ Debajo de **División de palabras**, seleccione o desmarque la opción de **Auto
 
 La activación de la separación silábica para el estilo de párrafo predeterminado afecta a todos los otros estilos de párrafos que se basan en él. Puede cambiar individualmente otros estilos de manera que la separación silábica no esté activa, por ejemplo, en el caso de que no desee que los encabezados admitan separación silábica. Cualquier estilo que no se base en el *Predeterminado* no se verá afectado.
 
-![](img/SilabaParra.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SilabaParra.png)
 Asimismo, puede configurar las opciones de la separación silábica a través de **Herramientas ****→**** Opciones ****→**** Configuración de idioma ****→**** Asistencia a la escritura**. En Opciones, en la parte inferior del diálogo, desplace la barra hacia abajo hasta encontrar las configuraciones de separación silábica.
 
-![](img/SilabaEst.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/SilabaEst.png)
 Si desea cambiar el tamaño mínimo de la palabra para aplicar la separación silábica, el número mínimo de caracteres antes o después de un salto de fila, selecciones el elemento y a continuación haga clic en el botón **Editar **de la sección Opciones.
 
 Las opciones de configuración de división silábica en el diálogo de **Asistencia a la escritura** son efectivas sólo cuando la división silábica está activada a través de los estilos de párrafo.

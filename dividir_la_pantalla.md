@@ -5,7 +5,7 @@ Otra manera de cambiar la vista es dividir la ventana, también conocida como di
 
 ¿Por qué puede querer hacer esto? Imagine que tiene una hoja grande y una de las celdas tiene un valor que se usa en fórmulas de otras tres celdas. Usando la técnica de dividir la pantalla, puede situar en una porción el valor y en las tres restantes las celdas con las fórmulas. Así puede modificar el valor base y al mismo tiempo observar lo que sucede con las fórmulas.
 
-![](img/Dividir.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividir.png)
 
 
 ## Dividir la pantalla horizontalmente
@@ -16,12 +16,12 @@ Para dividir la pantalla horizontalmente:
 Mueva el ratón a la barra de desplazamiento vertical, en la parte derecha de la pantalla, y póngalo encima del botón pequeño que hay en la parte superior.
 </li>
 
-![](img/Dividirv.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirv.jpg)
 <li>
 Mueva el puntero del ratón a la línea gruesa y se transformará en una línea con dos flechas.
 </li>
 
-![](img/Dividirv1.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirv1.jpg)
 <li>
 Mantenga pulsado el ratón y una línea gris atravesará la página. Arrastre el ratón hacia abajo y para desplazar la línea.
 </li>
@@ -44,7 +44,7 @@ Para dividir la pantalla verticalmente:
 Mueva el ratón a la barra de desplazamiento horizontal, en la parte inferior de la pantalla.
 </li>
 
-![](img/Dividirh.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirh.jpg)
 <li>
 Inmediatamente a la derecha hay una línea gruesa negra. Mueva el puntero del ratón sobre esta línea y éste cambiará a una línea con dos flechas.
 </li>

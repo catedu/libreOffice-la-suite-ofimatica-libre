@@ -17,14 +17,14 @@ Pulse sobre el pequeño triángulo invertido que hay justo a la derecha del cuad
 
 En el Navegador (F5) haga doble clic en la barra de estado, donde indica la secuencia de hoja. Escriba la referencia a la celda en los dos campos superiores, etiquetados como Columna y Fila, y pulse *Enter*. En la siguiente imagen, el Navegador tiene seleccionada la celda C2.
 
-![](img/NavegadorCalc.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/NavegadorCalc.png)
 El Navegador muestra listas con todos los objetos de la hoja de cálculo, agrupados en categorías. Si aparece un indicador (un signo de más o una flecha) junto a una categoría, al menos existe un objeto de esta categoría. Para abrir una categoría y ver la lista de elementos, pulse en el indicador.
 
 Para ocultar la lista de categorías y mostrar sólo los iconos de la parte superior, pulse el icono **Contenidos** . Vuelva a pulsar el icono para mostrar la lista.
 
 ## Movimiento de celda en celda
 
-![](img/grupodeCeldasSeleccionadas.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/grupodeCeldasSeleccionadas.jpg)
 **Usando el ratón**
 
 Para mover el foco usando el ratón, simplemente mueva el puntero del ratón a la celda donde debe estar el foco y pulse en ella. Esto cambia el foco a la nueva celda. Este método es el más útil cuando las dos celdas están muy separadas.

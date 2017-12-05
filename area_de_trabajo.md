@@ -1,7 +1,7 @@
 
 # Area de trabajo
 
-![](img/Seleccion_376.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_376.png)
 Cada vista está diseñada para hacer ciertas tareas más fácilmente. En resumen:
 
 <li value="1">

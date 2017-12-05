@@ -3,7 +3,7 @@
 
 Queremos que los controles aparezcan como en la imagen.
 
-![](img/FormView.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/FormView.png)
 <li value="1">
 Pulse en el primer control que quiera mover. Alrededor del control aparece un borde con ocho puntos de control verdes.
 </li>

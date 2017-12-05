@@ -20,7 +20,7 @@ Al iniciarse Impress, aparecerá el Asistente de presentación.
 
 Si no se quiere iniciar el asistente cada vez que se abra Impress, seleccione la casilla **No volver a mostrar este asistente. **Se puede volver a activar en **Herramientas → Opciones → LibreOffice Impress → General → Documento nuevo**, seleccionando **Iniciar con asistente.**
 
-![](img/Asistente_de_presentaciones_382.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_382.png)
 <li value="1">
 Seleccione *Presentación vacía *en **Tipo. **Esto creará una presentación sin contenido.
 </li>
@@ -28,7 +28,7 @@ Seleccione *Presentación vacía *en **Tipo. **Esto creará una presentación si
 Pulse **Siguiente****. **La siguiente imagen muestra el segundo paso del asistente de presentación, tal como aparece si seleccionas *presentación vacía *en el paso previo. Si seleccionas *desde plantilla, *aparecerá una diapositiva de ejemplo en la caja de previsualización. Esta sección explica cómo crear una nueva presentación. Las propiedades seleccionadas aquí son generales, y se aplicarán a todas las diapositivas.
 </li>
 <li>
-![](img/Asistente_de_presentaciones_383.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_383.png)</li>
 <li>
 Elija un diseño en Elija un estilo de diapositiva. La sección de estilo de diapositiva ofrece dos opciones, fondos de presentación y presentaciones. Cada una tiene una lista de opciones para los diseños de diapositiva. Si se quiere utilizar una de éstas en vez de la original, pulse para seleccionarla.
 </li>
@@ -46,7 +46,7 @@ Pulse **Siguiente.** Aparecerá el tercer paso del asistente.
 
 Pulse **Siguiente.** Aparecerá el tercer paso del asistente.
 
-![](img/Asistente_de_presentaciones_384.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_384.png)
 <li>
 Elija el efecto de transición deseado en el desplegable *Efecto*.
 </li>

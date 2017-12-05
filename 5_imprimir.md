@@ -7,7 +7,7 @@ Este capítulo provee información general acerca de como imprimir, exportar y e
 
 #### **Impresión rápida**
 
-![](img/Seleccion_211.1.png)<td width="16%" bgcolor="#94bd5e">**Nota**</td><td width="84%">Puede cambiar la acción del icono de **imprimir archivo directamente** para enviar el documento a la impresora definida para el documento en vez de a la impresora definida para la computadora. Vaya a **Herramientas**** → Opciones → Cargar/Guardar → General** y seleccione la opción **Cargar configuraciones de la impresora con el documento**.</td>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_211.1.png)<td width="16%" bgcolor="#94bd5e">**Nota**</td><td width="84%">Puede cambiar la acción del icono de **imprimir archivo directamente** para enviar el documento a la impresora definida para el documento en vez de a la impresora definida para la computadora. Vaya a **Herramientas**** → Opciones → Cargar/Guardar → General** y seleccione la opción **Cargar configuraciones de la impresora con el documento**.</td>
 
 Puede cambiar la acción del icono de **imprimir archivo directamente** para enviar el documento a la impresora definida para el documento en vez de a la impresora definida para la computadora. Vaya a **Herramientas**** → Opciones → Cargar/Guardar → General** y seleccione la opción **Cargar configuraciones de la impresora con el documento**.
 

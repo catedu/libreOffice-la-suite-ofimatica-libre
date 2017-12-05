@@ -10,6 +10,6 @@ Las rotaciones se hacen sobre un eje que se muestra como un símbolo pequeño. P
 
 Si mantiene pulsada la tecla *Mayúsculas* durante la rotación, la acción se ejecutará aumentando cada vez 15°.
 
-![](img/Captura_de_pantalla_2016-11-30_a_las_15.30.34.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Captura_de_pantalla_2016-11-30_a_las_15.30.34.png)
 
 

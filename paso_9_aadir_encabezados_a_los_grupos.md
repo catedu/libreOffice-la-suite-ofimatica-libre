@@ -15,7 +15,7 @@ En el campo combinado *Cambiar estilo* cambie *Predeterminado* por *Encabezado 2
 
 Pulse la tecla *Enter* para mover el cursor hacia abajo hasta el espacio entre los campos Fecha y Desayuno.
 
-![](img/Fig30.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig30.png)
 <li>
 Utilice la barra espaciadora para mover el cursor a donde desee que comience el encabezado.
 </li>

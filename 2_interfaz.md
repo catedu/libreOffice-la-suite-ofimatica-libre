@@ -27,10 +27,10 @@ LibreOffice posee varios tipos de barras de herramientas: acopladas, flotantes y
 
 La barra de herramientas acoplada superior (esta es la posición por defecto) se denomina **barra de herramientas Estándar** y es la misma para todas las aplicaciones de LibreOffice.
 
-![](img/Seleccion_207.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_207.png)
 La segunda barra de herramientas en la parte superior (esta es la posición por defecto) es la** barra de herramientas de Formato**. Es una barra contextual que muestra las herramientas relevantes según la posición actual del cursor del ratón o selección. Por ejemplo, cuando el cursor está sobre un gráfico, la barra de Formato proporciona herramientas para el formato de gráficos; cuando el cursor está sobre el texto, las herramientas sirven para dar formato de texto.
 
-![](img/Seleccion_208.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_208.png)
 #### **Mostrar u ocultar las barras de herramientas**
 
 Para mostrar u ocultar barras de herramientas, seleccione **Ver → Barras de Herramientas**, a continuación haga clic sobre el nombre de la barra de herramientas en la lista. Una barra de herramientas activa muestra una marca de verificación junto al nombre. Las barras de herramientas desprendibles no se listan en el menú Ver.
@@ -84,7 +84,7 @@ Puede personalizar las barras de herramientas de varias maneras, incluyendo la e
 
 Para acceder a las opciones de personalización de las barras de herramientas, utilice la flecha hacia abajo en el extremo de la barra de herramienta o en el título (vea la Figura 6).
 
-![](img/image14.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image14.jpg)
 Figura 6: personalizar barras de herramientas
 
 Para **mostrar u ocultar los iconos** definidos para una barra de herramientas seleccionada, clique sobre la barra con el botón derecho del ratón y elija Botones visibles en el menú desplegable. Los iconos visibles tienen un contorno sombreado alrededor. Seleccione o elimine la selección de los iconos que desee.
@@ -109,4 +109,4 @@ La barra de estado está ubicada en la parte inferior del área de trabajo. Prop
 
 
 
-![](img/image18.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image18.png)

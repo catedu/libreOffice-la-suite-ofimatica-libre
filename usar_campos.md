@@ -1,7 +1,7 @@
 
 # Usar campos
 
-![](img/Seleccion_290.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_290.png)
 Para insertar **campos **en su documento, vaya a **Insertar - Campos**. Será muy útil para colocar en el pie de página el número de la misma o el título del documento como puedes ver en la imagen.
 
 

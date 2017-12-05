@@ -9,9 +9,9 @@ Para editar una plantilla, siga los siguientes pasos:
 Desde el menú principal, elija **Archivo ****→**** Plantilla ****→**** Gestionar**. Se abrirá el diálogo Administrar plantillas.
 </li>
 <li>
-![](img/Seleccion_221.png)</li>
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_221.png)</li>
 <li>
 Edite la plantilla tal como lo haría con cualquier otro documento. Para guardar y aceptar los cambios, elija en el menú principal **Archivo ****→**** Guardar**.
 </li>
 
-![](img/Seleccion_221.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_221.png)

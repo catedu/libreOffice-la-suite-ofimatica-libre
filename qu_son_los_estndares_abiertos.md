@@ -1,7 +1,7 @@
 
 # ¿Qué son los "estándares abiertos"?
 
-![](img/OpenStandars.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OpenStandars.png)
 Un estándar abierto cumple los siguientes requisitos: 
 
 <li>

@@ -3,13 +3,13 @@
 
 Writer ofrece un corrector ortográfico, que se puede utilizar de dos maneras accesibles desde el menú **Herramientas**.
 
-![](img/correctorgra.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/correctorgra.png)
 Revisión automática comprueba simultáneamente cada palabra al escribirse y señala los errores con una línea roja ondulada. Cuando la palabra es corregida, la línea desaparece.
 
-![](img/correctorau.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/correctorau.png)
 Para ejecutar una comprobación ortográfica individual del documento (o de una selección de texto), haga clic en el el botón Ortografía y gramática, lo que iniciará la comprobación del documento o de la selección y abrirá el diálogo de Ortografía y gramática en caso de que se encuentren errores ortográficos.
 
-![](img/Estilo_de_parrafo_OOoTextBody_261.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Estilo_de_parrafo_OOoTextBody_261.png)
 <li>
 Puede hacer clic con el botón secundario sobre una palabra subrayada con la línea ondulada de color rojo y se abrirá un menú contextual. Si selecciona una de las sugerencias del menú, ésta remplazará a la que contiene el error ortográfico.
 </li>

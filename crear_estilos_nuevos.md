@@ -24,7 +24,7 @@ Los diálogos y las posibilidades de elección son las mismas tanto para definir
 
 ## Crear un nuevo estilo a partir de una selección
 
-![](img/NuevoEstilo.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/NuevoEstilo.png)
 <li value="1">
 Abra la ventana de Estilo y formato y elija el tipo de estilo que desee crear.
 </li>

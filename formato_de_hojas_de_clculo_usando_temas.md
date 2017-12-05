@@ -1,7 +1,7 @@
 
 # Formato de hojas de cálculo usando temas
 
-![](img/Seleccion_de_temas_312.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_de_temas_312.png)
 No es posible añadir ni modificar temas en Calc. Sin embargo, pueden modificarse los estilos después de aplicarse en una hoja de cálculo.
 
 Para aplicar un tema a una hoja de cálculo:
@@ -12,7 +12,7 @@ Pulse el icono **Selección de temas** en la barra de herramientas. Si esta barr
 
 Aparece el diálogo de selección de temas. Este diálogo muestra los temas disponibles para la hoja de cálculo.
 
-![](img/Herramientas_311.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Herramientas_311.png)
 
 
 <li>

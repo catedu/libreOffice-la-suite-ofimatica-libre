@@ -21,7 +21,7 @@ Busque el nombre del formulario en la lista *Formularios* (Vacaciones)
 
 La manera más rápida de introducir una fecha en el campo Fecha es pulsar la flecha que abre el calendario desplegable. A continuación, haga clic en el día deseado. Después pulse la tecla *Tabulador* para ir al campo Cuentakilómetros.
 
-![](img/fig42.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig42.png)
 Los campos Cuentakilómetros, Peaje y Motel son campos numéricos. Introduzca los datos directamente en ellos o use las flechas *arriba *y *abajo*. Cuando haya introducido los valores, use la tecla *Tabulador* para ir al campo siguiente.
 
 <li value="1">
@@ -67,6 +67,6 @@ El número que hay en el cuadro Registro es el número del registro cuyos datos 
 
 La siguiente imagen muestra un registro con datos insertados en sus campos.
 
-![](img/fig43.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig43.png)
 
 

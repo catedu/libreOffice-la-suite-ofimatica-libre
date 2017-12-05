@@ -13,7 +13,7 @@ Los documentos maestros normalmente se usan para la producción de documentos ex
 Una sección contiene al menos un párrafo. Si selecciona un texto y crea una sección, se inserta un salto de párrafo automáticamente al final del texto.
 
 Puede insertar secciones a partir de un documento de texto o un archivo de texto completo como una sección en otro documento de texto. También puede insertar secciones a partir de un documento de texto como enlaces en el mismo archivo o en otro diferente.
-![](https://help.libreoffice.org/images/c/cc/Note.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/https://help.libreoffice.org/images/c/cc/Note.png)
 ### Secciones y columnas
 
 Puede insertar secciones en otra sección. Por ejemplo, puede insertar una sección que contenga dos columnas en otra que sólo contenga una.
