@@ -11,7 +11,7 @@ Con una licencia de software open source, LibreOffice se posiciona para proporci
 
 La comunidad de LibreOffice le invita a contribuir en todas las áreas, traducción, desarrollo de software, artistas gráficos, escritores técnicos, editores, donantes y soporte de usuarios. Cualquier cosa en la que sea bueno puede marcar la diferencia en LibreOffice. La comunidad opera internacionalmente en todas las zonas horarias y en muchos idiomas unidos a través de internet en [www.libreoffice.org](http://www.libreoffice.org/) y [www.documentfoundation.org](http://www.documentfoundation.org/).
 
-## Una introducción rápida
+## Una introducción rápida a LibreOffice
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_213.png)
 {% youtube %}https//www.youtube.com/watch?v=3KC0ZdcA6s8{% endyoutube %}
