@@ -153,8 +153,8 @@ ____
     * [PAGO -TASA - NPER - VA - VF](pago_tasa__nper__va__vf.md)
     * [Mensajes de error más habituales](mensajes_de_error_ms_habituales.md)
 * [Créditos](crditos5.md)
-____
-### 7. Primeros pasos con Base
+---
+<!-- ### 7. Primeros pasos con Base
 * [¿Qué es Base?](index6.md)
 * [Planificar una base de datos](planificar_una_base_de_datos.md)
 * [Crear una base de datos nueva](crear_una_base_de_datos_nueva.md)
@@ -263,4 +263,4 @@ ____
     * [¿Cómo puedo hacer una derivada?](cmo_puedo_hacer_una_derivada.md)
     * [¿Cómo alineo mis ecuaciones con el signo de igual?](cmo_alineo_mis_ecuaciones_con_el_signo_de_igual.md)
     * [Numeración de fórmulas](numeracin_de_frmulas.md)
-* [Créditos](crditos8.md)
+* [Créditos](crditos8.md) -->
