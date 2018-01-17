@@ -56,8 +56,3 @@ A continuación se detallan algunas de las ventajas de LibreOffice sobre otras s
 - **Usted tiene voz**. Las mejoras, ajustes en el software y fechas de publicación de las nuevas versiones son decididas por la comunidad. Puede unirse a la comunidad e influir sobre el curso del producto que utiliza.
 
 Puede leer más acerca de LibreOffice, su misión, historia, licenciamiento y el resto de la información sobre la organización en [http://www.libreoffice.org/](https://www.google.com/url?q=http://www.libreoffice.org/&amp;sa=D&amp;ust=1473940023928000&amp;usg=AFQjCNFoh7btusdWdh_hYACpJCBIaTOYPw) y [http://www.documentfoundation.org/](https://www.google.com/url?q=http://www.documentfoundation.org/&amp;sa=D&amp;ust=1473940023929000&amp;usg=AFQjCNETP498HLeLOkMFzKTLwmuntMMiIg).
-
-
-
-## 
-

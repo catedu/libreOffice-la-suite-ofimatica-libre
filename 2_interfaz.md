@@ -28,9 +28,11 @@ LibreOffice posee varios tipos de barras de herramientas: acopladas, flotantes y
 La barra de herramientas acoplada superior (esta es la posición por defecto) se denomina **barra de herramientas Estándar** y es la misma para todas las aplicaciones de LibreOffice.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_207.png)
+
 La segunda barra de herramientas en la parte superior (esta es la posición por defecto) es la** barra de herramientas de Formato**. Es una barra contextual que muestra las herramientas relevantes según la posición actual del cursor del ratón o selección. Por ejemplo, cuando el cursor está sobre un gráfico, la barra de Formato proporciona herramientas para el formato de gráficos; cuando el cursor está sobre el texto, las herramientas sirven para dar formato de texto.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_208.png)
+
 #### **Mostrar u ocultar las barras de herramientas**
 
 Para mostrar u ocultar barras de herramientas, seleccione **Ver → Barras de Herramientas**, a continuación haga clic sobre el nombre de la barra de herramientas en la lista. Una barra de herramientas activa muestra una marca de verificación junto al nombre. Las barras de herramientas desprendibles no se listan en el menú Ver.
@@ -43,11 +45,11 @@ La Figura 2 muestra una barra de herramientas desprendible desde el menú de Dib
 
 Las barras de herramientas desprendibles pueden flotar o acoplarse sobre un borde de la pantalla o en una de las áreas de las barras existentes. Para mover un barra desprendible flotante, arrástrela desde el título. Vea “Mover barras de herramientas” más abajo.
 
+![](img/image07.png)
 
+Figura 2: Ejemplo de una barra de herramientas desprendible
 
-
-
-
+![](img/image10.png)
 
 #### Mover barras de herramientas
 
@@ -55,13 +57,13 @@ Para mover una barra acoplada, coloque el ratón sobre el controlador de la barr
 
 Para mover una barra flotante, haga clic sobre su título y arrástrela a la nueva posición (Figura 4).
 
+![](img/image09.png)
 
+Figura 3: Mover una barra acoplada
 
+![](img/image12.png)
 
-
-
-
-
+Figura 4: mover una barra de herramientas flotante
 
 #### Barras de herramientas flotantes o acopladas
 
@@ -76,7 +78,7 @@ Las barras de herramientas y algunas ventanas, como por ejemplo la del Navegador
 
 Para desbloquear una ventana, mantenga pulsada la tecla Control y haga doble clic sobre el marco (o una parte vacía cerca de los iconos superiores) de la ventana fija.
 
-
+![](img/image11.png)
 
 #### Personalizar las barras de herramientas
 
@@ -85,15 +87,12 @@ Puede personalizar las barras de herramientas de varias maneras, incluyendo la e
 Para acceder a las opciones de personalización de las barras de herramientas, utilice la flecha hacia abajo en el extremo de la barra de herramienta o en el título (vea la Figura 6).
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image14.jpg)
+
 Figura 6: personalizar barras de herramientas
 
 Para **mostrar u ocultar los iconos** definidos para una barra de herramientas seleccionada, clique sobre la barra con el botón derecho del ratón y elija Botones visibles en el menú desplegable. Los iconos visibles tienen un contorno sombreado alrededor. Seleccione o elimine la selección de los iconos que desee.
 
-
-
-
-
-
+![](img/image13.png)
 
 #### Menús (contextuales) al hacer clic con el botón derecho
 
@@ -103,10 +102,16 @@ Puede acceder rápidamente a muchas funcionalidades del menú si hace clic con e
 
 La barra de estado está ubicada en la parte inferior del área de trabajo. Proporciona información acerca del documento y facilita la realización de cambios en algunas características. Es similar en Writer, Calc, Impress y Draw, aunque cada componente incluye elementos específicos.
 
+![](img/image17.png)
 
+Figura 8: Extremo izquierdo de la barra de estado de Writer
 
+![](img/image15.png)
 
+Figura 9: Extremo derecho de la barra de estado de Writer
 
-
+Si el documento se ha firmado digitalmente, se muestra un icono:
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image18.png)
+
+Puede hacer doble clic y ver el certificado. La Información del objeto nos muestra información relevante relacionada con la posición del cursor o el elemento seleccionado del documento. Al hacer doble clic en este área, normalmente se abre un diálogo relacionado.

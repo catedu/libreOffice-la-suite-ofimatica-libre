@@ -9,8 +9,17 @@ Un **diálogo** es un tipo especial de ventana. Su objetivo es informarle de alg
 
 En la mayoría de las ocasiones, si un cuadro de diálogo está abierto, limitará el resto del trabajo que esté haciendo. Tras haber realizado los cambios pertinentes, cierre el diálogo (normalmente al hacer clic en Aceptar u otro botón se guardan los cambios y se cierra el diálogo). A continuación puede reanudar su trabajo en el documento.
 
+Algunos diálogos se quedan abiertos mientras está trabajando para que pueda cambiar entre el diálogo y el documento las veces que desee. Un buen ejemplo es el diálogo Buscar y reemplazar.
+
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image19.png)
-1. Ficha (no es un control exactamente)<br />2. Botones de opción (sólo se puede seleccionar una)<br />3. Casilla de verificación (se puede seleccionar más de una)<br />4. Cuadro de número (haga clic sobre las flechas hacia arriba o hacia abajo si desea cambiar el número de la caja de texto, o escriba en la caja de texto)<br />5. Vista previa o en miniatura<br />6. Lista desplegable desde la que se puede elegir un elemento<br />7. Botones de comando
+
+1. Ficha (no es un control exactamente).
+2. Botones de opción (sólo se puede seleccionar una).
+3. Casilla de verificación (se puede seleccionar más de una).
+4. Cuadro de número (haga clic sobre las flechas hacia arriba o hacia abajo si desea cambiar el número de la caja de texto, o escriba en la caja de texto).
+5. Vista previa o en miniatura.
+6. Lista desplegable desde la que se puede elegir un elemento.
+7. Botones de comando
 
 
 
@@ -61,7 +70,7 @@ Para proteger un documento con contraseña, utilice la opción del diálogo Guar
 1. En el diálogo **Guardar como**, seleccione la **casilla de verificación Guardar con contraseña** y luego clic en Guardar. Se abrirá una ventana de notificación (Figura 11)
 1. Escriba la misma contraseña en el campo Contraseña y en el campo Confirmar, luego haga clic en Aceptar. Si las contraseñas coinciden, el documento se guardará con protección por contraseña. Si las contraseñas no coinciden, recibirá una notificación para que escriba la contraseña nuevamente.
 
-
+![](/img/image20.png)
 
 LibreOffice utiliza un mecanismo de encriptación bastante seguro que hace casi imposible recuperar el contenido de un documento en caso de que pierda la contraseña.
 
@@ -87,6 +96,8 @@ Para ver o cambiar qué tipo de cuadro de diálogo utiliza LibreOffice:
 
 Esta sección aborda el tema de los diálogos de LibreOffice Abrir y Guardar como. En la Figura 12 se muestra un ejemplo del diálogo Guardar como; el diálogo Abrir es similar.
 
+![](/img/image21.png)
+
 **Para documentos de LibreOffice que se han guardado en más de una versión**, utilice el menú desplegable para seleccionar qué versión desea abrir en modo de sólo lectura. Para documentos de Microsoft Office, sólo se puede abrir la versión actual.
 
 Utilice el campo **Tipos de archivo** para especificar el tipo de archivo que se abrirá o el formato del archivo en que se va a guardar.
@@ -101,17 +112,15 @@ Para deshacer el cambio más reciente, presione **Control+Z** o haga clic en e
 
 El menú Editar muestra los últimos cambios que se han deshecho (en la Figura 15 tiene un ejemplo de Writer).
 
-
+![](/img/image02.png)
 
 Si hace clic sobre el pequeño triángulo a la derecha del icono Deshacer, obtendrá una lista de todos los cambios que se han deshecho (Figura 16). Puede seleccionar muchos cambios y deshacerlos todos al mismo.
 
+![](/img/image03.png)
 
+Después de realizar los cambios, se activa Restaurar. Si desea restaurar un cambio, seleccione **Editar → Restaurar** o presione **Control + Y** o haga clic sobre el icono **Restaurar** . Al igual que Deshacer, si hace clic en el triángulo a la derecha de la flecha, obtendrá una lista de los cambios que se han restaurado.
 
-Después de realizar los cambios, se activa Restaurar. Si desea restaurar un cambio, seleccione** Editar → Restaurar** o presione **Control + Y** o haga clic sobre el icono **Restaurar** . Al igual que Deshacer, si hace clic en el triángulo a la derecha de la flecha, obtendrá una lista de los cambios que se han restaurado.
-
-Para modificar el número de cambios que recuerda LibreOffice, elija **Herramientas → Opciones → LibreOffice →Memoria **y en la sección **Deshacer** cambie el Número de pasos. Tenga en cuenta que si pide que LibreOffice recuerde muchos cambios, consumirá más memoria del equipo.
-
-
+Para modificar el número de cambios que recuerda LibreOffice, elija **Herramientas → Opciones → LibreOffice →Memoria** y en la sección **Deshacer** cambie el Número de pasos. Tenga en cuenta que si pide que LibreOffice recuerde muchos cambios, consumirá más memoria del equipo.
 
 #### Cerrar un documento
 
@@ -119,7 +128,7 @@ Para cerrar un documento, haga clic en **Archivo → Cerrar**.
 
 Usted también puede cerrar un documento haciendo clic en el icono de Cerrar en la ventana del documento. Este botón se ve como la X roja que se muestra en la Figura 17.
 
-
+![](/img/image04.png)
 
 Si está abierta más de una ventana de LibreOffice, cada una se ve como la que se muestra a la izquierda en la Figura 17. Al cerrar esta ventana, las otras ventanas de LibreOffice permanecen abiertas.
 
@@ -131,9 +140,12 @@ Si el documento no ha sido guardado desde el último cambio, aparecerá un mensa
 - Descartar: el documento es cerrado, y se pierden todas las modificaciones desde la última vez que se guardó.
 - Cancelar: no ocurre nada, y se retorna al documento.
 
+Precaución:
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image05.png)
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image05.png)
+
+No guardar un documento puede provocar la pérdida de los cambios más recientes o, peor aún, el archivo completo.
+
 
 
 #### Cerrar LibreOffice

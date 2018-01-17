@@ -33,7 +33,7 @@ Microsoft PowerPoint 97/2000/XP (.ppt y .pot)<br /> Microsoft PowerPoint 2007 (.
 
 Además de los formatos OpenDocument (.odg y .otg), Draw 3 puede abrir los formatos usados por OOo 1.x (.sxd y .std) y los siguientes formatos gráficos:
 
-BMP
+BMP     
 
 JPEG, JPG
 
@@ -80,7 +80,6 @@ SDD
 TIF, TIFF
 
 
-
 GIF
 
 PCT
@@ -102,7 +101,8 @@ Al abrir un documento de Word que contiene un objeto de editor de ecuación, si 
 **Formatos de archivo que LibreOffice puede guardar**
 
 Guardar en un formato de OpenDocument garantiza la correcta interpretación del archivo cuando es transferido a otra persona o cuando es abierto desde una versión posterior de LibreOffice. Se recomienda encarecidamente que se use ODF como formato de archivo predeterminado. No obstante, si así lo desea, puede guardar archivos en otros formatos.
-<td width="611" bgcolor="#83caff">**Consejo**</td><td width="3734">Cuando comparta un documento que no se espera o desea que modifique el destinatario, la opción más segura es convertir el documento a PDF. LibreOffice ofrece una forma muy directa de convertir documentos a PDF.</td>
+
+**Consejo**. Cuando comparta un documento que no se espera o desea que modifique el destinatario, la opción más segura es convertir el documento a PDF. LibreOffice ofrece una forma muy directa de convertir documentos a PDF.
 
 Cuando comparta un documento que no se espera o desea que modifique el destinatario, la opción más segura es convertir el documento a PDF. LibreOffice ofrece una forma muy directa de convertir documentos a PDF.
 
@@ -113,7 +113,8 @@ Además de formatos de OpenDocument (.odt y .ott), Writer 3 puede guardar docum
 OpenOffice.org 1.x Text Document (.sxw)<br /> OpenOffice.org 1.x Text Document Template (.stw)<br /> Microsoft Word 6.0, 95, and 97/2000/XP (.doc)<br /> Microsoft Word 2003 XML (.xml)<br /> Microsoft Word 2007/2010 XML (.docx)<br /> Office Open XML Text (.docx)<br /> Rich Text Format (.rtf)<br /> StarWriter 3.0, 4.0, and 5.0 (.sdw)<br /> StarWriter 3.0, 4.0, and 5.0 Template (.vor)<br /> Text (.txt)<br /> Text Encoded (.txt)<br /> Unified Office Format text (.uot, .uof)<br /> HTML Document (OpenOffice.org Writer) (.html and .htm)<br /> DocBook (.xml)<br /> AportisDoc (Palm) (.pdb)<br /> Pocket Word (.psw)
 
 El soporte de codificación del filtro de Microsoft Word 97/2000/XP permite guardar documentos de Microsoft Word protegidos por contraseña.
-<td width="15%" bgcolor="#94bd5e">**Nota**</td><td width="85%" valign="top">El formato .rtf es común a la hora de transferir archivos de texto entre aplicaciones, pero es probable que al emplearse se produzca la pérdida de formatos e imágenes. Por ello, debería emplearse otros formatos. </td>
+
+**Nota**: El formato .rtf es común a la hora de transferir archivos de texto entre aplicaciones, pero es probable que al emplearse se produzca la pérdida de formatos e imágenes. Por ello, debería emplearse otros formatos. 
 
 El formato .rtf es común a la hora de transferir archivos de texto entre aplicaciones, pero es probable que al emplearse se produzca la pérdida de formatos e imágenes. Por ello, debería emplearse otros formatos. 
 
@@ -122,7 +123,8 @@ El formato .rtf es común a la hora de transferir archivos de texto entre aplica
 Además de formatos de OpenDocument (.ods and .ots), Calc 3 puede guardar en estos formatos:
 
 OpenOffice.org 1.x Spreadsheet (.sxc)<br /> OpenOffice.org 1.x Spreadsheet Template (.stc)<br /> Microsoft Excel 97/2000/XP (.xls and .xlw)<br /> Microsoft Excel 97/2000/XP Template (.xlt)<br /> Microsoft Excel 5.0 and 95 (.xls and .xlw)<br /> Microsoft Excel 2003 XML (.xml)<br /> Microsoft Excel 2007/2010 XML (.xlsx)<br /> Office Open XML Spreadsheet (.xlsx)<br /> Data Interchange Format (.dif)<br /> dBase (.dbf)<br /> SYLK (.slk)<br /> Text CSV (.csv and .txt)<br /> StarCalc 3.0, 4.0, and 5.0 formats (.sdc and .vor)<br /> Unified Office Format spreadsheet (.uos)<br /> HTML Document (OpenOffice.org Calc) (.html and .htm)<br /> Pocket Excel (.pxl)
-<td width="15%" bgcolor="#94bd5e">**Nota**</td><td width="85%" valign="top">Es necesario el Java Runtime Environment para usar filtros de dispositivo móvil para AportisDoc (Palm), Pocket Word, y Pocket Excel.</td>
+
+**Nota**: Es necesario el Java Runtime Environment para usar filtros de dispositivo móvil para AportisDoc (Palm), Pocket Word, y Pocket Excel.
 
 Es necesario el Java Runtime Environment para usar filtros de dispositivo móvil para AportisDoc (Palm), Pocket Word, y Pocket Excel.
 
@@ -160,5 +162,5 @@ LibreOffice usa el termino “exportar” para algunas operaciones que implican 
 
 LibreOffice puede exportar archivos a XHTML. Además, Draw e Impress pueden exportar a Adobe Flash (.swf) y a una serie de formatos de imagen.
 
-Para exportar a uno de estos formatos, seleccione **Archivo → Exportar. **En el dialogo Exportar, especifique un nombre de archivo para el documento a exportar. A continuación, seleccione el formato requerido en la lista *Formato de archivo *y haga clic en el botón **Exportar**.
+Para exportar a uno de estos formatos, seleccione **Archivo → Exportar.** En el dialogo Exportar, especifique un nombre de archivo para el documento a exportar. A continuación, seleccione el formato requerido en la lista **Formato de archivo** y haga clic en el botón **Exportar**.
 

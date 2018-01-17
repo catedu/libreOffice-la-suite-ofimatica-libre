@@ -7,12 +7,12 @@ Para enviar un documento por correo electrónico a varios destinatarios, puede u
 
 Puede usar Combinar correspondencia de LibreOffice para enviar un correo electrónico de dos maneras:
 
-<li value="1">
-Use el Asistente para combinar correspondencia para crear el documento y enviarlo. Vea el capítulo 11 (Usar combinar correspondencia) de la guía de *Writer** *para más detalles.
-</li>
-<li>
-Crear el documento en Writer sin usar el asistente, luego usar el asistente para enviarlo. Este método se describe a continuación.
-</li>
+
+- Use el Asistente para combinar correspondencia para crear el documento y enviarlo. Vea el capítulo 11 (Usar combinar correspondencia) de la guía de **Writer** para más detalles.
+
+- Crear el documento en Writer sin usar el asistente, luego usar el asistente para enviarlo. Este método se describe a continuación.
+
+
 
 Crear el documento en Writer sin usar el asistente, luego usar el asistente para enviarlo. Este método se describe a continuación.
 

@@ -36,10 +36,20 @@ Si los mensajes emergentes están activados, coloque el puntero del ratón sobre
 #### Soporte en línea gratuito
 
 La comunidad LibreOffice no sólo desarrolla software, sino que además ofrece soporte gratuito y voluntario. Los usuarios de LibreOffice pueden obtener soporte en línea desde distintos lugares, como por ejemplo grupos de noticias, foros o listas de correo. Hay también numerosos sitios web creados por los usuarios que ofrecen sugerencias gratuitas y tutoriales.
-<td colspan="2" rowspan="1">Soporte gratuito LibreOffice</td><td colspan="1" rowspan="1"></td>
+
+![](/img/Selecc_057.png)
 
 
-<td colspan="1" rowspan="1">Lista de correo de usuarios</td><td colspan="1" rowspan="1">Soporte de la comunidad gratuito ofrecido por una red de cientos de usuarios experimentados. Debe suscribirse para enviar mensajes. Para suscribirse, envíe un correo electrónico en blanco a [users+subscribe@es.libreoffice.org](mailto:users+subscribe@es.libreoffice.org)La lista de archivos está aquí:[http://listarchives.libreoffice.org/es/users/](https://www.google.com/url?q=http://listarchives.libreoffice.org/es/users/&amp;sa=D&amp;ust=1473940023944000&amp;usg=AFQjCNF3PWj4y-7Bh7F1s1_9t2VfpuPxaw)</td>
+|    | Soporte gratuito LibreOffice |
+|--|--|
+| Lista de correo de usuarios | Soporte de la comunidad gratuito ofrecido por una red de cientos de usuarios experimentados. Debe suscribirse para enviar mensajes. Para suscribirse, envíe un correo electrónico en blanco a users+subscribe@es.libreoffice.org. La lista de archivos está aquí:http://listarchives.libreoffice.org/es/users/ |
+| Proyecto de Documentación|Plantillas, guías de usuario, instrucciones y otra documentación. http://es.libreoffice.org/asistencia/documentacion/. Vea también el wiki de Documentación, http://wiki.documentfoundation.org/Documentation/es |
+| Proyecto de Idiomas Nativos | Información, recursos y listas de correo en su idioma. http://wiki.documentfoundation.org/Language/es |
+| Soporte para Mac |  Soporte para instalar y utilizar LibreOffice en Mac OS X. http://es.libreoffice.org/asistencia/instalacion/ |
+| Foro de la Comunidad LibreOffice | Extenso foro de discusión para temas de LibreOffice desde la configuración hasta características de programación avanzadas. http://es.libreofficeforum.org/forum |
+
+
+Lista de correo de usuarios Soporte de la comunidad gratuito ofrecido por una red de cientos de usuarios experimentados. Debe suscribirse para enviar mensajes. Para suscribirse, envíe un correo electrónico en blanco a [users+subscribe@es.libreoffice.org](mailto:users+subscribe@es.libreoffice.org)La lista de archivos está aquí:[http://listarchives.libreoffice.org/es/users/](https://www.google.com/url?q=http://listarchives.libreoffice.org/es/users/&amp;sa=D&amp;ust=1473940023944000&amp;usg=AFQjCNF3PWj4y-7Bh7F1s1_9t2VfpuPxaw)</td>
 
 Soporte de la comunidad gratuito ofrecido por una red de cientos de usuarios experimentados. Debe suscribirse para enviar mensajes. Para suscribirse, envíe un correo electrónico en blanco a [users+subscribe@es.libreoffice.org](mailto:users+subscribe@es.libreoffice.org)
 <td colspan="1" rowspan="1">Proyecto de Documentación</td><td colspan="1" rowspan="1">Plantillas, guías de usuario, instrucciones y otra documentación. [http://es.libreoffice.org/asistencia/documentacion/](https://www.google.com/url?q=http://es.libreoffice.org/asistencia/documentacion/&amp;sa=D&amp;ust=1473940023945000&amp;usg=AFQjCNE8WcCUR2CqG4USOENoxCjh3EkRtw)Vea también el wiki de Documentación, [http://wiki.documentfoundation.org/Documentation/es](https://www.google.com/url?q=http://wiki.documentfoundation.org/Documentation/es&amp;sa=D&amp;ust=1473940023946000&amp;usg=AFQjCNGQ79vZSIZj5mhV-8tqnoVil1kdVg)</td>

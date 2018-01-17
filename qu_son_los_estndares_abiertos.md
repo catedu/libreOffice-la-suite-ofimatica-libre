@@ -1,7 +1,11 @@
 
 # ¿Qué son los "estándares abiertos"?
 
+Un estándar abierto ofrece el medio para hacer algo que es independiente del fabricante o vendedor, habilitando así a programas de software en competencia para usar los mismos formatos de archivo libremente. HTML, XML y ODF son ejemplos de estándares abiertos para documentos.
+
+
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OpenStandars.png)
+
 Un estándar abierto cumple los siguientes requisitos: 
 
 <li>
@@ -14,7 +18,6 @@ Puede ser copiado, distribuido y usado libremente. La propiedad intelectual del 
 Es estandarizado y mantenido en un foro independiente y abierto (también denominado “organización de estándares”) usando un proceso abierto.
 </li>
 
-Puede ser copiado, distribuido y usado libremente. La propiedad intelectual del estándar está irrevocablemente disponible sin necesidad de pagar derechos.
 
 ### ¿Qué es un OpenDocument?
 
