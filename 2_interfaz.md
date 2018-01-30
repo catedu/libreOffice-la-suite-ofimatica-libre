@@ -88,11 +88,13 @@ Para acceder a las opciones de personalización de las barras de herramientas, u
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image14.jpg)
 
-Figura 6: personalizar barras de herramientas
+    Figura 6: personalizar barras de herramientas
 
 Para **mostrar u ocultar los iconos** definidos para una barra de herramientas seleccionada, clique sobre la barra con el botón derecho del ratón y elija Botones visibles en el menú desplegable. Los iconos visibles tienen un contorno sombreado alrededor. Seleccione o elimine la selección de los iconos que desee.
 
 ![](img/image13.png)
+
+    Figura 7: Selección de iconos visibles en la barra de herramientas
 
 #### Menús (contextuales) al hacer clic con el botón derecho
 
@@ -104,11 +106,11 @@ La barra de estado está ubicada en la parte inferior del área de trabajo. Prop
 
 ![](img/image17.png)
 
-Figura 8: Extremo izquierdo de la barra de estado de Writer
+    Figura 8: Extremo izquierdo de la barra de estado de Writer
 
 ![](img/image15.png)
 
-Figura 9: Extremo derecho de la barra de estado de Writer
+    Figura 9: Extremo derecho de la barra de estado de Writer
 
 Si el documento se ha firmado digitalmente, se muestra un icono:
 

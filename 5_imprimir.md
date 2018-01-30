@@ -26,6 +26,6 @@ En el cuadro de diálogo *Imprimir* podrá elegir:
 
 ![](img/asfd.png)
 
-
+    Figura 1. El cuadro de diálogo Imprimir.
  
 

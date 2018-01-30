@@ -25,5 +25,5 @@ LibreOffice puede exportar archivos a XHTML.
 
 Además, Writer de LibreOffice puede exportar a BibTeX (.bib), LaTeX 2e (.tex) y MediaWiki (.txt). LibreOffice Draw y LibreOffice Impress pueden exportar a Macromedia Flash (.swf).
 
-Para exportar a uno de estos formatos, vaya a **Archivo**** → Exportar**. En el cuadro de diálogo Exportar, especifique el nombre de archivo para el documento exportado, luego seleccione el formato requerido en la *Lista de formatos* y haga clic en el botón **Exportar**. Si no encuentra el deseado puede ser que necesite instalar algunas [extensiones](http://extensions.libreoffice.org/extension-center/writer2latex-1).
+Para exportar a uno de estos formatos, vaya a **Archivo → Exportar**. En el cuadro de diálogo Exportar, especifique el nombre de archivo para el documento exportado, luego seleccione el formato requerido en la _Lista de formatos_ y haga clic en el botón **Exportar**. Si no encuentra el deseado puede ser que necesite instalar algunas [extensiones](http://extensions.libreoffice.org/extension-center/writer2latex-1).
 

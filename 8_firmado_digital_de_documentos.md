@@ -1,7 +1,11 @@
 
 # 8. Firmado digital de documentos
+![](img/configuration.svg)
 
-<br />Para firmar un documento digitalmente, necesita una clave personal, el certificado. La clave personal se guarda en su computadora como una combinación de una clave privada, que debe mantenerse en secreto, y una clave pública, que debe agregar a sus documentos cuando los firma. Puede obtener un certificado de una autoridad certificadora, que puede ser una compañía privada o una institución gubernamental.
+    Icono realizado por Prosymbols de www.flaticon.com
+
+
+Para firmar un documento digitalmente, necesita una clave personal, el certificado. La clave personal se guarda en su computadora como una combinación de una clave privada, que debe mantenerse en secreto, y una clave pública, que debe agregar a sus documentos cuando los firma. Puede obtener un certificado de una autoridad certificadora, que puede ser una compañía privada o una institución gubernamental.
 
 Cuando aplique una firma digital a un documento, una suerte de checksum (suma de control) se obtiene del contenido del documento añadido a su clave personal. El checksum y su clave pública se almacenan juntos en el documento. 
 
@@ -13,24 +17,16 @@ En los sistemas operativos Windows, se usan las funciones de validación de firm
 
 Para firmar un documento:
 
-<li value="1">
-Vaya a **Archivo**** → Firmas digitales**.
-</li>
-<li>
-Si no ha guardado el documento desde el último cambio, aparecerá un cuadro de mensaje. Haga clic en **Sí** para guardar el archivo.
-</li>
-<li>
-Después de guardar, verá el cuadro de diálogo de firmas digitales. Haga clic en **Añadir** para añadir una clave pública al documento.
-</li>
-<li>
-En el cuadro de diálogo Seleccionar certificado, seleccione su certificado y haga clic en **Aceptar**. 
-</li>
-<li>
-Verá nuevamente el cuadro de diálogo Firmas digitales, donde podrá añadir más certificados si lo desea. Haga clic en **Aceptar** para añadir la clave pública al archivo guardado.
-</li>
+1. Vaya a **Archivo → Firmas digitales**.
 
-Si no ha guardado el documento desde el último cambio, aparecerá un cuadro de mensaje. Haga clic en **Sí** para guardar el archivo.
+1. Si no ha guardado el documento desde el último cambio, aparecerá un cuadro de mensaje. Haga clic en **Sí** para guardar el archivo.
 
-En el cuadro de diálogo Seleccionar certificado, seleccione su certificado y haga clic en **Aceptar**. 
+1. Después de guardar, verá el cuadro de diálogo de firmas digitales. Haga clic en **Añadir** para añadir una clave pública al documento.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image18.png)
+1. En el cuadro de diálogo Seleccionar certificado, seleccione su certificado y haga clic en **Aceptar**. 
+
+1. Verá nuevamente el cuadro de diálogo Firmas digitales, donde podrá añadir más certificados si lo desea. Haga clic en **Aceptar** para añadir la clave pública al archivo guardado.
+
+
+
+Un documento firmado muestra un icono ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image18.png) en la barra de estado. Puede hacer doble clic en el icono para ver el certificado.

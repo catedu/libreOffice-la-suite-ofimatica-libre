@@ -72,6 +72,7 @@ Para proteger un documento con contraseña, utilice la opción del diálogo Guar
 
 ![](/img/image20.png)
 
+    Figura 11: Introducir una contraseña para un documento
 LibreOffice utiliza un mecanismo de encriptación bastante seguro que hace casi imposible recuperar el contenido de un documento en caso de que pierda la contraseña.
 
 #### Guardar un documento automáticamente
@@ -98,6 +99,7 @@ Esta sección aborda el tema de los diálogos de LibreOffice Abrir y Guardar com
 
 ![](/img/image21.png)
 
+    Figura 12: el diálogo de LibreOffice Guardar Como
 **Para documentos de LibreOffice que se han guardado en más de una versión**, utilice el menú desplegable para seleccionar qué versión desea abrir en modo de sólo lectura. Para documentos de Microsoft Office, sólo se puede abrir la versión actual.
 
 Utilice el campo **Tipos de archivo** para especificar el tipo de archivo que se abrirá o el formato del archivo en que se va a guardar.
@@ -114,9 +116,13 @@ El menú Editar muestra los últimos cambios que se han deshecho (en la Figura 1
 
 ![](/img/image02.png)
 
+    Figura 15: Editar → Deshacer última acción
+
 Si hace clic sobre el pequeño triángulo a la derecha del icono Deshacer, obtendrá una lista de todos los cambios que se han deshecho (Figura 16). Puede seleccionar muchos cambios y deshacerlos todos al mismo.
 
 ![](/img/image03.png)
+
+    Figura 16: Lista de acciones que se pueden deshacer
 
 Después de realizar los cambios, se activa Restaurar. Si desea restaurar un cambio, seleccione **Editar → Restaurar** o presione **Control + Y** o haga clic sobre el icono **Restaurar** . Al igual que Deshacer, si hace clic en el triángulo a la derecha de la flecha, obtendrá una lista de los cambios que se han restaurado.
 
@@ -129,6 +135,8 @@ Para cerrar un documento, haga clic en **Archivo → Cerrar**.
 Usted también puede cerrar un documento haciendo clic en el icono de Cerrar en la ventana del documento. Este botón se ve como la X roja que se muestra en la Figura 17.
 
 ![](/img/image04.png)
+
+    Figura 17: Iconos de cierre
 
 Si está abierta más de una ventana de LibreOffice, cada una se ve como la que se muestra a la izquierda en la Figura 17. Al cerrar esta ventana, las otras ventanas de LibreOffice permanecen abiertas.
 

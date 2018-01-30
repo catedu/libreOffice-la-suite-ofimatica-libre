@@ -3,6 +3,8 @@
 
 ## Administrador de extensiones
 
+El Administrador de extensiones agrega, quita, habilita, inhabilita y actualiza extensiones de LibreOffice.
+
 Seleccione **Herramientas - Gestor de extensiones**
 
 A continuación se incluyen ejemplos de extensiones de LibreOffice:
@@ -19,15 +21,19 @@ Una extensión está disponible como archivo con la extensión *.oxt.
 
 Encontrará una colección de extensiones en la Red. Pulse en el enlace «Obtener más extensiones en línea» del Gestor de extensiones para abrir el navegador web y visitar el sitio [extensions.libreoffice.org](http://extensions.libreoffice.org/). Busque la extensión deseada y descárguela.
 
-Seleccione **Herramientas - Gestor de extensiones. **Presione clic en Añadir para agregar una extensión.
+Seleccione **Herramientas - Gestor de extensiones.** Presione clic en Añadir para agregar una extensión.
 
 Se abre un cuadro de diálogo de archivo en el que puede seleccionar las extensiones que desee agregar. Para copiar y registrar las extensiones seleccionadas, haga clic en Abrir.
+
+![](img/Gestor_de_extensiones_340.png)
 
 Una extensión puede mostrar un diálogo de licencia. Lea la licencia. Presione el botón de desplazamiento para descender lo necesario. Haga clic en Aceptar para continuar la instalación de la extensión.
 
 ## Quitar
 
 Seleccione la extension que desee eliminar y haga clic en Eliminar.
+
+![](img/Gestor_de_extensiones_341.png)
 
 ## Activar
 

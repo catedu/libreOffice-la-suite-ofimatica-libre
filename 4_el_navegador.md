@@ -5,9 +5,9 @@
 
 El Navegador muestra todos los objetos contenidos en un documento agrupados por categorías. Por ejemplo, en Writer muestra los Encabezados, Tablas, Marcas de texto, Notas, Gráficos, Marcadores y otros elementos (vea Figura 13).
 
-![Fig 13](/img/image22.png)
+![](img/image22.png)
 
-
+    Figura 13: El Navegador
 
 En Calc muestra las Hojas, Nombres de rangos, Bases de datos, Gráficos, Objetos de dibujo, entre otros. En Impress y Draw muestra Diapositivas, Imágenes y otros elementos. Haga clic en el signo + o flecha de cualquier categoría para mostrar la lista de objetos en la misma. Para abrir el Navegador, haga clic en el icono ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image23.png) o ![](/img/Seleccion_211.png) de la barra de herramientas Estándar, presione F5, o seleccione **Ver → Navegador** en la barra de menú principal.
 
@@ -25,8 +25,9 @@ Si sólo desea ver el contenido en cierta categoría, resalte la categoría y ha
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image00.png)(segundo icono de izquierda a derecha en la parte superior del Navegador) para mostrar la Barra de navegación (Figura 14). Aquí podrá elegir una categoría y utilizar los iconos Anterior y Siguiente para moverse de un elemento al siguiente. Esto es especialmente útil para hallar elementos como marcadores e índices que pueden ser difíciles de hallar.
 - Los nombres de los iconos (mostrados en los mensajes emergentes) cambian para coincidir con la categoría seleccionada; por ejemplo, Gráfico siguiente o Marcador siguiente.
 
-![](img/image01.png)
+![](/img/image01.png)
 
+    Figura 14: barra de Navegación
 - Para ir a una página concreta del documento, escriba el número de página en la caja ubicada en la parte superior del Navegador.
 
 Al experimentar un poco con los demás iconos, se le mostrarán las distintas funcionalidades. Algunos usos específicos del componente serán descritos en los capítulos de Writer y de los otros componentes.
