@@ -5,13 +5,8 @@ Se pueden editar los estilos y contenidos de una plantilla y luego, si se desea,
 
 Para editar una plantilla, siga los siguientes pasos:
 
-<li value="1">
-Desde el menú principal, elija **Archivo ****→**** Plantilla ****→**** Gestionar**. Se abrirá el diálogo Administrar plantillas.
-</li>
-<li>
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_221.png)</li>
-<li>
-Edite la plantilla tal como lo haría con cualquier otro documento. Para guardar y aceptar los cambios, elija en el menú principal **Archivo ****→**** Guardar**.
-</li>
+1. Desde el menú principal, elija **Archivo → Plantilla → Gestionar**. Se abrirá el diálogo Administrar plantillas.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_221.png)
+1. Clique sobre sobre la plantilla que desee editar y posteriormente en el botón correspondiente  ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_221.png)
+2. Edite la plantilla tal como lo haría con cualquier otro documento. Para guardar y aceptar los cambios, elija en el menú principal **Archivo → Guardar**.
+

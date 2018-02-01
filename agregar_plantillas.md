@@ -10,3 +10,5 @@ Para agregar plantillas abrimos el Gestor de plantillas que ya conocemos y podem
 Si elegimos la opción de obtener más plantilla para LibreOffice, se abrirá la web oficial de Extensiones y Plantillas de LibreOffice. Allí podremos buscar nuestra plantilla y descargarla para trabajar con ella.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_225.png)
+
+![](img/Seleccion_224.png)

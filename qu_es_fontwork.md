@@ -11,12 +11,12 @@ Fontwork está disponible para cualquiera de las aplicaciones de LibreOffice (Li
 
 Puede usar dos barras de herramientas diferentes para crear y editar un objeto de Fontwork.
 
-<li>
-Acceda a **Ver → Barra de Herramientas → Fontwork**.
-</li>
+
+- Acceda a **Ver → Barra de Herramientas → Fontwork**.
+
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_239.png)
-<li>
-Al hacer clic en un objeto de Fontwork, la barra de herramientas de Formato cambia para mostrar las opciones de Fontwork. El contenido de esta barra de herramientas varía en función de la aplicación de LibreOffice que utilice. 
-</li>
+
+- Al hacer clic en un objeto de Fontwork, la barra de herramientas de Formato cambia para mostrar las opciones de Fontwork. El contenido de esta barra de herramientas varía en función de la aplicación de LibreOffice que utilice. 
+
 

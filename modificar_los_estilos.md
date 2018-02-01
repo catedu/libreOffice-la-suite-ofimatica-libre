@@ -13,17 +13,14 @@ El diálogo de Estilos se visualizará dependiendo del tipo de estilo selecciona
 
 ## Actualizar un estilo a partir de una selección
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Actualizarestilo.png)
-<li value="1">
-Abra la ventana de Estilo y formato.
-</li>
-<li>
-En el documento, seleccione un elemento que tenga el formato que desee adoptar como un estilo.
-</li>
-<li>
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_215.png)</li>
+Para actualizar un estilo a partir de una selección:
 
-En el documento, seleccione un elemento que tenga el formato que desee adoptar como un estilo.
+1. Abra la ventana de Estilo y formato.
+
+1. En el documento, seleccione un elemento que tenga el formato que desee adoptar como un estilo.
+2. En la ventana Estilo y formato, seleccione el estilo que desee actualizar (con una sola pulsación con el ratón, no doble), y luego pulse sobre la flecha que hay junto al icono Nuevo estilo desde a partir de selección ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_215.png), seleccionando Actualizar estilo.
+
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Actualizarestilo.png)
 
 ## Actualizar estilos a partir de un documento o una plantilla
 

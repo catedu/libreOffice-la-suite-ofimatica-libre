@@ -3,14 +3,9 @@
 
 Es posible que desee añadir nuevos estilos. Esto puede hacerse de dos maneras:
 
-<li value="1">
-Creando un estilo nuevo utilizando el diálogo de estilos.
-</li>
-<li>
-Creando un estilo nuevo a partir de una selección.
-</li>
+- Creando un estilo nuevo utilizando el diálogo de estilos.
 
-Creando un estilo nuevo a partir de una selección.
+- Creando un estilo nuevo a partir de una selección.
 
 ## Crear un estilo nuevo utilizando el diálogo de estilos
 
@@ -24,23 +19,18 @@ Los diálogos y las posibilidades de elección son las mismas tanto para definir
 
 ## Crear un nuevo estilo a partir de una selección
 
+Se puede crear un estilo nuevo copiando un formato manual ya existente. Este nuevo estilo se aplica únicamente a este documento y no se guardará dentro de la plantilla.
+
+1. Abra la ventana de Estilo y formato y elija el tipo de estilo que desee crear.
+
+2. En el documento, seleccione el elemento que desee guardar como un estilo.
+
+3. En la ventana de Estilo y formato, pulse con el ratón sobre el icono de **Nuevo estilo a partir de selección.**
+
+4. En el diálogo de Crear estilo, escriba el nombre del estilo nuevo. La lista muestra los nombres de los estilos personalizados existentes relacionados con el tipo de elemento seleccionado. Pulse **Aceptar** para guardar el nuevo estilo.
+
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/NuevoEstilo.png)
-<li value="1">
-Abra la ventana de Estilo y formato y elija el tipo de estilo que desee crear.
-</li>
-<li>
-En el documento, seleccione el elemento que desee guardar como un estilo.
-</li>
-<li>
-En la ventana de Estilo y formato, pulse con el ratón sobre el icono de **Nuevo estilo a partir de selección**.
-</li>
-<li>
-En el diálogo de Crear estilo, escriba el nombre del estilo nuevo. La lista muestra los nombres de los estilos personalizados existentes relacionados con el tipo de elemento seleccionado. Pulse **Aceptar** para guardar el nuevo estilo.
-</li>
 
-En el documento, seleccione el elemento que desee guardar como un estilo.
-
-En el diálogo de Crear estilo, escriba el nombre del estilo nuevo. La lista muestra los nombres de los estilos personalizados existentes relacionados con el tipo de elemento seleccionado. Pulse **Aceptar** para guardar el nuevo estilo.
 
 ## Arrastrar y soltar para crear un nuevo estilo
 
