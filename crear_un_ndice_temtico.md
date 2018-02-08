@@ -5,34 +5,23 @@ Writer dispone de una funcionalidad que le permite construir un índice temátic
 
 Aunque Writer permite una alta personalización de esta funcionalidad, en la mayoría de los casos la configuración predeterminada será suficiente. Crear un índice temático es sencillo:
 
-<li>
-Cuando cree su documento, use los siguientes estilos de párrafo, para establecer los diferentes niveles de encabezados (como títulos de capítulos o de secciones): *Encabezado 1*, *Encabezado 2*, y *Encabezado 3*, y así sucesivamente.
-</li>
-<li>
-Coloque el cursor donde desee insertar el índice.
-</li>
-<li>
-Seleccione **Insertar ****→**** Índices y tablas****→**** Índices...**<br />
-</li>
-<li>
-No realice ningún cambio en en el diálogo de Insertar índice/tabla y haga clic en **Aceptar**.
-</li>
 
-Coloque el cursor donde desee insertar el índice.
+1. Cuando cree su documento, use los siguientes estilos de párrafo, para establecer los diferentes niveles de encabezados (como títulos de capítulos o de secciones): *Encabezado 1*, *Encabezado 2*, y *Encabezado 3*, y así sucesivamente.
 
-No realice ningún cambio en en el diálogo de Insertar índice/tabla y haga clic en **Aceptar**.
+2. Coloque el cursor donde desee insertar el índice.
+
+3. Seleccione **Insertar ****→**** Índices y tablas****→**** Índices...**<br />
+
+4. No realice ningún cambio en en el diálogo de Insertar índice/tabla y haga clic en **Aceptar**.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_indice_o_tabla_279.png)
+
 Si agrega o borra un texto (de modo que los encabezados se desplacen a otras páginas diferentes) o si agrega, borra o cambia encabezados, tendrá que actualizar el índice temático. Para ello, haga lo siguiente:
 
-<li>
-Coloque el cursor dentro de la tabla de contenidos.
-</li>
-<li>
-Haga clic con el botón secundario y seleccione **Actualizar índice/ ****tabla **en el menú emergente.
-</li>
+1. Coloque el cursor dentro de la tabla de contenidos.
 
-Haga clic con el botón secundario y seleccione **Actualizar índice/ ****tabla **en el menú emergente.
+2. Haga clic con el botón secundario y seleccione **Actualizar índice/ tabla** en el menú emergente.
+</li>
 
 En cualquier momento puede personalizar un índice temático ya existente. Haga clic con el botón secundario en cualquier parte de éste y seleccione **Editar índice/tabla** en el menú emergente.
 

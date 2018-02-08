@@ -13,7 +13,9 @@ Los documentos maestros normalmente se usan para la producción de documentos ex
 Una sección contiene al menos un párrafo. Si selecciona un texto y crea una sección, se inserta un salto de párrafo automáticamente al final del texto.
 
 Puede insertar secciones a partir de un documento de texto o un archivo de texto completo como una sección en otro documento de texto. También puede insertar secciones a partir de un documento de texto como enlaces en el mismo archivo o en otro diferente.
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/https://help.libreoffice.org/images/c/cc/Note.png)
+
+Si necesita insertar un párrafo nuevo inmediatamente antes o después de una sección, pulse delante o detrás de la sección y oprima Alt + Intro.
+
 ### Secciones y columnas
 
 Puede insertar secciones en otra sección. Por ejemplo, puede insertar una sección que contenga dos columnas en otra que sólo contenga una.
@@ -58,7 +60,7 @@ Puede proteger, ocultar y convertir secciones en texto normal en el documento.
 
 - Para convertir una sección en texto normal, pulse en **Quitar**.
 - Para hacer que una sección sea de solo lectura, seleccione la casilla **Protegido** en el área **Protección contra escritura**.
-- Para ocultar una sección, seleccione la casilla **Ocultar **en el área **Ocultar**.
+- Para ocultar una sección, seleccione la casilla **Ocultar** en el área **Ocultar**.
 - Para volver a editar la sección clique en **Opciones**...
 
 .

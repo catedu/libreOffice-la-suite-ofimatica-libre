@@ -13,10 +13,7 @@ Usar estilos de listas (numeradas), como se describe en el módulo 3.
 Usar los iconos de Numeración y de Viñetas que aparecen en la barra de herramientas de Formato de párrafo: seleccione los párrafos de la lista y a continuación haga clic en el icono apropiado de la barra de herramientas.
 </li>
 
-Usar estilos de listas (numeradas), como se describe en el módulo 3.
-<td width="16%" bgcolor="#94bd5e">**Nota**</td><td width="84%">Es una cuestión de gusto personal escribir primero la información y luego aplicar los formatos para numeración o para viñetas, o aplicar los formatos a medida que se escribe la información.</td>
-
-Es una cuestión de gusto personal escribir primero la información y luego aplicar los formatos para numeración o para viñetas, o aplicar los formatos a medida que se escribe la información.
+**Nota** Es una cuestión de gusto personal escribir primero la información y luego aplicar los formatos para numeración o para viñetas, o aplicar los formatos a medida que se escribe la información.
 
 ## Usar las barras de herramientas de Numeración y viñetas
 

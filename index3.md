@@ -46,11 +46,5 @@ Exportación a PDF, incluyendo marcas de texto
 Y muchas más.
 </li>
 
-Métodos de diseño de páginas, incluyendo marcos, columnas y tablas
 
-Herramientas incorporadas de dibujo 
-
-Cambiar el orden del documento durante la revisión
-
-Exportación a PDF, incluyendo marcas de texto
 
