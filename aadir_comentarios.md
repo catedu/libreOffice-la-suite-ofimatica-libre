@@ -10,7 +10,7 @@ Puede mover los marcadores pequeños de comentarios a cualquier lugar de la pág
 
 Para mostrar u ocultar los marcadores de comentarios, elija **Ver → Comentarios**.
 
-Seleccione **Herramientas → Opciones →**** LibreOffice →**** Datos de usuario** para configurar el nombre que desee que aparezca en el campo Autor del comentario, o cambiarlo.
+Seleccione **Herramientas → Opciones → LibreOffice → Datos de usuario** para configurar el nombre que desee que aparezca en el campo Autor del comentario, o cambiarlo.
 
 Si más de una persona edita el documento, a cada autor se le asigna automáticamente un color de fondo distinto.
 

@@ -1,7 +1,7 @@
 
 # Crear una presentación
 
-Esta sección explica cómo crear una nueva presentación. Las propiedades seleccionadas aquí son generales, y se aplicarán a todas las diapositivas.<a name="__RefHeading__23833_1264164872" style="font-size: 1.5em; background-color: #ffffff;"></a>
+Esta sección explica cómo crear una nueva presentación. Las propiedades seleccionadas aquí son generales, y se aplicarán a todas las diapositivas.
 
 ## Planificar la presentación
 
