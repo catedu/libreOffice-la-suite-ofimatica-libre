@@ -29,11 +29,11 @@ Calc aplica automáticamente muchos cambios mientras se introducen datos, a meno
 
 **Corrección automática de cambios**
 
-La corrección automática de errores al escribir, sustitución de comillas por unas personalizadas, y comenzar el contenido de la celda con mayúscula está controlado desde **Herramientas **→** Opciones de autocorrección**. Vaya a las pestañas *Comillas personalizadas*, Opciones o Reemplazar para desactivar cualquiera de estas características que no desee. En la pestaña Reemplazar, también puede borrar los pares de palabras que no desee y añadir los que desee.
+La corrección automática de errores al escribir, sustitución de comillas por unas personalizadas, y comenzar el contenido de la celda con mayúscula está controlado desde **Herramientas → Opciones de autocorrección**. Vaya a las pestañas *Comillas personalizadas*, Opciones o Reemplazar para desactivar cualquiera de estas características que no desee. En la pestaña Reemplazar, también puede borrar los pares de palabras que no desee y añadir los que desee.
 
 **Entrada automática**
 
-Al escribir en una celda, Calc sugiere automáticamente entradas que coinciden con los datos introducidos en la misma columna. Para activar o desactivar este comportamiento, marque o desmarque **Herramientas **→** Contenido de la celda **→** Entrada automática**.
+Al escribir en una celda, Calc sugiere automáticamente entradas que coinciden con los datos introducidos en la misma columna. Para activar o desactivar este comportamiento, marque o desmarque **Herramientas → Contenido de la celda → Entrada automática**.
 
 **Conversión automática de fecha**
 

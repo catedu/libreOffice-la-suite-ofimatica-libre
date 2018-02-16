@@ -26,12 +26,6 @@ Poder abrir, editar y guardar hojas de cálculo Microsoft Excel
 Importar y exportar hojas de cálculo en múltiples formatos, incluyendo HTML, CSV, PDF, y PostScript
 </li>
 
-Funciones de bases de datos, para organizar, almacenar y filtrar datos
-
-Macros, para grabar y ejecutar tareas repetitivas
-
-Importar y exportar hojas de cálculo en múltiples formatos, incluyendo HTML, CSV, PDF, y PostScript
-
 ## Cómo estudiar este material
 
 Los softwares ofimáticos ofrecen una gran cantidad de opciones y su manejo avanzado requiere muchas horas de dedicación. Siendo conscientes de esto, y teniendo en cuenta que cada uno partimos de un nivel de desempeño distinto, toma el contenido de este módulo como una referencia. Léelo someramente para saber qué opciones ofrece LibreOffice Calc. Más tarde, cuando elijas la tarea a realizar, profundizarás en el apartado que más te interese.

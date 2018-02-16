@@ -2,9 +2,8 @@
 # Dar formato a los caracteres
 
 Para elegir rápidamente el tipo de letra usado en una celda, seleccione la celda, luego pulse la flecha para desplegar la lista Nombre de fuente en la barra de formato y elija una fuente.
-<td width="699" bgcolor="#83caff">**Sugerencia**</td><td width="3646">Para elegir si mostrar los nombres de fuente con su fuente o como texto simple, vaya a **Herramientas ****→**** Opciones ****→**** LibreOffice ****→**** Ver** y active o desactive la casilla Previsualizar tipos de letra en la sección Lista de tipos de letra. </td>
 
-Para elegir si mostrar los nombres de fuente con su fuente o como texto simple, vaya a **Herramientas ****→**** Opciones ****→**** LibreOffice ****→**** Ver** y active o desactive la casilla Previsualizar tipos de letra en la sección Lista de tipos de letra. 
+**Sugerencia** Para elegir si mostrar los nombres de fuente con su fuente o como texto simple, vaya a **Herramientas ****→**** Opciones ****→**** LibreOffice ****→**** Ver** y active o desactive la casilla Previsualizar tipos de letra en la sección Lista de tipos de letra. 
 
 Para elegir el tamaño de la letra, despliegue la lista Tamaño de fuente de la barra de herramientas. Para otros formatos, puede usar los iconos negrita, cursiva o subrayado.
 

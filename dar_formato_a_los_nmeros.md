@@ -4,6 +4,7 @@
 Se pueden aplicar varios formatos numéricos a una celda usando los iconos en la Barra de formato. Seleccione la celda, y pulse el icono adecuado.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/FormatoNumeros.png)
+
 Para mayor control o seleccionar otros formatos numéricos, use la pestaña Números del diálogo Formato de celdas.
 
 <li>

@@ -14,9 +14,10 @@ Como las barras de título, menú, herramientas y de estado funcionan de manera 
 
 ### Barra de fórmulas
 
-A la izquierda de la Barra de fórmulas hay un pequeño cuadro de texto, llamado **Cuadro de n****ombre**, con una combinación de letra y número en él, como por ejemplo *D7*. Esta combinación, que se denomina referencia de celda, indican la letra de la columna y el número de la fila de la celda seleccionada.
+A la izquierda de la Barra de fórmulas hay un pequeño cuadro de texto, llamado **Cuadro de nombre**, con una combinación de letra y número en él, como por ejemplo *D7*. Esta combinación, que se denomina referencia de celda, indican la letra de la columna y el número de la fila de la celda seleccionada.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_295.png)
+
 A la izquierda del Cuadro de nombre están los botones **Asistente de funciones, Suma y Función**.
 
 Al pulsar el botón **Asistente de funciones** se abre un diálogo en el que puede buscar a través de una lista de funciones disponibles. Esto puede ser muy útil porque también muestra el formato de cada función.

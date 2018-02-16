@@ -7,17 +7,13 @@ Los encabezados y pies de páginas tienen un estilo de página asignado. Se pued
 
 Para establecer un encabezado o pie de página:
 
-<li value="1">
-En la hoja que desee definir el encabezado o pie de página, seleccione **Formato **→** Página**.
-</li>
-<li>
-Seleccione la pestaña Encabezamiento (o pie de página).
-</li>
-<li>
-Seleccione la opción **Activar encabezamiento**.
-</li>
 
-Seleccione la pestaña Encabezamiento (o pie de página).
+1. En la hoja que desee definir el encabezado o pie de página, seleccione **Formato **→** Página**.
+
+2. Seleccione la pestaña Encabezamiento (o pie de página).
+
+3. Seleccione la opción **Activar encabezamiento**.
+.
 
 Desde aquí también puede establecer los márgenes, el espaciado, y el alto para los encabezados o pies de página. Puede activar la casilla **Ajuste dinámico de altura** para ajustar la altura automáticamente.
 

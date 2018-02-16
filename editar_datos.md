@@ -3,7 +3,10 @@
 
 La edición de datos se realiza de manera similar a como se introducen. El primer paso es seleccionar la celda que contiene los datos a editar.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Eliminar_contenidos_306.png)
+
+
+## Eliminar datos de una celda
+
 Los datos se pueden eliminar de una celda de varias maneras.
 
 **Eliminar sólo los datos**
@@ -12,9 +15,9 @@ Los datos se pueden eliminar de una celda sin eliminar el formato de la celda. P
 
 **Eliminar los datos y el formato**
 
-Los datos y el formato de una celda se pueden eliminar al mismo tiempo. Pulse la tecla *Retroceso *(o pulse el botón derecho y elija **Eliminar contenidos**, o use **Editar ****→**** Eliminar contenidos**) para abrir el diálogo **Eliminar contenidos**. Desde este diálogo, pueden eliminarse los diferentes aspectos de la celda. Para eliminar todo en una celda (contenido y formato), marque la casilla **Eliminar todo**.
+Los datos y el formato de una celda se pueden eliminar al mismo tiempo. Pulse la tecla *Retroceso *(o pulse el botón derecho y elija **Eliminar contenidos**, o use **Editar → Eliminar contenidos**) para abrir el diálogo **Eliminar contenidos**. Desde este diálogo, pueden eliminarse los diferentes aspectos de la celda. Para eliminar todo en una celda (contenido y formato), marque la casilla **Eliminar todo**.
 
-
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Eliminar_contenidos_306.png)
 
 ## Sustituir todos los datos de una celda
 

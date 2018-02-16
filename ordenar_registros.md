@@ -1,12 +1,17 @@
 
 # Ordenar registros
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Ordenacion_315.png)
+
+
+Ordenar organiza las celdas visibles de la hoja. En Calc, se puede ordenar por tres criterios, aplicados uno después de otro. Ordenar es útil cuando está buscando un objeto en particular y es más poderoso después de filtrar los datos.
+
 Además, ordenar es útil cuando se añade información nueva. Con listas largas, normalmente es más fácil añadir la información nueva al final de la hoja que agregar filas en el lugar apropiado. Después de agregar la información, puede ordenarla para actualizar la hoja.
 
 Se puede ordenar resaltando las celdas a ordenar y luego seleccionar **Datos ****→**** Ordenar**. **Las celdas seleccionadas se pueden ordenar por la información de hasta tres columnas o filas**, de forma ascendente (A-Z, 1-9) o descendente (Z-A, 9-1).
 
-En la pestaña *Opciones *del diálogo Ordenar, puede elegir una de las siguientes opciones:
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Ordenacion_315.png)
+
+En la pestaña *Opciones* del diálogo Ordenar, puede elegir una de las siguientes opciones:
 
 **Mayúsculas/Minúsculas**
 
