@@ -4,7 +4,7 @@
 Un encabezado es una área que aparece en la parte superior de una página. Un pie de página aparece en la parte inferior. La información insertada en esas áreas ( por ejemplo, el número de página, nombre de capítulos, etc.) se mostrará en todas las páginas del documento con ese estilo de página.
 
 
-Para insertar un encabezado, haga clic en **Insertar ****→**** Encabezado ****→**** Predeterminado** (o el estilo de página, en caso de no ser el Predeterminado).
+Para insertar un encabezado, haga clic en **Insertar → Encabezado → Predeterminado** (o el estilo de página, en caso de no ser el Predeterminado).
 
 Otro tipo de información como títulos de documentos o de capítulos se inserta habitualmente en encabezados o en pies de página. La mejor manera de añadir estos elementos es insertarlos como campos. De esta manera, si se hacen cambios, los encabezados y los pies de página serán actualizados automáticamente. A continuación veremos un ejemplo muy frecuente.
 
@@ -27,7 +27,7 @@ Los campos son explicados en detalle más adelante.
 
 Un encabezado es una área que aparece en la parte superior de una página. Un pie de página aparece en la parte inferior. La información insertada en esas áreas ( por ejemplo, el número de página, nombre de capítulos, etc.) se mostrará en todas las páginas del documento con ese estilo de página.
 
-Para insertar un encabezado, haga clic en **Insertar ****→**** Encabezado ****→**** Predeterminado** (o el estilo de página, en caso de no ser el Predeterminado).
+Para insertar un encabezado, haga clic en **Insertar → Encabezado → Predeterminado** (o el estilo de página, en caso de no ser el Predeterminado).
 
 Otro tipo de información como títulos de documentos o de capítulos se inserta habitualmente en encabezados o en pies de página. La mejor manera de añadir estos elementos es insertarlos como campos. De esta manera, si se hacen cambios, los encabezados y los pies de página serán actualizados automáticamente. A continuación veremos un ejemplo muy frecuente.
 

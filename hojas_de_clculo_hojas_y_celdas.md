@@ -36,7 +36,7 @@ La sección principal de la pantalla muestra las celdas individuales en forma de
 
 En la parte superior de las columnas y a la izquierda de las filas, hay una serie de cuadros grises que contienen letras y números. Estas son las cabeceras de filas y columnas. Las columnas comienzan con A y avanzan hacia la derecha, y las filas comienzan en 1 y van hacia abajo.
 
-Los encabezados de columna y fila es lo que aparece en el área del Campo de nombre en la Barra de fórmula. Los encabezados se pueden activar o desactivar seleccionando **Ver ****→**** Titulo de filas/columnas**.
+Los encabezados de columna y fila es lo que aparece en el área del Campo de nombre en la Barra de fórmula. Los encabezados se pueden activar o desactivar seleccionando **Ver → Titulo de filas/columnas**.
 
 ### Pestañas de hoja
 

@@ -15,7 +15,7 @@ Una estrategia mejor es definir los tabuladores para el *estilo* de párrafo. En
 
 **NOTA:** Cualquier cambio en los valores del tabulador predeterminados afectarán a las tabulaciones predeterminadas existentes en cualquier documento que abra con posterioridad, así como las tabulaciones que inserte tras realizar el cambio.
 
-Para establecer la configuración de las unidades de medidas y el espaciado de los intervalos de tabulación predeterminados, diríjase a **Herramientas ****→**** Opciones ****→**** LibreOffice Writer ****→**** General**.
+Para establecer la configuración de las unidades de medidas y el espaciado de los intervalos de tabulación predeterminados, diríjase a **Herramientas → Opciones → LibreOffice Writer → General**.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/tabulacion.png)
 

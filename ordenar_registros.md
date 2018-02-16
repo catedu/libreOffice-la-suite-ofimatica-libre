@@ -7,7 +7,7 @@ Ordenar organiza las celdas visibles de la hoja. En Calc, se puede ordenar por t
 
 Además, ordenar es útil cuando se añade información nueva. Con listas largas, normalmente es más fácil añadir la información nueva al final de la hoja que agregar filas en el lugar apropiado. Después de agregar la información, puede ordenarla para actualizar la hoja.
 
-Se puede ordenar resaltando las celdas a ordenar y luego seleccionar **Datos ****→**** Ordenar**. **Las celdas seleccionadas se pueden ordenar por la información de hasta tres columnas o filas**, de forma ascendente (A-Z, 1-9) o descendente (Z-A, 9-1).
+Se puede ordenar resaltando las celdas a ordenar y luego seleccionar **Datos → Ordenar**. **Las celdas seleccionadas se pueden ordenar por la información de hasta tres columnas o filas**, de forma ascendente (A-Z, 1-9) o descendente (Z-A, 9-1).
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Ordenacion_315.png)
 
@@ -31,7 +31,7 @@ Indica la dirección de la hoja de cálculo para copiar los resultados ordenados
 
 **Orden de clasificación definido por el usuario**
 
-Seleccione la casilla, luego escoja uno de los ordenes definidos en **Herramientas ****→**** Opciones ****→**** LibreOffice Calc ****→**** Ordenar listas** desde la lista desplegable.
+Seleccione la casilla, luego escoja uno de los ordenes definidos en **Herramientas → Opciones → LibreOffice Calc → Ordenar listas** desde la lista desplegable.
 
 **Dirección**
 

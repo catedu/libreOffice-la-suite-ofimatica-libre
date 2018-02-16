@@ -1,7 +1,7 @@
 
 # Exportar gráficos
 
-Para guardar una imagen de Draw en otro formato, use **Archivo**** &gt; Exportar**. Draw puede guardar en muchos formatos gráficos. Puede exportar todo el documento o sólo los objetos seleccionados.
+Para guardar una imagen de Draw en otro formato, use **Archivo &gt; Exportar**. Draw puede guardar en muchos formatos gráficos. Puede exportar todo el documento o sólo los objetos seleccionados.
 
 También puede exportar documentos de Draw a HTML, PDF, o Flash. Exportar a PDF se hace igual que con cualquiera de los componentes de LibreOffice.
 

@@ -6,7 +6,7 @@ Si desea numerar las páginas de un documento automáticamente, haga lo siguient
 
 1. Inserte un encabezado o un pie de página, tal y como se ha explicado anteriormente en “Crear encabezados y pies de página”.
 
-2. Coloque el cursor en el encabezado o en el pie de la página en el que desee que aparezca el número de página y elija **Insertar ****→**** Campos ****→**** Número de página**.
+2. Coloque el cursor en el encabezado o en el pie de la página en el que desee que aparezca el número de página y elija **Insertar → Campos → Número de página**.
 
 
 ## Incluir el número total de páginas
@@ -16,7 +16,7 @@ Si desea incluir el número total de páginas (por ejemplo, “página 1 de 12�
 
 1. Escriba la palabra “página” seguida de un espacio, luego inserte el número de página como se explicó anteriormente.
 
-2. Presione la barra espaciadora una vez, escriba la palabra “de” y un espacio, a continuación haga clic en **Insertar ****→**** Campos ****→**** Contar páginas**.
+2. Presione la barra espaciadora una vez, escriba la palabra “de” y un espacio, a continuación haga clic en **Insertar → Campos → Contar páginas**.
 
 ## Reiniciar la numeración de páginas
 

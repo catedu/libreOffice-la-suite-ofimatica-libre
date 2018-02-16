@@ -10,7 +10,7 @@ Aunque Writer permite una alta personalización de esta funcionalidad, en la may
 
 2. Coloque el cursor donde desee insertar el índice.
 
-3. Seleccione **Insertar ****→**** Índices y tablas****→**** Índices...**<br />
+3. Seleccione **Insertar → Índices y tablas→ Índices...**<br />
 
 4. No realice ningún cambio en en el diálogo de Insertar índice/tabla y haga clic en **Aceptar**.
 

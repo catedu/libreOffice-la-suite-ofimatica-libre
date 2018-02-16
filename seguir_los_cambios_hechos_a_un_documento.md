@@ -3,7 +3,7 @@
 
 Dispone de distintos métodos para seguir los cambios hechos en un documento.
 
-1. Hacer los cambios en una copia del documento (archivado en una carpeta diferente o con otro nombre, o ambas premisas), a continuación utilizar Writer para combinar los dos archivos y mostrar las diferencias. Haga clic en **Editar ****→**** Comparar documento**. Este método resulta especialmente útil en caso de que sea la única persona que esté trabajando con el documento, puesto que se evita que se incremente el tamaño y que se añada complejidad al proceso, como ocurre con otros métodos.
+1. Hacer los cambios en una copia del documento (archivado en una carpeta diferente o con otro nombre, o ambas premisas), a continuación utilizar Writer para combinar los dos archivos y mostrar las diferencias. Haga clic en **Editar → Comparar documento**. Este método resulta especialmente útil en caso de que sea la única persona que esté trabajando con el documento, puesto que se evita que se incremente el tamaño y que se añada complejidad al proceso, como ocurre con otros métodos.
 
 
 2. Guardar versiones como si fuesen partes del documento original. No obstante, este método puede causar problemas con documentos muy extensos o complejos, especialmente si ha guardado una serie de versiones. Evite este método en la medida de lo posible.

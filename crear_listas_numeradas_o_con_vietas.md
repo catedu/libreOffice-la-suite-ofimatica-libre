@@ -17,7 +17,7 @@ Usar los iconos de Numeración y de Viñetas que aparecen en la barra de herrami
 
 ## Usar las barras de herramientas de Numeración y viñetas
 
-Puede crear listas jerárquicas con viñetas (en las que uno o más elementos de la lista tiene a su vez una lista inferior, como en el caso de los esquemas) usando los botones que aparecen en la barra de herramientas de Numeración y viñetas. Puede mover los puntos de la lista a niveles superiores o inferiores, o también crear niveles inferiores de puntos e incluso cambiar el estilo de las viñetas. Use **Ver ****→**** Barras de herramientas ****→**** Numeración y viñetas** para ver la barra de herramientas. También se activará cuando se encuentre editando una lista.
+Puede crear listas jerárquicas con viñetas (en las que uno o más elementos de la lista tiene a su vez una lista inferior, como en el caso de los esquemas) usando los botones que aparecen en la barra de herramientas de Numeración y viñetas. Puede mover los puntos de la lista a niveles superiores o inferiores, o también crear niveles inferiores de puntos e incluso cambiar el estilo de las viñetas. Use **Ver → Barras de herramientas → Numeración y viñetas** para ver la barra de herramientas. También se activará cuando se encuentre editando una lista.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_268.png)
 

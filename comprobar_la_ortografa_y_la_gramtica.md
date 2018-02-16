@@ -21,15 +21,15 @@ Para ejecutar una comprobación ortográfica individual del documento (o de una 
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Estilo_de_parrafo_OOoTextBody_261.png)
 
-Writer no incluye un corrector gramatical, pero puede instalar una extensión como Herramienta de Idioma y acceder a ella desde **Herramientas ****→**** Ortografía y gramática**. (Consulte el Capítulo 14 para saber más sobre instalar extensiones).
+Writer no incluye un corrector gramatical, pero puede instalar una extensión como Herramienta de Idioma y acceder a ella desde **Herramientas → Ortografía y gramática**. (Consulte el Capítulo 14 para saber más sobre instalar extensiones).
 
 Igualmente puede establecer el idioma de un párrafo o de un grupo de caracteres en **Ninguno**. Esta opción es especialmente útil si inserta textos como direcciones web o fragmentos de lenguaje de programación cuya ortografía no desea comprobar.
 
-Puede establecer el idioma para un documento entero, para párrafos individuales e incluso para palabras y caracteres individuales, todo ello desde **Herramientas ****→**** Idioma** del menú principal.
+Puede establecer el idioma para un documento entero, para párrafos individuales e incluso para palabras y caracteres individuales, todo ello desde **Herramientas → Idioma** del menú principal.
 
-Otra forma de cambiar el idioma de un documento entero es a través de la ruta **Herramientas ****→**** Opciones ****→**** Configuración del idioma ****→**** Idiomas**. En la sección *Idioma predeterminado para documentos* del diálogo Opciones, puede elegir un idioma diferente para todo el texto.
+Otra forma de cambiar el idioma de un documento entero es a través de la ruta **Herramientas → Opciones → Configuración del idioma → Idiomas**. En la sección *Idioma predeterminado para documentos* del diálogo Opciones, puede elegir un idioma diferente para todo el texto.
 
-La corrección de ortografía se activa únicamente para esos idiomas de la lista que tienen el símbolo al lado. Si no puede ver ese símbolo junto al idioma deseado, puede instalar el diccionario a través de **Herramientas ****→**** Idiomas ****→**** Más diccionarios en línea**.
+La corrección de ortografía se activa únicamente para esos idiomas de la lista que tienen el símbolo al lado. Si no puede ver ese símbolo junto al idioma deseado, puede instalar el diccionario a través de **Herramientas → Idiomas → Más diccionarios en línea**.
 
 El idioma que se emplea para la corrección ortográfica se muestra también en la barra de estado, junto al **estilo** de página que se está usando.
 

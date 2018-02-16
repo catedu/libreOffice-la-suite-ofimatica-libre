@@ -10,7 +10,7 @@ No es posible añadir ni modificar temas en Calc. Sin embargo, pueden modificars
 Para aplicar un tema a una hoja de cálculo:
 
 
-1. Pulse el icono **Selección de temas** en la barra de herramientas. Si esta barra no está visible, se puede mostrar utilizando **Ver ****→**** Barras de herramientas ****→**** Herramientas**.
+1. Pulse el icono **Selección de temas** en la barra de herramientas. Si esta barra no está visible, se puede mostrar utilizando **Ver → Barras de herramientas → Herramientas**.
 
 Aparece el diálogo de selección de temas. Este diálogo muestra los temas disponibles para la hoja de cálculo.
 

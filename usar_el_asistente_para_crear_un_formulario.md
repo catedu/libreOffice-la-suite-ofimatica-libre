@@ -103,7 +103,7 @@ Pulse **Siguiente**.
 
 Seleccione el borde de campo que prefiera (He elegido 3D. Quizá usted podría experimentar con los diferentes ajustes posibles).
 
-**Paso 8****:** **establezca un nombre.**
+**Paso 8:** **establezca un nombre.**
 
 <li value="1">
 Introduzca el nombre para el formulario. En este caso, es Combustible.

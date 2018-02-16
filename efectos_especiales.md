@@ -3,7 +3,7 @@
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_532.png)
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_530.png)
-Seleccione un objeto y pulse el icono **Reflejar**** **en la barra de herramientas Estandar. Verá una línea de puntos atravesar el centro del objeto.
+Seleccione un objeto y pulse el icono **Reflejar **en la barra de herramientas Estandar. Verá una línea de puntos atravesar el centro del objeto.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Delfin1.png)
 Esta línea de puntos es el eje de simetría. El objeto se reflejará a partir de esta línea. Mueva uno o ambos extremos con el ratón para determinar la posición del eje de simetría.
@@ -28,7 +28,7 @@ Mueva el eje de simetría a la posición deseada para obtener el eje del reflejo
 
 Existen tres herramientas en el menú **Efectos** que permiten arrastrar las esquinas y bordes de un objeto para distorsionar la imagen.
 
-Las herramientas de **Distorsión**** **modifican un objeto en perspectiva, la de **Ajustar al círculo (para inclinar)** y la de **Ajustar en el circulo (perspectiva)** crean un efecto pseudo tridimensional.
+Las herramientas de **Distorsión **modifican un objeto en perspectiva, la de **Ajustar al círculo (para inclinar)** y la de **Ajustar en el circulo (perspectiva)** crean un efecto pseudo tridimensional.
 
 ### Degradados dinámicos
 

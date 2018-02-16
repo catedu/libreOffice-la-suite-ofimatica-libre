@@ -1,7 +1,7 @@
 
 # Filtrar qué celdas están visibles
 
-Un filtro es una lista de condiciones que cada entrada debe reunir para que se muestre. Puede establecer tres tipos de filtros desde el submenú **Datos ****→**** Filtros**.
+Un filtro es una lista de condiciones que cada entrada debe reunir para que se muestre. Puede establecer tres tipos de filtros desde el submenú **Datos → Filtros**.
 
 **Filtros automáticos:** añaden una lista desplegable al principio de una columna que contiene los filtros usados comúnmente. Son rápidos y convenientes, porque la condición incluye cada entrada única en las celdas seleccionadas, son casi tan útiles con texto como con números.
 

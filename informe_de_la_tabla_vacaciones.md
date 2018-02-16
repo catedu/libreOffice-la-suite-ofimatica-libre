@@ -4,7 +4,7 @@
 Para crear un informe nuevo:
 
 <li value="1">
-Pulse el** icono *****Informes*** en la lista Base de datos en la ventana Automóvil – LibreOffice.
+Pulse el** icono *Informes*** en la lista Base de datos en la ventana Automóvil – LibreOffice.
 </li>
 <li>
 En la lista Tareas pulse **Usar el asistente para crear informe**. Se abre el Asistente para informes.
