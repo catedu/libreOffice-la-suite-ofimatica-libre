@@ -18,15 +18,15 @@ Para abrir un fichero CSV en Calc:
 
 1. Localice el fichero CSV que desea abrir.
 
-1. Si el fichero tiene la extensión *.csv, seleccione el fichero y pulse **Abrir**.
+1. Si el fichero tiene la extensión *.csv, seleccione el fichero y pulse Abrir.
 
-1. Si el fichero tiene otra extensión (por ejemplo, *.txt), seleccione el fichero, luego **Texto CSV** en el recuadro Archivo (desplácese hacia abajo en la sección de hoja de cálculo para encontrarlo) y luego pulse Abrir.
+1. Si el fichero tiene otra extensión (por ejemplo, *.txt), seleccione el fichero, luego Texto CSV en el recuadro Archivo (desplácese hacia abajo en la sección de hoja de cálculo para encontrarlo) y luego pulse Abrir.
 
 1. En el diálogo Importar texto, seleccione las **Opciones de separación** para dividir el texto del fichero en columnas.
 
 1. Puede previsualizar el diseño de los datos importados en la parte inferior del diálogo. Pulse con el botón derecho en una columna para previsualizar el formato u ocultar la columna.
 
-1. i el fichero CSV usa un carácter delimitador de texto que no se encuentre en la lista de delimitadores de texto, pulse en el recuadro y escribe el carácter que desee.
+1. Si el fichero CSV usa un carácter delimitador de texto que no se encuentre en la lista de delimitadores de texto, pulse en el recuadro y escribe el carácter que desee.
 
 1. Pulse **Aceptar** para abrir el fichero.
 
