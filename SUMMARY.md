@@ -153,7 +153,7 @@
   * [PAGO -TASA - NPER - VA - VF](pago_tasa__nper__va__vf.md)
   * [Mensajes de error más habituales](mensajes_de_error_ms_habituales.md)
 
----
+## Primeros pasos con Base.
 
 * [¿Qué es Base?](index6.md)
 * [Planificar una base de datos](planificar_una_base_de_datos.md)
