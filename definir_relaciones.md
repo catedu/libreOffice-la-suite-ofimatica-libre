@@ -10,85 +10,49 @@ La tabla Vacaciones también contiene varios campos para el tipo de pago usado. 
 Puesto que la tabla Tipo Pago solamente proporciona un lista estática, no necesitamos definir una relación entre la tabla Tipo Pago y los campos de las otras tablas que usan las entradas de la tabla Tipo Pago. Esto se hará cuando creemos los formularios.
 
 Las tablas Combustible y Mantenimiento realmente no tienen ninguna relación aunque tengan campos similares: Fecha y Cuentakilómetros.
-<td width="661" bgcolor="#83caff">**Sugerencia**</td><td width="3684">A medida que cree sus propias bases de datos, también tendrá que determinar en qué y cómo están relacionadas las tablas.</td>
 
-A medida que cree sus propias bases de datos, también tendrá que determinar en qué y cómo están relacionadas las tablas.
+**Sugerencia**: A medida que cree sus propias bases de datos, también tendrá que determinar en qué y cómo están relacionadas las tablas.
 
-<li value="1">
-Para empezar a definir relaciones elija **Herramientas → Relaciones**.
-</li>
-<li>
-En el diálogo Añadir tablas, use uno de los siguientes métodos para añadir una tabla a la ventana Diseño de relaciones:
-</li>
+1. Para empezar a definir relaciones elija **Herramientas → Relaciones**.
 
-En el diálogo Añadir tablas, use uno de los siguientes métodos para añadir una tabla a la ventana Diseño de relaciones:
+2. En el diálogo Añadir tablas, use uno de los siguientes métodos para añadir una tabla a la ventana Diseño de relaciones:
 
-<li value="1">
-Haga doble clic sobre el nombre de la tabla. En nuestro caso, hágalo en las tablas *Vacaciones* y *Combustible*. 
-</li>
-<li>
-O pulse en el nombre de la tabla y luego **Añadir** para cada una de las tablas.
-</li>
+    - Haga doble clic sobre el nombre de la tabla. En nuestro caso, hágalo en las tablas *Vacaciones* y *Combustible*. 
+    - O pulse en el nombre de la tabla y luego **Añadir** para cada una de las tablas.
 
-O pulse en el nombre de la tabla y luego **Añadir** para cada una de las tablas.
+3. Haga clic en **Cerrar** para cerrar el diálogo cuando haya añadido las tablas que desee.
 
-<li>
-Haga clic en **Cerrar** para cerrar el diálogo cuando haya añadido las tablas que desee.
-</li>
-<li>
-Puede definir la relación entre las tablas Vacaciones y Combustible de dos modos:
-</li>
+4. Puede definir la relación entre las tablas Vacaciones y Combustible de dos modos:
 
-Puede definir la relación entre las tablas Vacaciones y Combustible de dos modos:
+    - Seleccione y arrastre el campo *Fecha* en la tabla *Combustible* hasta el campo *Fecha* en la tabla *Vacaciones*. Cuando suelte el botón del ratón, se formará una línea de conexión entre los dos campos.
 
-<li>
-Seleccione y arrastre el campo *Fecha* en la tabla *Combustible* hasta el campo *Fecha* en la tabla *Vacaciones*. Cuando suelte el botón del ratón, se formará una línea de conexión entre los dos campos.
-</li>
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Relaciones.png)
-<li>
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_324.png)</li>
 
-<ul>
-<li value="1">
-En la sección *Campos implicados*, pulse la lista desplegable que se encuentra bajo la etiqueta *Combustible.*
-</li>
-<li>
-Seleccione *Fecha* en la lista de la tabla *Combustible*.
-</li>
+- O haga clic sobre el icono Nueva relación
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_324.png) . Esto abrirá la ventana Relaciones. Nuestras dos tablas aparecerán en la sección Tablas implicadas.
+    - En la sección *Campos implicados*, pulse la lista desplegable que se encuentra bajo la etiqueta *Combustible.*
+    - Seleccione *Fecha* en la lista de la tabla *Combustible*.
 
-Seleccione *Fecha* en la lista de la tabla *Combustible*.
+- Haga clic sobre la celda que se encuentra a la derecha de esta lista desplegable. Esto abrirá una lista desplegable para la tabla Vacaciones.
 
-Haga clic sobre la celda que se encuentra a la derecha de esta lista desplegable. Esto abrirá una lista desplegable para la tabla Vacaciones.
+- Seleccione *Fecha* en la lista de la tabla Vacaciones. Ahora todo debería parecerse a lo mostrado en la Figura 10.
 
-Seleccione *Fecha* en la lista de la tabla Vacaciones. Ahora todo debería parecerse a lo mostrado en la Figura 10.
-
-Pulse **Aceptar**.
+- Pulse **Aceptar**.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/NuevaRelacion.png)
-<li>
-Modificar las *Opciones de actualización* y *Opciones de eliminación* de la ventana Relaciones.
-</li>
 
-<li>
-Haga clic con el botón secundario sobre la línea que conecta los campos Fecha de las dos tablas para abrir el menú contextual.
-</li>
-<li>
-Seleccione **Editar** para abrir el diálogo Relaciones.
-</li>
-<li>
-Seleccione **Actualizar cascada**.
-</li>
-<li>
-Seleccione **Eliminar cascada**.
-</li>
-<li>
-Pulse **Aceptar** para cerrar la ventana Relaciones y seleccione **Archivo → Guardar** para guardar la ventana Diseño de relaciones.
-</li>
+5. Modificar las *Opciones de actualización* y *Opciones de eliminación* de la ventana Relaciones.
 
-Seleccione **Editar** para abrir el diálogo Relaciones.
+a) Haga clic con el botón secundario sobre la línea que conecta los campos Fecha de las dos tablas para abrir el menú contextual.
 
-Seleccione **Eliminar cascada**.
+b) Seleccione **Editar** para abrir el diálogo Relaciones.
+
+c) Seleccione **Actualizar cascada**.
+
+d) Seleccione **Eliminar cascada**.
+
+e) Pulse **Aceptar** para cerrar la ventana Relaciones y seleccione **Archivo → Guardar** para guardar la ventana Diseño de relaciones.
 
 Aunque estas opciones no son estrictamente necesarias, sirven de ayuda. Tenerlas seleccionadas permite actualizar una tabla que tenga una relación definida con otra tabla, así como eliminar un campo de una tabla.
 

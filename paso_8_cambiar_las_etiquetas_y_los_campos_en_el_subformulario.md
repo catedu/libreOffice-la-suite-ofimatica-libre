@@ -7,35 +7,20 @@ Mueva el cursor sobre la línea divisoria entre las columnas Fecha y CosteCombus
 
 Para cambiar la columna FormaPago:
 
-<li>
-Haga clic con el botón secundario en la etiqueta FormaPago y en el menú seleccione **Reemplazar por → Campo combinado**.
-</li>
-<li>
-Vuelva a hacer clic con el botón secundario sobre la etiqueta FormaPago para abrir el menú y seleccione **Columna** para abrir la ventana .
-</li>
-<li>
-En la caja Título, cambie FormaPago a Forma Pago.
-</li>
-<li>
-Pulse la pestaña **Datos**.
-</li>
-<li>
-En el campo *Tipo del contenido de lista*, seleccione *Sql*.
-</li>
-<li>
-Escriba exactamente lo siguiente:
-</li>
+1. Haga clic con el botón secundario en la etiqueta FormaPago y en el menú seleccione **Reemplazar por → Campo combinado**.
 
-Vuelva a hacer clic con el botón secundario sobre la etiqueta FormaPago para abrir el menú y seleccione **Columna** para abrir la ventana .
+2. Vuelva a hacer clic con el botón secundario sobre la etiqueta FormaPago para abrir el menú y seleccione **Columna** para abrir la ventana .
 
-Pulse la pestaña **Datos**.
+3. En la caja Título, cambie FormaPago a Forma Pago.
 
-Escriba exactamente lo siguiente:
+4. Pulse la pestaña **Datos**.
 
-SELECT "Tipo", "Tipo" FROM "Tipo pago"
+5. En el campo *Tipo del contenido de lista*, seleccione *Sql*.
 
-<li>
-Cierre la ventana Propiedades.
-</li>
+6. Escriba exactamente lo siguiente:
+
+        SELECT "Tipo", "Tipo" FROM "Tipo pago"
+
+7. Cierre la ventana Propiedades.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig29.png)

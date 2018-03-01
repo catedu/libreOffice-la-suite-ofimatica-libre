@@ -5,77 +5,42 @@ El fondo del formulario puede ser un color o un gráfico (imagen). Puede usar cu
 
 Si elige un fondo oscuro, puede necesitar cambiar muchas de las etiquetas y encabezados para que puedan verse.
 
-<li value="1">
-Seleccione las etiquetas de la fila superior de controles.
-</li>
+1. Seleccione las etiquetas de la fila superior de controles.
 
-<li>
-Mantenga pulsada la tecla *Control* y haga clic en la etiqueta Fecha.
-</li>
-<li>
-Mientras mantiene pulsadas las teclas *Mayúsculas y **Control,* haga clic en el resto de las etiquetas de la fila superior. El borde va aumentando hacia la derecha hasta que incluye todas las etiquetas.
-</li>
+2. Mantenga pulsada la tecla *Control* y haga clic en la etiqueta Fecha.
 
-Mientras mantiene pulsadas las teclas *Mayúsculas y **Control,* haga clic en el resto de las etiquetas de la fila superior. El borde va aumentando hacia la derecha hasta que incluye todas las etiquetas.
+3. Mientras mantiene pulsadas las teclas *Mayúsculas y Control*, haga clic en el resto de las etiquetas de la fila superior. El borde va aumentando hacia la derecha hasta que incluye todas las etiquetas.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig31.png)
-<li>
-Pulse el icono **Control** en la barra de herramientas Diseño de formulario para abrir el diálogo Propiedades.
-</li>
-<li>
-Cambie la selección *Color de fondo* de *Predeterminado* a *Turquesa claro*. Cierre el diálogo Propiedades.
-</li>
 
-Cambie la selección *Color de fondo* de *Predeterminado* a *Turquesa claro*. Cierre el diálogo Propiedades.
+4. Pulse el icono **Control** en la barra de herramientas Diseño de formulario para abrir el diálogo Propiedades.
 
-<li>
-Seleccione las otras etiquetas del mismo modo y cambie su color de fondo.
-</li>
-<li>
-Para cambiar el color del tipo de letra (fuente) de los encabezados:
-</li>
+5. Cambie la selección *Color de fondo* de *Predeterminado* a *Turquesa claro*. Cierre el diálogo Propiedades.
 
-Para cambiar el color del tipo de letra (fuente) de los encabezados:
+6. Seleccione las otras etiquetas del mismo modo y cambie su color de fondo.
 
-<li value="1">
-Abra Estilo y formatos usando la tecla *F11*. Asegúrese de que está seleccionado el icono Párrafo en el extremo izquierdo de los iconos de la imagen.
-</li>
+7. Para cambiar el color del tipo de letra (fuente) de los encabezados:
+
+8. Abra Estilo y formatos usando la tecla *F11*. Asegúrese de que está seleccionado el icono Párrafo en el extremo izquierdo de los iconos de la imagen.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig32.png)
-<li>
-Pulse con el botón derecho en el estilo Encabezado 2 para abrir el menú contextual y elija **Modificar **en este menú.
-</li>
-<li>
-En la ventana *Estilo de párrafo: Encabezado 2* pulse la pestaña **Efectos de fuente**. Cambie *Color de la fuente* de *Automático* a *Turquesa claro*.
-</li>
-<li>
-Pulse **Aceptar** para cerrar la ventana.
-</li>
 
-En la ventana *Estilo de párrafo: Encabezado 2* pulse la pestaña **Efectos de fuente**. Cambie *Color de la fuente* de *Automático* a *Turquesa claro*.
-<td width="661" bgcolor="#83caff">**Sugerencia**</td><td width="3684" valign="top">A veces puede ser muy útil aprender a usar los estilos. Mediante el uso de estilos hemos cambiado el color del tipo de letra (fuente) de los tres encabezados al mismo tiempo. Hay otros métodos para cambiar el color, pero requieren repetir el mismo paso para cada uno de los encabezados.</td>
+a) Pulse con el botón derecho en el estilo Encabezado 2 para abrir el menú contextual y elija **Modificar** en este menú.
 
-A veces puede ser muy útil aprender a usar los estilos. Mediante el uso de estilos hemos cambiado el color del tipo de letra (fuente) de los tres encabezados al mismo tiempo. Hay otros métodos para cambiar el color, pero requieren repetir el mismo paso para cada uno de los encabezados.
+b) En la ventana *Estilo de párrafo: Encabezado 2* pulse la pestaña **Efectos de fuente**. Cambie *Color de la fuente* de *Automático* a *Turquesa claro*.
 
-<li>
+c) Pulse **Aceptar** para cerrar la ventana.
+
+**Sugerencia:** A veces puede ser muy útil aprender a usar los estilos. Mediante el uso de estilos hemos cambiado el color del tipo de letra (fuente) de los tres encabezados al mismo tiempo. Hay otros métodos para cambiar el color, pero requieren repetir el mismo paso para cada uno de los encabezados.
+
 Para añadir un gráfico de fondo:
-</li>
 
-<li value="1">
-Pulse en el fondo con el botón derecho del ratón y seleccione **Página** en el menú contextual.
-</li>
-<li>
-En la ventana Estilo de página, pulse la pestaña Área o Fondo, cambie de *Color* a *Gráfico* o **Mapa de bits **en la lista desplegable *Relleno.*
-</li>
-<li>
-Haga clic en Importar imagen para buscar y seleccionar el archivo gráfico que quiera usar y pulse **Aceptar**.
-</li>
-<li>
-El formulario debería parecerse al de la siguiente imagen.
-</li>
+a) Pulse en el fondo con el botón derecho del ratón y seleccione **Página** en el menú contextual.
 
-En la ventana Estilo de página, pulse la pestaña Área o Fondo, cambie de *Color* a *Gráfico* o **Mapa de bits **en la lista desplegable *Relleno.*
+b) En la ventana Estilo de página, pulse la pestaña Área o Fondo, cambie de *Color* a *Gráfico* o **Mapa de bits **en la lista desplegable *Relleno.*
 
-El formulario debería parecerse al de la siguiente imagen.
+c) Haga clic en Importar imagen para buscar y seleccionar el archivo gráfico que quiera usar y pulse **Aceptar**.
+
+d) El formulario debería parecerse al de la siguiente imagen.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig33.png)
