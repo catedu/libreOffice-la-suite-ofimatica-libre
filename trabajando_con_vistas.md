@@ -21,26 +21,17 @@ La vista de esquema es útil al menos para dos propósitos:
 
 
 1. Hacer cambios en el texto de una transparencia:
-
-
-
-    - Se puede añadir y borrar el texto de una diapositiva tal y como se haría en la vista normal.
-
-    - Se pueden mover los párrafos de la diapositiva hacia arriba o hacia abajo mediante las flechas de dirección “arriba” y “abajo” de la barra de herramientas de formato de texto.
-
-    - Se puede cambiar el nivel de la sangría de los párrafos de una diapositiva utilizando los botones de flecha izquierda y derecha.
-
-    - También se puede mover un párrafo y cambiar su nivel de sangría utilizando una combinación de los cuatro botones direccionales.
+    * Se puede añadir y borrar el texto de una diapositiva tal y como se haría en la vista normal.
+    * Se pueden mover los párrafos de la diapositiva hacia arriba o hacia abajo mediante las flechas de dirección “arriba” y “abajo” de la barra de herramientas de formato de texto.
+    * Se puede cambiar el nivel de la sangría de los párrafos de una diapositiva utilizando los botones de flecha izquierda y derecha.
+    * También se puede mover un párrafo y cambiar su nivel de sangría utilizando una combinación de los cuatro botones direccionales.
 
 2. Comparar las diapositivas con tu esquema (si se ha preparado uno por adelantado). Si se ve que hace falta otra diapositiva en el esquema, se puede crear directamente en la vista Esquema (pulsando *Enter *cuando el cursor esté sobre la primera línea de la diapositiva) o se puede cambiar a la vista Normal para crearla, y entonces volver a la vista Esquema para continuar revisando las diapositivas del esquema.
 
 
 Si una diapositiva no está en el orden que le corresponde, se puede arrastrar a su lugar correcto.
-
-
-    - En el panel de diapositivas, pulse sobre el icono de la diapositiva que se está moviendo.
-
-    - Arrástrelo y suéltelo en el lugar que desee.
+* En el panel de diapositivas, pulse sobre el icono de la diapositiva que se está moviendo.
+* Arrástrelo y suéltelo en el lugar que desee.
 
 ## Vista de notas
 

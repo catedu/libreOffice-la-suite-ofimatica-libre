@@ -12,7 +12,7 @@ Para asignar un atajo del teclado a un fragmento de texto:
 
 2. Seleccione el texto de manera que quede resaltado.
 
-3. Seleccione **Editar → Autotexto** (o presione *Control**+F3*).
+3. Seleccione **Editar → Autotexto** (o presione *Control+F3*).
 
 4. Escriba un nombre para el atajo del teclado. Writer sugerirá un atajo de una sola letra, pero se puede cambiar.
 
