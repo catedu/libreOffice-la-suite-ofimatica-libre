@@ -34,4 +34,4 @@ Aprovecho para dejaros aquí este curso de [VideoTutoriales Education](http://ww
 
 
 
-{% youtube %}https//www.youtube.com/watch?v=videoseries?list=PLLLaU95AMQPrMifyMRgiwhqKA64g7Kiea{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=RlDfuSh69OA&feature=youtu.be&list=PLLLaU95AMQPrMifyMRgiwhqKA64g7Kiea{% endyoutube %}

@@ -56,12 +56,6 @@ Valores cero—imprime las celdas con valor cero
 
 Utilice las características de escala para controlar el número de páginas que se imprimirán. Esto puede ser útil si se necesita imprimir un gran número de datos de manera más compacta o, si el lector tiene problemas de visión, se puede agrandar el texto al imprimirse.
 
-<li>
-Reducir/Ampliar impresión—escala los datos en la impresión haciéndolos más grandes o pequeños. Por ejemplo, si una hoja se puede imprimir normalmente en cuatro páginas (dos a lo ancho y dos a lo largo), con una escala de 50% se puede imprimir en una página (ambas reducidas a la mitad en ancho y largo).
-</li>
-<li>
-Ajustar intervalos de impresión en números de páginas—define exactamente cuántas paginas de impresión se pueden ocupar. Esta opción sólo puede reducir una impresión, no la agrandará. Para agrandar una impresión, se debe usar la opción ampliar/reducir.
-</li>
-<li>
-Ajustar intervalos de impresión a lo alto/ancho—define el alto y ancho de la impresión, en páginas.
-</li>
+* Reducir/Ampliar impresión—escala los datos en la impresión haciéndolos más grandes o pequeños. Por ejemplo, si una hoja se puede imprimir normalmente en cuatro páginas (dos a lo ancho y dos a lo largo), con una escala de 50% se puede imprimir en una página (ambas reducidas a la mitad en ancho y largo).
+* Ajustar intervalos de impresión en números de páginas—define exactamente cuántas paginas de impresión se pueden ocupar. Esta opción sólo puede reducir una impresión, no la agrandará. Para agrandar una impresión, se debe usar la opción ampliar/reducir.
+* Ajustar intervalos de impresión a lo alto/ancho—define el alto y ancho de la impresión, en páginas.

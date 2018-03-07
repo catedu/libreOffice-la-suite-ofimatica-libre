@@ -9,6 +9,8 @@ Para añadir una hoja de cálculo a una diapositiva, puede seleccionar **Insert
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_objeto_OLE_401.png)
 
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Insertar_objeto_OLE_402.png)
+
 Puede crearla de cero o elegir un archivo para insertarlo en la diapositiva.
 
 **Nota**: Si la inserta desde un archivo también puede enlazarlo o no. Si no lo enlaza, los cambios posteriores que realice en en el documento de hoja de cálculo no se actualizarán  en la diapositiva. Si lo enlaza sí que irán actualizándose.

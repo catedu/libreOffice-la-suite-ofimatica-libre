@@ -30,8 +30,6 @@ Para seleccionar una diapositiva maestra para modificarla:
 
 5. Guarde el documento antes de continuar.
 
-Haga los cambios necesarios y pulse el icono **cerrar vista de documento maestro.**
-
 **Precaución**: Los cambios que se hagan en una diapositiva maestra quedarán reflejados en *todas* las diapositivas que la usen. Asegúrese siempre de cerrar la vista maestra y volver a la vista normal antes de trabajar en cualquier diapositiva. Seleccione **Ver → Normal** en la barra de menú, o pulse en **Cerrar vista de documento maestro** en la barra de herramientas de vista maestra para volver a la vista normal.
 
 

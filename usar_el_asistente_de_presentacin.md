@@ -21,7 +21,7 @@ Al iniciarse Impress, aparecerá el Asistente de presentación.
 2. Pulse **Siguiente**. La siguiente imagen muestra el segundo paso del asistente de presentación, tal como aparece si seleccionas *presentación vacía* 
 en el paso previo. Si seleccionas *desde plantilla,* aparecerá una diapositiva de ejemplo en la caja de previsualización. Esta sección explica cómo crear una nueva presentación. Las propiedades seleccionadas aquí son generales, y se aplicarán a todas las diapositivas.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_383.png)</li>
+    ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_383.png)
 
 3. Elija un diseño en Elija un estilo de diapositiva. La sección de estilo de diapositiva ofrece dos opciones, fondos de presentación y presentaciones. Cada una tiene una lista de opciones para los diseños de diapositiva. Si se quiere utilizar una de éstas en vez de la original, pulse para seleccionarla.
 
@@ -31,7 +31,7 @@ en el paso previo. Si seleccionas *desde plantilla,* aparecerá una diapositiva 
 
 6. Pulse **Siguiente.** Aparecerá el tercer paso del asistente.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_384.png)
+    ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Asistente_de_presentaciones_384.png)
 
 7. Elija el efecto de transición deseado en el desplegable *Efecto*.
 

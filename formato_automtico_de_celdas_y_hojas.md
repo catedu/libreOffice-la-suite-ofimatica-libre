@@ -9,7 +9,7 @@ Puede usar la característica formato automático para aplicar un grupo de forma
 
     - **Nota** Si las celdas seleccionadas no tienen encabezado de fila y columna, Formateado automático no está disponible.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Formato_automatico_310.png)
+    ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Formato_automatico_310.png)
 
 3. Para seleccionar qué propiedades incluir (formato numérico, fuente, alineación, borde, modelo, ajustar ancho/alto) en un formato automático, seleccione las opciones deseadas en la sección Formato.
 4. Pulse **Aceptar**.

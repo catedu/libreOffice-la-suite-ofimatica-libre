@@ -14,11 +14,11 @@ Para dividir la pantalla horizontalmente:
 
 1. Mueva el ratón a la barra de desplazamiento vertical, en la parte derecha de la pantalla, y póngalo encima del botón pequeño que hay en la parte superior.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirv.jpg)
+    ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirv.jpg)
 
 2. Mueva el puntero del ratón a la línea gruesa y se transformará en una línea con dos flechas.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirv1.jpg)
+    ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirv1.jpg)
 
 3. Mantenga pulsado el ratón y una línea gris atravesará la página. Arrastre el ratón hacia abajo y para desplazar la línea.
 
@@ -33,7 +33,7 @@ Para dividir la pantalla verticalmente:
 
 1. Mueva el ratón a la barra de desplazamiento horizontal, en la parte inferior de la pantalla.
 
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirh.jpg)
+    ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Dividirh.jpg)
 
 2. Inmediatamente a la derecha hay una línea gruesa negra. Mueva el puntero del ratón sobre esta línea y éste cambiará a una línea con dos flechas.
 
