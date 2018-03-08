@@ -154,6 +154,7 @@
   * [Mensajes de error más habituales](mensajes_de_error_ms_habituales.md)
 
 <!--
+
 ## Primeros pasos con Base.
 
 * [¿Qué es Base?](index6.md)

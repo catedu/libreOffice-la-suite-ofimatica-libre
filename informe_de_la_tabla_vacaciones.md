@@ -3,25 +3,23 @@
 
 Para crear un informe nuevo:
 
-<li value="1">
-Pulse el** icono *Informes*** en la lista Base de datos en la ventana Automóvil – LibreOffice.
+
+1. Pulse el** icono *Informes*** en la lista Base de datos en la ventana Automóvil – LibreOffice.
 </li>
 <li>
 En la lista Tareas pulse **Usar el asistente para crear informe**. Se abre el Asistente para informes.
 </li>
 
-En la lista Tareas pulse **Usar el asistente para crear informe**. Se abre el Asistente para informes.
 
 ### **Paso 1: selección de campos**
 
-<li value="1">
-Seleccione *Tabla:Vacaciones* en la lista desplegable Tabla o consulta.
+
+1. Seleccione *Tabla:Vacaciones* en la lista desplegable Tabla o consulta.
 </li>
 <li>
 Utilice **&gt;** para mover estos campos desde la lista *Campos disponibles* a la lista *Campos del informe*: Fecha, Motel, Peajes, Misceláneos, Desayuno, Almuerzo, Cena y CosteTapas. Haga clic en **Siguiente**.
 </li>
 
-Utilice **&gt;** para mover estos campos desde la lista *Campos disponibles* a la lista *Campos del informe*: Fecha, Motel, Peajes, Misceláneos, Desayuno, Almuerzo, Cena y CosteTapas. Haga clic en **Siguiente**.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/fig62.png)
 ### **Paso 2: poner etiquetas a los campos**
@@ -43,18 +41,12 @@ Utilice las opciones predeterminadas para el diseño. Pulse **Siguiente**.
 
 ### **Paso 6: crear el informe**
 
-<li>
-Ponga el título del informe: Gastos vacaciones.
-</li>
-<li>
-Seleccione Informe estático.
-</li>
-<li>
-Haga clic en **Finalizar**.
-</li>
 
-Seleccione Informe estático.
-<td width="15%" bgcolor="#94bd5e">**Nota**</td><td width="85%" valign="top">Si se siente con espíritu aventurero, pruebe a seleccionar algún otro diseño. Después de seleccionar una opción, arrastre la ventana asistente para formularios para quitarla de en medio y poder ver lo que ha seleccionado. Para mover la ventana, ponga el cursor sobre la barra de título y arrástrela.</td>
+- Ponga el título del informe: Gastos vacaciones.
 
-Si se siente con espíritu aventurero, pruebe a seleccionar algún otro diseño. Después de seleccionar una opción, arrastre la ventana asistente para formularios para quitarla de en medio y poder ver lo que ha seleccionado. Para mover la ventana, ponga el cursor sobre la barra de título y arrástrela.
+- Seleccione Informe estático.
+
+- Haga clic en **Finalizar**.
+
+<td width="15%" bgcolor="#94bd5e"> <b>Nota: </b></td><td width="85%" valign="top">Si se siente con espíritu aventurero, pruebe a seleccionar algún otro diseño. Después de seleccionar una opción, arrastre la ventana asistente para formularios para quitarla de en medio y poder ver lo que ha seleccionado. Para mover la ventana, ponga el cursor sobre la barra de título y arrástrela.</td>
 

@@ -5,8 +5,7 @@ Hay disponible una extensión para ayudar en la creación de informes. [*BaseRep
 
 Para instalar esta extensión, siga estos pasos:
 
-<li>
-Seleccione **Herramientas → Administrador de extensiones** en la barra de menú. En el diálogo Administrador de extensiones, haga clic en **Descargar más extensiones aquí...**
+1. Seleccione **Herramientas → Administrador de extensiones** en la barra de menú. En el diálogo Administrador de extensiones, haga clic en **Descargar más extensiones aquí...**
 </li>
 <li>
 Se abrirá la página de extensiones de LibreOffice en su navegador. Busque y seleccione la extensión que desee y siga los pasos para instalarla. Durante la instalación se le preguntará si acepta el acuerdo de licencia.
@@ -14,8 +13,6 @@ Se abrirá la página de extensiones de LibreOffice en su navegador. Busque y se
 <li>
 Cuando la instalación se haya completado, la extensión se mostrará en la lista del diálogo Administrador de extensiones.
 </li>
-
-Se abrirá la página de extensiones de LibreOffice en su navegador. Busque y seleccione la extensión que desee y siga los pasos para instalarla. Durante la instalación se le preguntará si acepta el acuerdo de licencia.
 
 Para saber más acerca de las extensiones, vea el módulo 2.
 

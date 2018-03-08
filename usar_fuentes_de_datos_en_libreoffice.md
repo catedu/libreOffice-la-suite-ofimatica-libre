@@ -17,9 +17,11 @@ Algunas fuentes de datos pueden ser editadas en el diálogo Ver fuentes de datos
 Bajo los registros hay cinco botones pequeños. Los cuatro primeros se mueven hacia adelante o hacia atrás por los registros, o al principio y final de los mismos. El quinto botón, con una pequeña estrella, inserta un registro nuevo.
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig37.png)
+
 Para eliminar un registro, pulse con el botón derecho en la zona gris que hay a la izquierda de una fila para resaltarla y seleccione **Eliminar filas** para eliminar la fila seleccionada. 
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Fig38.png)
+
 ### Lanzar Base para trabajar en fuentes de datos
 
 Puede lanzar LibreOffice Base en cualquier momento desde el panel Fuente de datos. Simplemente haga clic con el botón secundario en una base de datos o en el icono de la tabla o consulta, y seleccione **Editar archivo de la base de datos**. Una vez esté en Base, puede modificar, añadir o eliminar tablas, consultas, formularios o informes.
@@ -27,5 +29,5 @@ Puede lanzar LibreOffice Base en cualquier momento desde el panel Fuente de dato
 ### Usar fuentes de datos en Writer y Calc
 
 Se pueden colocar los datos de las tablas en la ventana Fuentes de datos en documentos de Writer y Calc. En Writer se pueden insertar valores de campos individuales o se puede crear una tabla completa en el documento de Writer. Un modo común de usar una fuente de datos es combinar correspondencia.
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_330.png)
-![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_330.png)
+
+**Sugerencia:** Si se selecciona Herramientas → Asistente para combinar correspondencia o el icono Combinar correspondencia ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_330.png)en el panel Fuentes de datos, se inicia el Asistente para combinar correspondencia para guiarle paso a paso y crear un documento de correspondencia combinada.

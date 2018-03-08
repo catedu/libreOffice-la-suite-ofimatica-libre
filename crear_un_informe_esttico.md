@@ -19,9 +19,6 @@ Crearemos un informe de gastos de vacaciones. Es necesario **contestar algunas p
 ¿Se necesita algún cálculo en los datos antes de añadirlos al informe?
 </li>
 
-¿Cómo queremos ordenar la información?
-
-¿Es necesario crear una consulta porque estos campos están en tablas diferentes?
 
 Los gastos de nuestras vacaciones son motel, peajes, misceláneos, desayuno, almuerzo, cena, tapas y combustible. Un posible informe simplemente mostraría una lista con los **totales de cada uno de estos grupos de gastos**. Otro informe posible mostraría los **gastos totales para cada día de las vacaciones**. Un tercer informe mostraría los **totales para cada grupo de gastos por tipo de pago** (esto nos permitiría saber de dónde vino el dinero para pagar los gastos). **La mejor manera de crear informes como éstos es crear las consultas necesarias para obtener los datos que se requieren, insertar los datos en una hoja de cálculo y utilizar las funciones de Calc que se necesiten en estos datos.**
 
