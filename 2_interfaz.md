@@ -45,11 +45,11 @@ La Figura 2 muestra una barra de herramientas desprendible desde el menú de Dib
 
 Las barras de herramientas desprendibles pueden flotar o acoplarse sobre un borde de la pantalla o en una de las áreas de las barras existentes. Para mover un barra desprendible flotante, arrástrela desde el título. Vea “Mover barras de herramientas” más abajo.
 
-![](img/image07.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image07.png)
 
 Figura 2: Ejemplo de una barra de herramientas desprendible
 
-![](img/image10.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image10.png)
 
 #### Mover barras de herramientas
 
@@ -57,11 +57,11 @@ Para mover una barra acoplada, coloque el ratón sobre el controlador de la barr
 
 Para mover una barra flotante, haga clic sobre su título y arrástrela a la nueva posición (Figura 4).
 
-![](img/image09.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image09.png)
 
 Figura 3: Mover una barra acoplada
 
-![](img/image12.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image12.png)
 
 Figura 4: mover una barra de herramientas flotante
 
@@ -78,7 +78,7 @@ Las barras de herramientas y algunas ventanas, como por ejemplo la del Navegador
 
 Para desbloquear una ventana, mantenga pulsada la tecla Control y haga doble clic sobre el marco (o una parte vacía cerca de los iconos superiores) de la ventana fija.
 
-![](img/image11.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image11.png)
 
 #### Personalizar las barras de herramientas
 
@@ -92,7 +92,7 @@ Para acceder a las opciones de personalización de las barras de herramientas, u
 
 Para **mostrar u ocultar los iconos** definidos para una barra de herramientas seleccionada, clique sobre la barra con el botón derecho del ratón y elija Botones visibles en el menú desplegable. Los iconos visibles tienen un contorno sombreado alrededor. Seleccione o elimine la selección de los iconos que desee.
 
-![](img/image13.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image13.png)
 
     Figura 7: Selección de iconos visibles en la barra de herramientas
 
@@ -104,11 +104,11 @@ Puede acceder rápidamente a muchas funcionalidades del menú si hace clic con e
 
 La barra de estado está ubicada en la parte inferior del área de trabajo. Proporciona información acerca del documento y facilita la realización de cambios en algunas características. Es similar en Writer, Calc, Impress y Draw, aunque cada componente incluye elementos específicos.
 
-![](img/image17.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image17.png)
 
     Figura 8: Extremo izquierdo de la barra de estado de Writer
 
-![](img/image15.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image15.png)
 
     Figura 9: Extremo derecho de la barra de estado de Writer
 

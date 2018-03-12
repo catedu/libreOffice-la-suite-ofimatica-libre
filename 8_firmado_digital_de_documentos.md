@@ -1,6 +1,6 @@
 
 # 8. Firmado digital de documentos
-![](img/configuration.svg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/configuration.svg)
 
     Icono realizado por Prosymbols de www.flaticon.com
 

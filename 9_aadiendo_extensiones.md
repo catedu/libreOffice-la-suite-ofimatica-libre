@@ -25,7 +25,7 @@ Seleccione **Herramientas - Gestor de extensiones.** Presione clic en Añadir p
 
 Se abre un cuadro de diálogo de archivo en el que puede seleccionar las extensiones que desee agregar. Para copiar y registrar las extensiones seleccionadas, haga clic en Abrir.
 
-![](img/Gestor_de_extensiones_340.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Gestor_de_extensiones_340.png)
 
 Una extensión puede mostrar un diálogo de licencia. Lea la licencia. Presione el botón de desplazamiento para descender lo necesario. Haga clic en Aceptar para continuar la instalación de la extensión.
 
@@ -33,7 +33,7 @@ Una extensión puede mostrar un diálogo de licencia. Lea la licencia. Presione 
 
 Seleccione la extension que desee eliminar y haga clic en Eliminar.
 
-![](img/Gestor_de_extensiones_341.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Gestor_de_extensiones_341.png)
 
 ## Activar
 

@@ -5,7 +5,7 @@
 
 El Navegador muestra todos los objetos contenidos en un documento agrupados por categorías. Por ejemplo, en Writer muestra los Encabezados, Tablas, Marcas de texto, Notas, Gráficos, Marcadores y otros elementos (vea Figura 13).
 
-![](img/image22.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/image22.png)
 
     Figura 13: El Navegador
 

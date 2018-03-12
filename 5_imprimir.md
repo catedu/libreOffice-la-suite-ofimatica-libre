@@ -24,7 +24,7 @@ En el cuadro de diálogo *Imprimir* podrá elegir:
 
 - Qué elementos imprimir. Haga clic en la pestaña **Opciones** para mostrar el cuadro de diálogo de Opciones de impresión.
 
-![](img/asfd.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/asfd.png)
 
     Figura 1. El cuadro de diálogo Imprimir.
  

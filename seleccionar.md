@@ -35,7 +35,7 @@ Presione ***Esc*** (Escape) para salir del modo “Agregar”.
 
 ## Seleccionar un bloque vertical de texto
 
-Puede seleccionar un bloque vertical o “columna” de texto que esté separado por espacios o por la acción del tabulador (por ejemplo en el texto pegado de un correo, listas de programas o de otras fuentes de origen), haciendo clic de manera consecutiva en la barra de estado sobre la abreviatura de STD o el icono ![](img/Seleccion_254.png) y seleccionando la opción deseada, en este caso "... bloque".
+Puede seleccionar un bloque vertical o “columna” de texto que esté separado por espacios o por la acción del tabulador (por ejemplo en el texto pegado de un correo, listas de programas o de otras fuentes de origen), haciendo clic de manera consecutiva en la barra de estado sobre la abreviatura de STD o el icono ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_254.png) y seleccionando la opción deseada, en este caso "... bloque".
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/selecolum.png)
 

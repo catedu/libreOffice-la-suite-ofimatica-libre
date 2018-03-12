@@ -11,4 +11,4 @@ Si elegimos la opción de obtener más plantilla para LibreOffice, se abrirá la
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_225.png)
 
-![](img/Seleccion_224.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_224.png)

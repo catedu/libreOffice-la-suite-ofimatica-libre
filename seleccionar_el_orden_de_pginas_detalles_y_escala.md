@@ -16,7 +16,7 @@ Para seleccionar el orden de páginas, detalles, y escala para imprimir:
 Se puede establecer el orden en que se imprimen las páginas. Esto es especialmente útil en un documento largo; por ejemplo, controlar el orden de impresión puede ahorrar tiempo si desea compaginar el documento de cierta manera. Las opciones disponibles se muestran a continuación:
 
 De arriba hacia abajo, después hacia la derecha
-![](img/OrdenImpresion.png)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OrdenImpresion.png)
 
 De izquierda a derecha y hacia abajo 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/OrdenImpresion1.png)

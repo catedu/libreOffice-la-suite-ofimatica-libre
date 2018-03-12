@@ -5,4 +5,4 @@ Para establecer el ajuste al final de la celda, pulse con el botón derecho la c
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Formatoceldas.png)
 
-![](img/AjustedeLineaAutomatico.jpg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/AjustedeLineaAutomatico.jpg)

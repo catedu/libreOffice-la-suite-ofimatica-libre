@@ -1,7 +1,7 @@
 
 # Configurar tabulaciones y sangrías
 
-La regla horizontal muestra tanto las tabulaciones predeterminadas como las que haya definido. Los valores del tabulador afectan a la sangría de los párrafos completos (a través de los iconos de Reducir sangría ![](img/Seleccion_259.png) y Aumentar sangría ![](img/Seleccion_258.png) de la barra de herramientas de Formato) así como a la sangría de las partes de un párrafo (presionando la tecla Tabulador del teclado ).
+La regla horizontal muestra tanto las tabulaciones predeterminadas como las que haya definido. Los valores del tabulador afectan a la sangría de los párrafos completos (a través de los iconos de Reducir sangría ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_259.png) y Aumentar sangría ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_258.png) de la barra de herramientas de Formato) así como a la sangría de las partes de un párrafo (presionando la tecla Tabulador del teclado ).
 
 El uso del espaciado del tabulador predeterminado puede provocar problemas de formato si comparte documentos con otras personas. Si usa el espaciado del tabulador predeterminado y a continuación envía el documento a otra persona que haya elegido un espaciado predeterminado diferente, el material tabulado pasará a aplicar los valores establecidos por la otra persona, lo que puede causar graves problemas de formato. En lugar de utilizar los predeterminados, defina sus propios valores del tabulador, tal y como se describe en esta sección.
 
