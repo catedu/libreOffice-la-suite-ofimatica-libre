@@ -4,7 +4,7 @@
 ### Exportar
 
 
-![](img/pdf.svg)
+![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/pdf.svg)
 
 Icons made by Pixel Buddha from www.flaticon.com is licensed by CC 3.0 BY
 
