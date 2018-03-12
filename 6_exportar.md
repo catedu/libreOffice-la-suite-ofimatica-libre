@@ -14,7 +14,7 @@ El proceso y los cuadros de diálogo son los mismos para Writer, Calc, Impress, 
 
 #### Exportación rápida a PDF
 
-Haga clic en el icono Exportar Directamente como PDF ![](img/Seleccion_212.png) para exportar el documento entero usando sus opciones predeterminadas para PDF. Se le pedirá que ingrese un nombre de archivo y una ubicación para el archivo PDF, pero no podrá elegir un intervalo de páginas, la compresión de las imágenes u otras opciones. Puede ver más sobre el control del contenido y la calidad del PDF en la página 5 de [este documento](https://wiki.documentfoundation.org/images/5/5b/0110GS3-ImprimirExportarCorreo.pdf).
+Haga clic en el icono Exportar Directamente como PDF ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Seleccion_212.png) para exportar el documento entero usando sus opciones predeterminadas para PDF. Se le pedirá que ingrese un nombre de archivo y una ubicación para el archivo PDF, pero no podrá elegir un intervalo de páginas, la compresión de las imágenes u otras opciones. Puede ver más sobre el control del contenido y la calidad del PDF en la página 5 de [este documento](https://wiki.documentfoundation.org/images/5/5b/0110GS3-ImprimirExportarCorreo.pdf).
 
 
 #### Exportar a otros formatos
