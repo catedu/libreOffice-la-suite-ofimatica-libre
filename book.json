@@ -1,1 +1,22 @@
-{"plugins": ["youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/libreOffice-la-suite-ofimatica-libre/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "libreOffice-la-suite-ofimatica-libre"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/libreOffice-la-suite-ofimatica-libre/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "libreOffice-la-suite-ofimatica-libre"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
