@@ -10,5 +10,5 @@ Cabe destacar el visor de diseño en la parte inferior derecha de la pantalla. 
 
 ![](https://raw.githubusercontent.com/catedu/libreOffice-la-suite-ofimatica-libre/master/img/Visualizador_de_diseno.png)
 
-Para desplazarse rápidamente por su documento consulte la [sección dedicada en módulos anteriores al Navegador](https://catedu.gitbooks.io/libreoffice-la-suite-ofimatica-libre/content/4_el_navegador.html).
+Para desplazarse rápidamente por su documento consulte la [sección dedicada en módulos anteriores al Navegador](https://catedu.github.io/libreOffice-la-suite-ofimatica-libre/4_el_navegador.html).
 
